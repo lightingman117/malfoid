@@ -1,146 +1,145 @@
 # Authors
 
-Status: complete = author has finished / moved on, in-progress = still making it.
-Location: YT = still on YouTube, Archive = on archive.org, Mine = in this archive, Site = creator's website.
+Name | Channel | Where
 
-Name | Channel | Status | Location
+Mine = in this archive.
 
 ## Series
 
-- AAAAAIGC | https://www.youtube.com/channel/UCLozNYtPze8KdchwQ0Pseew | in-progress | YT, Archive
-- ADayASMR | https://www.youtube.com/channel/UCKu8wQsoGnnX0Xz26A487wg | complete | YT, Archive, Mine
-- AIMalfoyFemale | https://www.youtube.com/@AIMalfoyFemale | in-progress | YT, Archive, Mine
-- AlxAIProductions | https://www.youtube.com/@AlxAIProductions | in-progress | YT, Mine
-- Anigirls Archive | https://www.youtube.com/channel/UCCuChq0mU8t-Yq3K88671QQ | in-progress | YT, Archive
-- Anime Collide | https://www.youtube.com/channel/UChlKnJ__UVIj_nr5t3vyewQ | in-progress | YT
-- Anime Flow | https://www.youtube.com/channel/UCJM8TtfYHC88K16G36NLiwg | in-progress | YT
-- Anime Sunbae | https://www.youtube.com/channel/UC5b9v2Af8UzMNEZGuvf61mg | in-progress | YT, Archive
-- BayMax | https://www.youtube.com/channel/UC5LWZtxmjiWiUd4x2ttYOMw | in-progress | YT, Archive
-- BeyondHogwartsAI1 | https://www.youtube.com/@BeyondHogwartsAI1 | in-progress | YT, Mine
-- Cosmic Wand | https://www.youtube.com/channel/UCQib6q4YyhZN9JYPobPvcDA | in-progress | YT, Archive
-- Dean_xx17 | https://www.youtube.com/@Dean_xx17 | in-progress | YT, Mine
-- demonflyingfox | https://www.youtube.com/channel/UCvdUBO1nKje-SqOqBQm1Rmw | in-progress | YT, Archive
-- Draco Female Adventures | https://www.youtube.com/@belcourtsisters | in-progress | YT, Archive, Mine
-- DraconiaMalfoid | https://www.youtube.com/@DraconiaMalfoid | in-progress | YT, Archive, Mine
-- emmastudio99 | https://www.youtube.com/@emmastudio99 | in-progress | YT, Mine
-- Fantasoner | https://www.youtube.com/@Fantasoner | in-progress | YT, Mine
-- fenicia moore | https://www.youtube.com/channel/UC5Sm_N_PP0ePJ8PY-LvIdyw | in-progress | YT, Archive
-- Fo_yege1664 | https://www.youtube.com/@Fo_yege1664 | in-progress | YT, Mine
-- fragmentum | https://www.youtube.com/channel/UCscoeq4ZIVjS7IWr53dCY5A | in-progress | YT, Archive
-- gakdrama | https://www.youtube.com/@gakdrama | in-progress | YT
-- galakushi | https://www.youtube.com/@galakushi | in-progress | Mine (reupload)
-- gasia112 | https://www.youtube.com/@gasia112 | in-progress | YT, Archive, Mine
-- gugolfaistudio | https://www.youtube.com/@gugolfaistudio | in-progress | YT
-- hasancreatives7 | https://www.youtube.com/@hasancreatives7 | in-progress | YT, Archive
-- he0244 | https://www.youtube.com/@he0244 | in-progress | YT, Mine
-- Himura (channel) | https://www.youtube.com/channel/UC5H-oLd6EW61mNughOjArxg | in-progress | YT
-- Hyper Morph | https://www.youtube.com/channel/UCF0ElzqYGZ4x-R2QLxqSEog | in-progress | YT, Archive
-- InnovationSpark | https://www.youtube.com/channel/UCuqvl1rj1CC_o8ZgUxBwcQg | in-progress | YT
-- inspo_live | https://www.youtube.com/@inspo_live | in-progress | YT, Archive
-- j.a.vazquez5946 (Historias Impact) | https://www.youtube.com/@j.a.vazquez5946 | in-progress | YT, Mine, Archive
-- Joshua Frostrunner | https://www.youtube.com/channel/UCEvoJEv7VDmzcOp0fy-1Awg | in-progress | YT
-- leonaivisual | https://www.youtube.com/channel/UC_EBdcVHzFpJVfhv7TxlepQ | in-progress | YT
-- LouieVerseCinematics | https://www.youtube.com/@LouieVerseCinematics | in-progress | YT, Archive, Mine
-- LunaLovelaceTech | https://www.youtube.com/@LunaLovelaceTech | in-progress | YT, Archive, Mine
-- maelle_gold (reuploads) | https://www.youtube.com/@maelle_gold | in-progress | YT, Mine
-- MalfoidSoftware | https://www.youtube.com/@MalfoidSoftware | in-progress | YT, Archive, Mine
-- MoochiForge | https://www.youtube.com/@MoochiForge | in-progress | YT, Mine
-- MYSTAVELLE | https://www.youtube.com/@MYSTAVELLE | in-progress | YT, Mine
-- MythicShift | https://www.youtube.com/channel/UCHAshK20rF8QUqQJzawOnLw | in-progress | YT, Archive
-- Nandanomics | https://www.youtube.com/channel/UCZQHYfdo-jGM1un293kyi4A | in-progress | YT
-- Nextrealmstudio | https://www.youtube.com/@Nextrealmstudio | in-progress | YT, Archive, Mine, Site
-- Nielio | https://www.youtube.com/channel/UCe-C_Fgps0pERHb8GDZ1baQ | in-progress | YT, Archive
-- NovaFrame-z2t | https://www.youtube.com/@NovaFrame-z2t | in-progress | YT, Archive, Mine
-- Noya 諾雅 | https://www.youtube.com/channel/UCs8p4ycR9rzCAjtgJOaep7Q | in-progress | YT
-- orangehoodieguy | https://www.youtube.com/@orangehoodieguy | in-progress | YT
-- OtakuAI2345 | https://www.youtube.com/@OtakuAI2345 | in-progress | YT, Mine
-- PsyernProdigi | https://www.youtube.com/@PsyernProdigi | in-progress | YT, Archive, Mine
-- Renzo Kuma | https://www.youtube.com/channel/UCp3BxL4y6oeagVG5cxjCUTA | in-progress | YT
-- Salty Studios | https://www.youtube.com/channel/UCBjzZano01wW-yq7WpvuQqw | in-progress | YT
-- SkeletorTclaws | https://www.youtube.com/@SkeletorTclaws | in-progress | YT, Archive
-- Skyron_AI | https://www.youtube.com/channel/UC0wHq5m55sXLF50zrDUIBsg | in-progress | YT
-- Space Cafe | https://www.youtube.com/channel/UCuVVb4_RfbyJ0FXnLrO5yqg | in-progress | YT
-- Spellora_ai | https://www.youtube.com/@Spellora_ai | in-progress | YT, Archive, Mine
-- super river | https://www.youtube.com/channel/UCXKsjgLFr-bO3-Q9m7RLZWA | in-progress | YT
-- The Other Door | https://www.youtube.com/channel/UCq3m-YVX7oBNtHSHkH30UZQ | in-progress | YT
-- themalfoyversey | https://www.youtube.com/@themalfoyversey | in-progress | YT, Archive
-- throngTV | https://www.youtube.com/@throngTV | in-progress | YT, Mine
-- TomW | https://www.youtube.com/channel/UCVZ10TbaQiq0CYK02Pe5QfQ | in-progress | YT, Archive
-- WiseSerpentGentleDove | https://www.youtube.com/channel/UCNuDEFFsd6bIO_eppzQHoqg | in-progress | YT, Archive
-- WispAIGC | https://www.youtube.com/@WispAIGC | in-progress | YT, Mine
-- Wrong_Cast_Official | https://www.youtube.com/channel/UC_flY5mtoE90DDnmek3lIGA | in-progress | YT, Archive
-- 몽즈 | https://www.youtube.com/channel/UCrr-KMpqglXn55s6dRLCRFA | in-progress | YT
+- AAAAAIGC | @AAAAAIGC | [YouTube](https://www.youtube.com/@AAAAAIGC), [Archive](https://archive.org/search?query=creator%3A%22AAAAAIGC%22)
+- AI Malfoy Female | @AIMalfoyFemale | [YouTube](https://www.youtube.com/@AIMalfoyFemale), [Archive](https://archive.org/search?query=creator%3A%22AI%20Malfoy%20Female%22), Mine
+- ALX AI Productions | @AlxAIProductions | [YouTube](https://www.youtube.com/@AlxAIProductions), Mine
+- Anigirls Archive | @anigirl.archive | [YouTube](https://www.youtube.com/@anigirl.archive), [Archive](https://archive.org/search?query=creator%3A%22Anigirls%20Archive%22)
+- Anime Collide | @AnimeCollide | [YouTube](https://www.youtube.com/@AnimeCollide)
+- Anime Flow | @anime_flow_1057 | [YouTube](https://www.youtube.com/@anime_flow_1057)
+- Anime Sunbae | @animesiasunbae | [YouTube](https://www.youtube.com/@animesiasunbae), [Archive](https://archive.org/search?query=creator%3A%22Anime%20Sunbae%22)
+- BayMax (●—●) | @superdragonball | [YouTube](https://www.youtube.com/@superdragonball), [Archive](https://archive.org/search?query=creator%3A%22BayMax%20%28%E2%97%8F%E2%80%94%E2%97%8F%29%22)
+- Beyond Hogwarts | @BeyondHogwartsAI1 | [YouTube](https://www.youtube.com/@BeyondHogwartsAI1), Mine
+- Cosmic Wand | @CosmicwandHarryFiction | [YouTube](https://www.youtube.com/@CosmicwandHarryFiction), [Archive](https://archive.org/search?query=creator%3A%22Cosmic%20Wand%22)
+- Dean_xx | @Dean_xx17 | [YouTube](https://www.youtube.com/@Dean_xx17), Mine
+- demonflyingfox | @demonflyingfox | [YouTube](https://www.youtube.com/@demonflyingfox), [Archive](https://archive.org/search?query=creator%3A%22demonflyingfox%22)
+- Draco Female Adventures | @BelcourtSisters | [YouTube](https://www.youtube.com/@BelcourtSisters), [Archive](https://archive.org/search?query=creator%3A%22Draco%20Female%20Adventures%22), Mine
+- Draconia Malfoid | @DraconiaMalfoid | [YouTube](https://www.youtube.com/@DraconiaMalfoid), [Archive](https://archive.org/search?query=creator%3A%22Draconia%20Malfoid%22), Mine
+- emma_studio99 | @emmastudio99 | [YouTube](https://www.youtube.com/@emmastudio99), Mine
+- Fantasoner | @Fantasoner | [YouTube](https://www.youtube.com/@Fantasoner), Mine
+- fenicia moore | @feniciamoore | [YouTube](https://www.youtube.com/@feniciamoore), [Archive](https://archive.org/search?query=creator%3A%22fenicia%20moore%22)
+- Foyege | @Fo_yege1664 | [YouTube](https://www.youtube.com/@Fo_yege1664), Mine
+- fragmentum | @fragmentum1709 | [YouTube](https://www.youtube.com/@fragmentum1709), [Archive](https://archive.org/search?query=creator%3A%22fragmentum%22)
+- Galakushi | - | Mine (reupload), [Archive](https://archive.org/search?query=creator%3A%22Galakushi%22)
+- Gasia | @gasia112 | [YouTube](https://www.youtube.com/@gasia112), [Archive](https://archive.org/search?query=creator%3A%22Gasia%22), Mine
+- gugolfaistudio | @gugolfaistudio | [YouTube](https://www.youtube.com/@gugolfaistudio)
+- Hasan Creatives | @hasancreatives7 | [YouTube](https://www.youtube.com/@hasancreatives7), [Archive](https://archive.org/search?query=creator%3A%22Hasan%20Creatives%22)
+- Himura509AI | @Himura509 | [YouTube](https://www.youtube.com/@Himura509)
+- Historias Impact | @j.a.vazquez5946 | [YouTube](https://www.youtube.com/@j.a.vazquez5946), [Archive](https://archive.org/search?query=creator%3A%22J.A.%20V%C3%A1zquez%22), [X](https://x.com/AzratemES), Mine
+- Hyper Morph | @HyperMorph-v1 | [YouTube](https://www.youtube.com/@HyperMorph-v1), [Archive](https://archive.org/search?query=creator%3A%22Hyper%20Morph%22)
+- InnovationSpark | @InnovationSpark31702 | [YouTube](https://www.youtube.com/@InnovationSpark31702)
+- Inspo | @inspo_live | [YouTube](https://www.youtube.com/@inspo_live), [Archive](https://archive.org/search?query=creator%3A%22Inspo%22)
+- Joshua Frostrunner | @JoshuaFrostrunner | [YouTube](https://www.youtube.com/@JoshuaFrostrunner)
+- leonaivisual | @leonaivisual | [YouTube](https://www.youtube.com/@leonaivisual)
+- LouieVerse | @LouieVerseCinematics | [YouTube](https://www.youtube.com/@LouieVerseCinematics), [Archive](https://archive.org/search?query=creator%3A%22LouieVerse%22), Mine
+- Lumos Lumos (complete) | @ADayASMR | [YouTube](https://www.youtube.com/@ADayASMR), [Archive](https://archive.org/search?query=creator%3A%22ADayASMR%22), Mine
+- Luna Lovelace | @LunaLovelaceTech | [YouTube](https://www.youtube.com/@LunaLovelaceTech), [Archive](https://archive.org/search?query=creator%3A%22Luna%20Lovelace%22), Mine
+- Maelle_Gold6267 | @maelle_gold | [YouTube](https://www.youtube.com/@maelle_gold), Mine
+- Malfoid Software | @MalfoidSoftware | [YouTube](https://www.youtube.com/@MalfoidSoftware), [Archive](https://archive.org/search?query=creator%3A%22Malfoid%20Software%22), Mine
+- MoochiForge | @MoochiForge | [YouTube](https://www.youtube.com/@MoochiForge), Mine
+- MYSTAVELLE | @MYSTAVELLE | [YouTube](https://www.youtube.com/@MYSTAVELLE), Mine
+- MythicShift | @MythicShiftMusic | [YouTube](https://www.youtube.com/@MythicShiftMusic), [Archive](https://archive.org/search?query=creator%3A%22MythicShift%22)
+- Nandanomics | @nandanomics | [YouTube](https://www.youtube.com/@nandanomics)
+- Next Realm Studios | @Nextrealmstudio | [YouTube](https://www.youtube.com/@Nextrealmstudio), [Archive](https://archive.org/search?query=creator%3A%22Next%20Realm%20Studios%22), [Site](https://draconiamalfoid.com/), Mine
+- Nielio | @Nielio | [YouTube](https://www.youtube.com/@Nielio), [Archive](https://archive.org/search?query=creator%3A%22Nielio%22)
+- NovaFrame | @NovaFrame-z2t | [YouTube](https://www.youtube.com/@NovaFrame-z2t), [Archive](https://archive.org/search?query=creator%3A%22NovaFrame%22), Mine
+- Noya 諾雅 | @noyachecy | [YouTube](https://www.youtube.com/@noyachecy)
+- Orange Hoodie Guy | @orangehoodieguy | [YouTube](https://www.youtube.com/@orangehoodieguy)
+- OtakuAI Studio | @OtakuAI2345 | [YouTube](https://www.youtube.com/@OtakuAI2345), Mine
+- Psyern | @PsyernProdigi | [YouTube](https://www.youtube.com/@PsyernProdigi), [Archive](https://archive.org/search?query=creator%3A%22Psyern%22), Mine
+- Renzo Kuma | @renzoqwerty | [YouTube](https://www.youtube.com/@renzoqwerty)
+- Salty Studios | @SaltyStudioAnime | [YouTube](https://www.youtube.com/@SaltyStudioAnime)
+- Skeletor | @SkeletorTclaws | [YouTube](https://www.youtube.com/@SkeletorTclaws), [Archive](https://archive.org/search?query=creator%3A%22Skeletor%22)
+- Skyron_AI | @skyron9-ai | [YouTube](https://www.youtube.com/@skyron9-ai)
+- Space Cafe' | @SpaceCafe-42 | [YouTube](https://www.youtube.com/@SpaceCafe-42)
+- Spellora | @Spellora_ai | [YouTube](https://www.youtube.com/@Spellora_ai), [Archive](https://archive.org/search?query=creator%3A%22Spellora%22), Mine
+- super river | @superriver-d4b | [YouTube](https://www.youtube.com/@superriver-d4b)
+- The Malfoyverse | @themalfoyversey | [YouTube](https://www.youtube.com/@themalfoyversey), [Archive](https://archive.org/search?query=creator%3A%22The%20Malfoyverse%22)
+- The Other Door | @Theotherdoor6 | [YouTube](https://www.youtube.com/@Theotherdoor6)
+- ThRong | @throngTV | [YouTube](https://www.youtube.com/@throngTV), Mine
+- TomW | @Tomw0852 | [YouTube](https://www.youtube.com/@Tomw0852), [Archive](https://archive.org/search?query=creator%3A%22TomW%22)
+- WiseSerpentGentleDove | @WiseSD | [YouTube](https://www.youtube.com/@WiseSD), [Archive](https://archive.org/search?query=creator%3A%22WiseSerpentGentleDove%22)
+- WispAIGC | @WispAIGC | [YouTube](https://www.youtube.com/@WispAIGC), Mine
+- WRONG CAST | @Wrong_Cast_Official | [YouTube](https://www.youtube.com/@Wrong_Cast_Official), [Archive](https://archive.org/search?query=creator%3A%22WRONG%20CAST%22)
+- 穿衣有型 | @he0244 | [YouTube](https://www.youtube.com/@he0244), Mine
+- 각드 | @gakdrama | [YouTube](https://www.youtube.com/@gakdrama)
+- 몽즈 | @몽즈-n2e | [YouTube](https://www.youtube.com/@몽즈-n2e)
 
 ## Stories
 
-- Atraidez Data Center | https://www.youtube.com/channel/UC6cJ1NQ_CiLBNGtqdTL3ddA | in-progress | YT, Archive
-- BanZI29 | https://www.youtube.com/channel/UCUD7IUyfOcy7ZPxnXzqPZjg | in-progress | YT
-- DeadSpell | https://www.youtube.com/channel/UCspo3v5G5h5Ckltj55euk0Q | in-progress | YT, Archive
-- draconiamalfoyfanfics | https://www.youtube.com/@draconiamalfoyfanfics | in-progress | YT
-- HogwartsHistorianYT | https://www.youtube.com/@HogwartsHistorianYT | in-progress | YT
-- Imperator Drakonov | https://www.youtube.com/channel/UCTjXM4eb8D_Pwgq4OOHBDUw | in-progress | YT, Archive
-- kkuljaem_lab | https://www.youtube.com/@kkuljaem_lab | in-progress | YT, Archive
-- Malfoystories | https://www.youtube.com/@Malfoystories | in-progress | YT
-- Moonquill Theater | https://www.youtube.com/channel/UCosm0hMJ7ag_pndN27J6HMQ | in-progress | YT
-- Nova AI Storyverse | https://www.youtube.com/channel/UCsdQNPwjeb5XD8QDbNbEjsA | in-progress | YT, Archive
-- Plot_Potter | https://www.youtube.com/channel/UCwzl7P4sRkwybvdXEI9BlVQ | in-progress | YT
-- PotterFract | https://www.youtube.com/channel/UCWFcI27p7vvT_zzRYyhtxyQ | in-progress | YT
-- Potterium | https://www.youtube.com/@Potterium | in-progress | YT, Archive
-- Sweet Yeetus | https://www.youtube.com/channel/UC2aYiAMMyOItoljUdai8cMQ | in-progress | YT
+- Atraidez Data Center | @AtraidezDataCentre | [YouTube](https://www.youtube.com/@AtraidezDataCentre), [Archive](https://archive.org/search?query=creator%3A%22Atraidez%20Data%20Center%22)
+- BanZI29 | @BanZI29-Mikufan | [YouTube](https://www.youtube.com/@BanZI29-Mikufan)
+- DeadSpell | @DeadSpella | [YouTube](https://www.youtube.com/@DeadSpella), [Archive](https://archive.org/search?query=creator%3A%22DeadSpell%22)
+- Draconia Malfoy Fanfics | @draconiamalfoyfanfics | [YouTube](https://www.youtube.com/@draconiamalfoyfanfics)
+- Hogwarts Historian | @HogwartsHistorianYT | [YouTube](https://www.youtube.com/@HogwartsHistorianYT)
+- Imperator Drakonov | @ImperatorDrakonov | [YouTube](https://www.youtube.com/@ImperatorDrakonov), [Archive](https://archive.org/search?query=creator%3A%22Imperator%20Drakonov%22)
+- Kkuljaem Lab | @kkuljaem_lab | [YouTube](https://www.youtube.com/@kkuljaem_lab), [Archive](https://archive.org/search?query=creator%3A%22Kkuljaem%20Lab%22)
+- Malfoy stories | @Malfoystories | [YouTube](https://www.youtube.com/@Malfoystories)
+- Moonquill Theater | @MoonquillTheater | [YouTube](https://www.youtube.com/@MoonquillTheater)
+- Nova AI Storyverse | @NovaAIStoryverse | [YouTube](https://www.youtube.com/@NovaAIStoryverse), [Archive](https://archive.org/search?query=creator%3A%22Nova%20AI%20Storyverse%22)
+- Plot Potter | @Plot_Potter | [YouTube](https://www.youtube.com/@Plot_Potter)
+- PotterFract | @PotterFract | [YouTube](https://www.youtube.com/@PotterFract)
+- Potterium | @Potterium | [YouTube](https://www.youtube.com/@Potterium), [Archive](https://archive.org/search?query=creator%3A%22Potterium%22)
+- Sweet Yeetus | @sweetyeetus4 | [YouTube](https://www.youtube.com/@sweetyeetus4)
 
 ## Shorts
 
-- 616Studioph | https://www.youtube.com/@616Studioph | in-progress | YT, Archive, Mine
-- A-IllusionCreative | https://www.youtube.com/@A-IllusionCreative | in-progress | YT, Archive, Mine
-- ai_clips_uni | https://www.youtube.com/@ai_clips_uni | in-progress | YT, Mine
-- brooklynge0214 | https://www.youtube.com/@brooklynge0214 | in-progress | YT, Mine
-- DracaenaMalfoid | https://www.youtube.com/@DracaenaMalfoid | in-progress | YT, Archive, Mine
-- EnchantedWhatIfs | https://www.youtube.com/@EnchantedWhatIfs | in-progress | YT, Archive, Mine
-- Goldteiger2000 | https://www.youtube.com/@Goldteiger2000 | in-progress | YT, Archive, Mine
-- hogwashexpress | https://www.youtube.com/@hogwashexpress | in-progress | YT, Mine
-- HPAcademy1 | https://www.youtube.com/@HPAcademy1 | in-progress | YT, Mine
-- keepdoingthebit | https://www.youtube.com/@keepdoingthebit | in-progress | YT, Mine
-- Ken (ken31331) | https://www.youtube.com/@ken31331 | in-progress | YT, Mine
-- LoreMatika | https://www.youtube.com/@LoreMatika | in-progress | YT, Mine
-- MadMax000 | https://www.youtube.com/@MadMax000 | in-progress | YT, Archive, Mine
-- ResonancIAMusic | https://www.youtube.com/@ResonancIAMusic | in-progress | YT, Archive, Mine
-- schmede_AI | https://www.youtube.com/@schmede_AI | in-progress | YT, Archive, Mine
-- tamaraluciaclips | https://www.youtube.com/@tamaraluciaclips | in-progress | YT, Mine
-- tooneryt | https://www.youtube.com/@tooneryt | in-progress | YT, Archive, Mine
-- XCaliber00 | https://www.youtube.com/@XCaliber00 | in-progress | YT, Archive, Mine
+- 616 STUDIO | @616Studioph | [YouTube](https://www.youtube.com/@616Studioph), [Archive](https://archive.org/search?query=creator%3A%22616%20STUDIO%22), Mine
+- A-Illusion Creative | @A-IllusionCreative | [YouTube](https://www.youtube.com/@A-IllusionCreative), [Archive](https://archive.org/search?query=creator%3A%22A-Illusion%20Creative%22), Mine
+- ai_clips_uni | @ai_clips_uni | [YouTube](https://www.youtube.com/@ai_clips_uni), Mine
+- Brooklyn - Draconia Fanmade POVs | @brooklynge0214 | [YouTube](https://www.youtube.com/@brooklynge0214), [Archive](https://archive.org/search?query=creator%3A%22Brooklyn%20%7C%20Draconia%20Fanmade%20POVs%22), Mine
+- Dracaena Malfoid | @DracaenaMalfoid | [YouTube](https://www.youtube.com/@DracaenaMalfoid), [Archive](https://archive.org/search?query=creator%3A%22Dracaena%20Malfoid%22), Mine
+- Draconia Malfoy | @hogwashexpress | [YouTube](https://www.youtube.com/@hogwashexpress), Mine
+- Enchanted What Ifs | @EnchantedWhatIfs | [YouTube](https://www.youtube.com/@EnchantedWhatIfs), [Archive](https://archive.org/search?query=creator%3A%22Enchanted%20What%20Ifs%22), Mine
+- Goldteiger2000 | @Goldteiger2000 | [YouTube](https://www.youtube.com/@Goldteiger2000), [Archive](https://archive.org/search?query=creator%3A%22Goldteiger2000%22), Mine
+- Harry Potter Academy | @HPAcademy1 | [YouTube](https://www.youtube.com/@HPAcademy1), [Archive](https://archive.org/search?query=creator%3A%22Harry%20Potter%20Academy%22), Mine
+- Keep Doing The Bit | @keepdoingthebit | [YouTube](https://www.youtube.com/@keepdoingthebit), Mine
+- Ken | @ken31331 | [YouTube](https://www.youtube.com/@ken31331), Mine
+- LOREMATIKA | @LoreMatika | [YouTube](https://www.youtube.com/@LoreMatika), Mine
+- MadMax | @MadMax000 | [YouTube](https://www.youtube.com/@MadMax000), [Archive](https://archive.org/search?query=creator%3A%22MadMax%22), Mine
+- ResonancIA Music | @ResonancIAMusic | [YouTube](https://www.youtube.com/@ResonancIAMusic), [Archive](https://archive.org/search?query=creator%3A%22ResonancIA%20Music%22), Mine
+- schmede_AI | @schmede_AI | [YouTube](https://www.youtube.com/@schmede_AI), [Archive](https://archive.org/search?query=creator%3A%22schmede_AI%22), Mine
+- tamara lucia clips | @tamaraluciaclips | [YouTube](https://www.youtube.com/@tamaraluciaclips), Mine
+- TOONER | @tooneryt | [YouTube](https://www.youtube.com/@tooneryt), [Archive](https://archive.org/search?query=creator%3A%22TOONER%22), Mine
+- XCaliber | @XCaliber00 | [YouTube](https://www.youtube.com/@XCaliber00), [Archive](https://archive.org/search?query=creator%3A%22XCaliber%22), Mine
 
 ## Music
 
-- Aiden Guo | https://www.youtube.com/channel/UCa-J8epnYxWwpQQK3lSYtAA | in-progress | YT, Archive
-- Based Camp Music | https://www.youtube.com/channel/UCT-3S-iZdSZZMD-tH2hYxEA | in-progress | YT
-- Batoodlin | https://www.youtube.com/channel/UChEPsaS7dyUI6c0Hy_UcPVA | in-progress | YT
-- E-Va | https://www.youtube.com/channel/UClpMs8fR4KDQN5ydjPaPvyQ | in-progress | YT
-- Josh Snider | https://www.youtube.com/channel/UCkOAlfZyqy4-n8vB2syWk2g | in-progress | YT
-- KNIGHTS WATCH | https://www.youtube.com/channel/UCubCObW93mbrIFoxwNamFFw | in-progress | YT
-- Loudness | https://www.youtube.com/channel/UCVYQFxg0gAlM8xnUPv5H2iw | in-progress | YT, Archive
-- MusicYav | https://www.youtube.com/@MusicYav/videos | in-progress | YT, Mine
-- MythicTune | https://www.youtube.com/channel/UCUxbZd2eD3hKFTDZFtWBogw | in-progress | YT, Archive
-- NeonViozen | https://www.youtube.com/channel/UC1uUDuDmxx9oOMaCUOvH9VA | in-progress | YT
-- OathLight Studios | https://www.youtube.com/channel/UC4OOnq8lAOWXA3VjZMpAUHw | in-progress | YT, Archive
-- Play Astronomical | https://www.youtube.com/channel/UCWSDiY7_jbj2wH4DqqqG8tg | in-progress | YT, Archive
-- Resonance Of Valhalla | https://www.youtube.com/channel/UCDYmXj7LWPLZz-L2S4IdJ_Q | in-progress | YT
-- Richard Darlington | https://www.youtube.com/channel/UCWTB7TegFUdCOMdAjMXP65w | in-progress | YT, Archive
-- ShadowEyeMusic | https://www.youtube.com/channel/UC-SfY04qCP0bR17ZL1gkBnQ | in-progress | YT
-- SimplyJohn | https://www.youtube.com/channel/UClEfNlh6uQ-R3lgj4K44zEQ | in-progress | YT
-- Skyebrows | https://www.youtube.com/channel/UCOmUKsehtfKMr-A1ki-3JzQ | in-progress | YT
-- The Dragon Roar | https://www.youtube.com/channel/UCCf7yeL7eaE7exfpIvGi3ZQ | in-progress | YT
-- WickedAI | https://www.youtube.com/channel/UCpIAEw7BHxKoXczhL--km7w | in-progress | YT
-- zandran2 | https://www.youtube.com/@zandran2 | in-progress | YT, Mine
-- 성하늘 | https://www.youtube.com/channel/UCqEZYQytUso2NxPh30lCkxQ | in-progress | YT
+- Aiden Guo | @sishenfan | [YouTube](https://www.youtube.com/@sishenfan), [Archive](https://archive.org/search?query=creator%3A%22Aiden%20Guo%22)
+- Based Camp Music | @BasedCampMusic | [YouTube](https://www.youtube.com/@BasedCampMusic)
+- Batoodlin | @Batoodlin | [YouTube](https://www.youtube.com/@Batoodlin)
+- E-Va | @E-Va-ai | [YouTube](https://www.youtube.com/@E-Va-ai)
+- Josh Snider | @joshuasnidercom | [YouTube](https://www.youtube.com/@joshuasnidercom)
+- KNIGHTS WATCH | @KNIGHTSWATCH | [YouTube](https://www.youtube.com/@KNIGHTSWATCH)
+- Loudness | @l0udness | [YouTube](https://www.youtube.com/@l0udness), [Archive](https://archive.org/search?query=creator%3A%22Loudness%22)
+- MythicTune | @MythicTune | [YouTube](https://www.youtube.com/@MythicTune), [Archive](https://archive.org/search?query=creator%3A%22MythicTune%22)
+- NeonViozen | @NeonViozen | [YouTube](https://www.youtube.com/@NeonViozen)
+- OathLight Studios | @oathlightstudios | [YouTube](https://www.youtube.com/@oathlightstudios), [Archive](https://archive.org/search?query=creator%3A%22OathLight%20Studios%22)
+- Play Astronomical | @playastronomical | [YouTube](https://www.youtube.com/@playastronomical), [Archive](https://archive.org/search?query=creator%3A%22Play%20Astronomical%22)
+- Resonance Of Valhalla | @ResonanceOfValhalla | [YouTube](https://www.youtube.com/@ResonanceOfValhalla)
+- Richard Darlington | @RichardDarlington-b5u | [YouTube](https://www.youtube.com/@RichardDarlington-b5u), [Archive](https://archive.org/search?query=creator%3A%22Richard%20Darlington%22)
+- ShadowEyeMusic | @ShadowEyeMusic | [YouTube](https://www.youtube.com/@ShadowEyeMusic)
+- SimplyJohn | @SimplyJohn101 | [YouTube](https://www.youtube.com/@SimplyJohn101)
+- Skyebrows | @skyebrows | [YouTube](https://www.youtube.com/@skyebrows)
+- sono sora | @성하늘-j4c | [YouTube](https://www.youtube.com/@성하늘-j4c)
+- The Dragon Roar | @TheDragonRoar | [YouTube](https://www.youtube.com/@TheDragonRoar)
+- WickedAI | @WickedAI | [YouTube](https://www.youtube.com/@WickedAI)
+- YAV & YOV | @MusicYav | [YouTube](https://www.youtube.com/@MusicYav), [Archive](https://archive.org/search?query=creator%3A%22YAV%20%26%20YOV%22), Mine
+- Zandran | @zandran2 | [YouTube](https://www.youtube.com/@zandran2), Mine
 
 ## Playlists (mixed authors)
 
-- Malfoid-Series | https://www.youtube.com/playlist?list=PLKTNcfG1frgc | - | YT, Mine
-- Malfoid-Music | https://www.youtube.com/playlist?list=PLYxyTPd_Ifpg | - | YT, Mine
-- Malfoid-Stories | https://www.youtube.com/playlist?list=PLe3EM3Fc0YPw | - | YT, Mine
-- Malfoid Main Story | https://www.youtube.com/playlist?list=PLH3pYi9dZmQk | - | YT, Mine
-- Malfoid Singles | - | - | YT, Mine
-- Malfoid Music Singles | - | - | YT, Mine
-- Himura509AI Malfoid | https://www.youtube.com/playlist?list=PLGgYgv77qynE | - | YT, Mine
-- Malfoid Commentary Singles | - | - | YT
-- History Art Singles | - | - | YT
+- Malfoid-Series | - | [YouTube](https://www.youtube.com/playlist?list=PLKTNcfG1frgc), Mine
+- Malfoid-Music | - | [YouTube](https://www.youtube.com/playlist?list=PLYxyTPd_Ifpg), Mine
+- Malfoid-Stories | - | [YouTube](https://www.youtube.com/playlist?list=PLe3EM3Fc0YPw), Mine
+- Malfoid Main Story | - | [YouTube](https://www.youtube.com/playlist?list=PLH3pYi9dZmQk), Mine
+- Malfoid Singles | - | Mine
+- Malfoid Music Singles | - | Mine
+- Himura509AI Malfoid | - | [YouTube](https://www.youtube.com/playlist?list=PLGgYgv77qynE), Mine
+- Malfoid Commentary Singles | - | -
+- History Art Singles | - | -

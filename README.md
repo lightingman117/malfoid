@@ -6,7 +6,7 @@ A fan archive of Malfoid videos and music: AI fan animations, music videos and s
 ## What's here
 - `lists/archive-list-*.txt`: dated lists of everything archived so far, grouped by category (series, music, stories) and by channel. Each line is the upload date and the title.
 - `lists/missing.md`: missing videos (needed and found).
-- `lists/authors.md`: every author we archive, by type, with whether they have finished and where their videos can be found.
+- `lists/authors.md`: every author we archive, by type, with links to where their videos are.
 
 The lists are snapshots. Downloads are still running, and new lists will be added as the archive grows.
 
