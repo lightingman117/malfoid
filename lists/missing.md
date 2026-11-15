@@ -1,55 +1,46 @@
-# Known missing — running list
+# Missing videos
 
-Videos we know existed but don't have yet. Lines are only added, never removed. When something turns up, it's marked **→ FOUND (where, date)**. A `?` means the title is unknown because the video is gone.
+Know where one is? Open an issue.
 
-**Know where any of these are?** Open an issue with whatever you have: a title, a link, a reupload, a screenshot of an old playlist.
+Title | Author | Link | Priority
 
-_Last updated: 2026-11-15_
+## Needed
 
----
+- ? | Draco Female Adventures | https://youtu.be/oV49d3DeSNk | High
+- ? | Draco Female Adventures | https://youtu.be/A6hRgFUv9aA | High
+- ? | Draco Female Adventures | https://youtu.be/CkQPBUSry0k | High
+- ? | Draco Female Adventures | https://youtu.be/4s-pv22nYFc | High
+- ? | Draco Female Adventures | https://youtu.be/qx18feD7gcc | High
+- ? | Draco Female Adventures | https://youtu.be/PAj4cXkOn5U | High
+- ? | Draco Female Adventures | https://youtu.be/L6fRaeaThS0 | High
+- Rest of the series | Draco Female Adventures | https://www.youtube.com/@belcourtsisters | High
+- Rest of the series | Draco Female Adventures | https://www.instagram.com/dracofemaleadventures | High
+- ? | Himura509AI | https://youtu.be/85aVb5teO-I | Normal
+- ? | Himura509AI | https://youtu.be/JqtT3X785Jk | Normal
+- ? | Hyper Morph | https://youtu.be/rtOzvSPgl8g | Normal
+- ? | Hyper Morph | https://youtu.be/OlaElsI2OtY | Normal
+- ? | Hyper Morph | https://youtu.be/R-8iBd4rXx8 | Normal
+- ? | Hyper Morph | https://youtu.be/tdvQqAcRsgw | Normal
+- ? | Hyper Morph | https://youtu.be/HDC-Zk_ZhYc | Normal
+- ? | Hyper Morph | https://youtu.be/-S92Y7S3npQ | Normal
+- ? | Hyper Morph | https://youtu.be/ZYGRFem5bh4 | Normal
+- ? | Hyper Morph | https://youtu.be/4w2tIBR9z4Y | Normal
+- ? | Hyper Morph | https://youtu.be/YiOGLEeviFo | Normal
+- Episodes 4, 5, 6 and the Movie | Next Realm Studios | https://draconiamalfoid.com/ | Normal
+- ? (age-restricted) | DracaenaMalfoid | https://youtu.be/7M68vmWUgyM | Normal
+- ? (deleted, in the Malfoid-Music playlist) | ? | ? | Low
+- Other posts | Historias Impact | https://x.com/AzratemES | Low
+- ? (channel is a dead link) | DraconiaMalfoid1 | https://www.youtube.com/@DraconiaMalfoid1 | Low
 
-## ⭐ Erased series (high priority)
+## Found
 
-### Draco Female Adventures
-1. Instagram **@dracofemaleadventures**. The full episodes probably weren't on Instagram.
-2. YouTube playlist `PLfmoQV8LjUd4` (owner: Batuhan Durmaz). All 10 videos are gone: `oV49d3DeSNk` `A6hRgFUv9aA` `zBLhTvDQe9g` `CkQPBUSry0k` `4s-pv22nYFc` `qx18feD7gcc` `PAj4cXkOn5U` `JMr-OE-Hu1Y` `L6fRaeaThS0` `4Qwz4RRaTtQ`
-   - `zBLhTvDQe9g` "Harry & Draco Swapped Bodies… Part 3" **→ FOUND (archive.org, 2026-11-15)**
-   - `JMr-OE-Hu1Y` "He Rewinds Their Date… Until Draco Stops Him | Part 2" **→ FOUND (archive.org, 2026-11-15)**
-   - `4Qwz4RRaTtQ` "Draco Is Being Forced to Marry Someone Else… Can Harry Stop the Wedding?" **→ FOUND (archive.org, 2026-11-15)**
-   - **Still missing:** `oV49d3DeSNk` `A6hRgFUv9aA` `CkQPBUSry0k` `4s-pv22nYFc` `qx18feD7gcc` `PAj4cXkOn5U` `L6fRaeaThS0`. They aren't on archive.org, and the Wayback Machine has no snapshot.
-   - Same creator, not in the playlist **→ FOUND (archive.org, 2026-11-15)**: `AOcSwm7-R2w` "He Hid a Camera… | Part 1", `1BH9lfJoaDY` "She Hated Him… — Complete Story", `xO8vVTGt-PY` "Draconia's Halloween Outfits…", `mrbUVp72_Gw` "Woke Up Between TWO Malfoys…", `4OzPBut15Lw` "Draconia cosplay"
-3. YouTube channel **@belcourtsisters**. Only 3 videos are left: "A New Beginning – Episode 1", the "Dragonia Woke Up Chained…" short, and one other short. The rest are gone. archive.org has nothing beyond what's listed above, and the Wayback Machine has no snapshot of the channel.
-
----
-
-## Removed from YouTube (looking for reuploads)
-1. `h48q8tXo8mE` "Harry Potter × Malfoid | The Yule Ball | AI-Anime Fanmade" (J.A. Vázquez / Historias Impact). Removed after a copyright claim. **→ FOUND (archive.org, 2026-11-15)**
-2. `85aVb5teO-I` from Himura509AI's "Malfoid Female Malfoy" playlist. Title `?`. Removed by the uploader.
-3. `JqtT3X785Jk` from Himura509AI's "Malfoid Female Malfoy" playlist. Title `?`. Removed by the uploader.
-4. One deleted video in the Malfoid-Music playlist. ID `?`, title `?`.
-5. Hyper Morph's "Draconia Malfoid — Full Series" playlist (`PLfOscOABXnAI`): 9 entries are unavailable and none are on archive.org: `rtOzvSPgl8g` `OlaElsI2OtY` `R-8iBd4rXx8` `tdvQqAcRsgw` `HDC-Zk_ZhYc` `-S92Y7S3npQ` `ZYGRFem5bh4` `4w2tIBR9z4Y` `YiOGLEeviFo`. Going by their place in the playlist, they may be Anime Arc Ep 5–8 and Ep 58, 60, 61 and 68. That's a guess and hasn't been checked.
-
----
-
-## Behind a login
-1. `7M68vmWUgyM` (DracaenaMalfoid): age-restricted on YouTube.
-2. draconiamalfoid.com (Next Realm Studios): Episodes 4, 5 and 6, and the Movie (Ep 1–4). Needs a free site account.
-3. X **@AzratemES** (Historias Impact): posts other than the Yule Ball haven't been checked.
-4. Instagram **@dracofemaleadventures** (see above).
-
----
-
-## Nothing public at the source
-1. **@galakushi**: the channel is empty. "Malfoy and Harry Anime Episode 1 to 8 Full" was saved from a reupload by @maelle_gold.
-2. **@DraconiaMalfoid1**: linked from draconiamalfoid.com, but the link is dead (404).
-
----
-
-## Not out yet
-Upcoming premieres from he0244: `9bJRq1uKq5o` `QP5eJYSeBxM` `deJ-Hh7JWe0` `J-0CVdSGW2A` `qp8Cyr29ckE` `3mpExJfYwWQ` `yxcWYn_ZOvc` `ymbnXZDQzT0` `XtR5ezF4eCA`
-
----
-
-## In progress
-- **archive.org sweep (started 2026-11-15):** 774 Malfoid, Draconia and Malfoy videos that archive.org has saved and this archive didn't, about 81 GB, are downloading. They'll be in the next list.
-- More videos from channels already being archived are still downloading from YouTube (a backlog from rate limits, plus recent playlist additions).
+- Harry & Draco Swapped Bodies… Part 3 | Draco Female Adventures | https://archive.org/details/youtube-zBLhTvDQe9g | High
+- He Rewinds Their Date… Until Draco Stops Him, Part 2 | Draco Female Adventures | https://archive.org/details/youtube-JMr-OE-Hu1Y | High
+- Draco Is Being Forced to Marry Someone Else… | Draco Female Adventures | https://archive.org/details/youtube-4Qwz4RRaTtQ | High
+- He Hid a Camera… Part 1 | Draco Female Adventures | https://archive.org/details/youtube-AOcSwm7-R2w | High
+- She Hated Him… Complete Story | Draco Female Adventures | https://archive.org/details/youtube-1BH9lfJoaDY | High
+- Draconia's Halloween Outfits… | Draco Female Adventures | https://archive.org/details/youtube-xO8vVTGt-PY | High
+- Woke Up Between TWO Malfoys… | Draco Female Adventures | https://archive.org/details/youtube-mrbUVp72_Gw | High
+- Draconia cosplay | Draco Female Adventures | https://archive.org/details/youtube-4OzPBut15Lw | High
+- Harry Potter × Malfoid, The Yule Ball | Historias Impact | https://archive.org/details/youtube-h48q8tXo8mE | Normal
+- Malfoy and Harry Anime Episodes 1–8 | Galakushi | reupload by @maelle_gold | Normal
