@@ -1,0 +1,2016 @@
+__preset__:
+  overrides:
+    tv_show_directory: /tv_shows
+Malfoid-Series:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/playlist?list=PLKTNcfG1frgc
+DraconiaMalfoid:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@DraconiaMalfoid
+schmede_AI:
+  preset: Plex TV Show by Date
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+    - upload_date >= 20250101
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@schmede_AI
+Malfoid-Music:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-music
+    url: https://www.youtube.com/playlist?list=PLYxyTPd_Ifpg
+HPAcademy1:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@HPAcademy1
+LunaLovelaceTech:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@LunaLovelaceTech
+AIMalfoyFemale:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@AIMalfoyFemale
+Spellora_ai:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@Spellora_ai
+MalfoidSoftware:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@MalfoidSoftware
+BeyondHogwartsAI1:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@BeyondHogwartsAI1
+ADayASMR:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|lumos|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+    - description ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|potter|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|lumos'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/channel/UCKu8wQsoGnnX0Xz26A487wg
+Malfoid-Stories:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-stories
+    url: https://www.youtube.com/playlist?list=PLe3EM3Fc0YPw
+Malfoid Main Story:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/playlist?list=PLH3pYi9dZmQk
+Ken (ken31331):
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-music
+    url: https://www.youtube.com/@ken31331
+ai_clips_uni:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@ai_clips_uni
+hogwashexpress:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@hogwashexpress
+616Studioph:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@616Studioph
+MadMax000:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@MadMax000
+OtakuAI2345:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@OtakuAI2345
+A-IllusionCreative:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@A-IllusionCreative
+MYSTAVELLE:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@MYSTAVELLE
+brooklynge0214:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@brooklynge0214
+tamaraluciaclips:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@tamaraluciaclips
+PsyernProdigi:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@PsyernProdigi
+WispAIGC:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@WispAIGC
+gasia112:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@gasia112
+tooneryt:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@tooneryt
+emmastudio99:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@emmastudio99
+AlxAIProductions:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@AlxAIProductions
+DracaenaMalfoid:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@DracaenaMalfoid
+keepdoingthebit:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@keepdoingthebit
+LoreMatika:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@LoreMatika
+ResonancIAMusic:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-music
+    url: https://www.youtube.com/@ResonancIAMusic
+MusicYav:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-music
+    url: https://www.youtube.com/@MusicYav/videos
+Malfoid Singles:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/watch?v=LfrWg671FJE
+    url2: https://www.youtube.com/watch?v=7UQ-m2l7MwA
+    url3: https://www.youtube.com/watch?v=GO4tqQ2ZAZw
+    url4: https://www.youtube.com/watch?v=gq6I-muf1AY
+    url5: https://www.youtube.com/watch?v=ias4UIj2_b0
+    url6: https://www.youtube.com/watch?v=4mkZ8jEYySo
+    url7: https://www.youtube.com/watch?v=VA9BZTprNjg
+    url8: https://www.youtube.com/watch?v=VQxI5TdB55Y
+    url9: https://www.youtube.com/watch?v=MGHlwJHpdHU
+    url10: https://www.youtube.com/watch?v=1hvr4oBiTCQ
+    url11: https://www.youtube.com/watch?v=jpCwBToqh0E
+    url12: https://www.youtube.com/watch?v=3ug04nhmlVo
+    url13: https://www.bilibili.com/video/BV1QXW76PErH/
+    url14: https://www.youtube.com/watch?v=5QKeYse5GF8
+MoochiForge:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@MoochiForge
+NovaFrame-z2t:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@NovaFrame-z2t
+he0244:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@he0244
+Nextrealmstudio:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@Nextrealmstudio
+Dean_xx17:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@Dean_xx17
+Goldteiger2000:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@Goldteiger2000
+Fantasoner:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@Fantasoner
+XCaliber00:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@XCaliber00
+EnchantedWhatIfs:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@EnchantedWhatIfs
+j.a.vazquez5946 (Historias Impact):
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@j.a.vazquez5946
+LouieVerseCinematics:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@LouieVerseCinematics
+Fo_yege1664:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)foyege original|malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+    - description ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|potter|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@Fo_yege1664
+zandran2:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)potter|harry|malfoy|malfoid|draco|draconia|hogwarts|slytherin|gryffindor|hufflepuff|ravenclaw|snape|dumbledore|hagrid|weasley|hermione|pansy|voldemort|dementor|sorting hat|quidditch|daily prophet|house cup|nargles|galleon|azkaban|death eater|patronus|lupin|sirius|bellatrix|luna lovegood|neville|mcgonagall|pure.?blood|half.?blood|horcrux|luna|wand|locket|nameless king|marauder|triwizard|cedric|potion|ten points from everyone'
+    - description ~= '(?i)potter|harry|malfoy|malfoid|draco|draconia|hogwarts|slytherin|gryffindor|hufflepuff|ravenclaw|snape|dumbledore|hagrid|weasley|hermione|pansy|voldemort|dementor|sorting hat|quidditch|daily prophet|house cup|nargles|galleon|azkaban|death eater|patronus|lupin|sirius|bellatrix|luna lovegood|neville|mcgonagall|pure.?blood|half.?blood|horcrux|luna|wand|locket|nameless king|marauder|triwizard|cedric|potion|ten points from everyone'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-music
+    url: https://www.youtube.com/@zandran2
+Malfoid Music Singles:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-music
+    url: https://www.youtube.com/watch?v=rmk73ckTE54
+    url2: https://www.youtube.com/watch?v=HaY0rKB1r9o
+    url3: https://www.youtube.com/watch?v=31nraci5AnM
+Himura509AI Malfoid:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/playlist?list=PLGgYgv77qynE
+throngTV:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@throngTV
+maelle_gold (reuploads):
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@maelle_gold
+galakushi:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@galakushi
+Potterium:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-stories
+    url: https://www.youtube.com/@Potterium
+HogwartsHistorianYT:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-stories
+    url: https://www.youtube.com/@HogwartsHistorianYT
+Malfoystories:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-stories
+    url: https://www.youtube.com/@Malfoystories
+themalfoyversey:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@themalfoyversey
+inspo_live:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@inspo_live
+Wrong_Cast_Official:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/channel/UC_flY5mtoE90DDnmek3lIGA
+gugolfaistudio:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@gugolfaistudio
+orangehoodieguy:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@orangehoodieguy
+gakdrama:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@gakdrama
+hasancreatives7:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@hasancreatives7
+draconiamalfoyfanfics:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-stories
+    url: https://www.youtube.com/@draconiamalfoyfanfics
+PotterFract:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-stories
+    url: https://www.youtube.com/channel/UCWFcI27p7vvT_zzRYyhtxyQ
+Plot_Potter:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-stories
+    url: https://www.youtube.com/channel/UCwzl7P4sRkwybvdXEI9BlVQ
+kkuljaem_lab:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-stories
+    url: https://www.youtube.com/@kkuljaem_lab
+Cosmic Wand:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/channel/UCQib6q4YyhZN9JYPobPvcDA
+Anigirls Archive:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/channel/UCCuChq0mU8t-Yq3K88671QQ
+몽즈:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/channel/UCrr-KMpqglXn55s6dRLCRFA
+Himura (channel):
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/channel/UC5H-oLd6EW61mNughOjArxg
+AAAAAIGC:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/channel/UCLozNYtPze8KdchwQ0Pseew
+MythicShift:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/channel/UCHAshK20rF8QUqQJzawOnLw
+Joshua Frostrunner:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/channel/UCEvoJEv7VDmzcOp0fy-1Awg
+fenicia moore:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/channel/UC5Sm_N_PP0ePJ8PY-LvIdyw
+super river:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/channel/UCXKsjgLFr-bO3-Q9m7RLZWA
+Noya 諾雅:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/channel/UCs8p4ycR9rzCAjtgJOaep7Q
+Renzo Kuma:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/channel/UCp3BxL4y6oeagVG5cxjCUTA
+WiseSerpentGentleDove:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/channel/UCNuDEFFsd6bIO_eppzQHoqg
+leonaivisual:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/channel/UC_EBdcVHzFpJVfhv7TxlepQ
+Space Cafe:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/channel/UCuVVb4_RfbyJ0FXnLrO5yqg
+Anime Sunbae:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/channel/UC5b9v2Af8UzMNEZGuvf61mg
+fragmentum:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/channel/UCscoeq4ZIVjS7IWr53dCY5A
+Skyron_AI:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/channel/UC0wHq5m55sXLF50zrDUIBsg
+Anime Flow:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/channel/UCJM8TtfYHC88K16G36NLiwg
+Nandanomics:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/channel/UCZQHYfdo-jGM1un293kyi4A
+Salty Studios:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/channel/UCBjzZano01wW-yq7WpvuQqw
+The Other Door:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/channel/UCq3m-YVX7oBNtHSHkH30UZQ
+InnovationSpark:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/channel/UCuqvl1rj1CC_o8ZgUxBwcQg
+BayMax:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/channel/UC5LWZtxmjiWiUd4x2ttYOMw
+demonflyingfox:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/channel/UCvdUBO1nKje-SqOqBQm1Rmw
+Atraidez Data Center:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-stories
+    url: https://www.youtube.com/channel/UC6cJ1NQ_CiLBNGtqdTL3ddA
+DeadSpell:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-stories
+    url: https://www.youtube.com/channel/UCspo3v5G5h5Ckltj55euk0Q
+Imperator Drakonov:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-stories
+    url: https://www.youtube.com/channel/UCTjXM4eb8D_Pwgq4OOHBDUw
+BanZI29:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-stories
+    url: https://www.youtube.com/channel/UCUD7IUyfOcy7ZPxnXzqPZjg
+Nova AI Storyverse:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-stories
+    url: https://www.youtube.com/channel/UCsdQNPwjeb5XD8QDbNbEjsA
+E-Va:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-music
+    url: https://www.youtube.com/channel/UClpMs8fR4KDQN5ydjPaPvyQ
+Josh Snider:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-music
+    url: https://www.youtube.com/channel/UCkOAlfZyqy4-n8vB2syWk2g
+ShadowEyeMusic:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-music
+    url: https://www.youtube.com/channel/UC-SfY04qCP0bR17ZL1gkBnQ
+SimplyJohn:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-music
+    url: https://www.youtube.com/channel/UClEfNlh6uQ-R3lgj4K44zEQ
+Loudness:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-music
+    url: https://www.youtube.com/channel/UCVYQFxg0gAlM8xnUPv5H2iw
+Play Astronomical:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-music
+    url: https://www.youtube.com/channel/UCWSDiY7_jbj2wH4DqqqG8tg
+Skyebrows:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-music
+    url: https://www.youtube.com/channel/UCOmUKsehtfKMr-A1ki-3JzQ
+NeonViozen:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-music
+    url: https://www.youtube.com/channel/UC1uUDuDmxx9oOMaCUOvH9VA
+The Dragon Roar:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-music
+    url: https://www.youtube.com/channel/UCCf7yeL7eaE7exfpIvGi3ZQ
+Based Camp Music:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-music
+    url: https://www.youtube.com/channel/UCT-3S-iZdSZZMD-tH2hYxEA
+WickedAI:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-music
+    url: https://www.youtube.com/channel/UCpIAEw7BHxKoXczhL--km7w
+KNIGHTS WATCH:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-music
+    url: https://www.youtube.com/channel/UCubCObW93mbrIFoxwNamFFw
+Richard Darlington:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-music
+    url: https://www.youtube.com/channel/UCWTB7TegFUdCOMdAjMXP65w
+Aiden Guo:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-music
+    url: https://www.youtube.com/channel/UCa-J8epnYxWwpQQK3lSYtAA
+Resonance Of Valhalla:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-music
+    url: https://www.youtube.com/channel/UCDYmXj7LWPLZz-L2S4IdJ_Q
+OathLight Studios:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-music
+    url: https://www.youtube.com/channel/UC4OOnq8lAOWXA3VjZMpAUHw
+MythicTune:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-music
+    url: https://www.youtube.com/channel/UCUxbZd2eD3hKFTDZFtWBogw
+Batoodlin:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-music
+    url: https://www.youtube.com/channel/UChEPsaS7dyUI6c0Hy_UcPVA
+성하늘:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-music
+    url: https://www.youtube.com/channel/UCqEZYQytUso2NxPh30lCkxQ
+Malfoid Commentary Singles:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-commentary
+    url: https://www.youtube.com/watch?v=2wNSB3KGSDk
+    url2: https://www.youtube.com/watch?v=8yYEVT4U1e8
+    url3: https://www.youtube.com/watch?v=9B0tofNIjUo
+    url4: https://www.youtube.com/watch?v=CeMGDWgkosA
+    url5: https://www.youtube.com/watch?v=EwcoqW1yG1Y
+    url6: https://www.youtube.com/watch?v=I3cFufui1bc
+    url7: https://www.youtube.com/watch?v=IIyGZz0CKM4
+    url8: https://www.youtube.com/watch?v=LV1_YC8LhHI
+    url9: https://www.youtube.com/watch?v=QvNgqRQ8zJY
+    url10: https://www.youtube.com/watch?v=XaIIUkwRWmQ
+    url11: https://www.youtube.com/watch?v=Zb9_UWINd7U
+    url12: https://www.youtube.com/watch?v=Zosli1OcGI4
+    url13: https://www.youtube.com/watch?v=aSI2miwTwqI
+    url14: https://www.youtube.com/watch?v=avXtyh3kC7c
+    url15: https://www.youtube.com/watch?v=c7Fh5TOsiPM
+    url16: https://www.youtube.com/watch?v=hKkVGdr-nlI
+    url17: https://www.youtube.com/watch?v=jM5GXofGp3A
+    url18: https://www.youtube.com/watch?v=qRm3UGzVOvg
+    url19: https://www.youtube.com/watch?v=ynNrwl1UkvU
+    url20: https://www.youtube.com/watch?v=nrxB1kIk1qY
+    url21: https://www.youtube.com/watch?v=3mg2lZiRxgA
+History Art Singles:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/watch?v=SzoUNarTXx0
+    url2: https://www.youtube.com/watch?v=U8d2ToLzMEA
+    url3: https://www.youtube.com/watch?v=M35fxwu8Dqs
+    url4: https://www.youtube.com/watch?v=McDoLlaaHjM
+    url5: https://www.youtube.com/watch?v=Rmy1OB3JgXM
+SkeletorTclaws:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@SkeletorTclaws
+belcourtsisters:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/@belcourtsisters
+Sweet Yeetus:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-stories
+    url: https://www.youtube.com/channel/UC2aYiAMMyOItoljUdai8cMQ
+Anime Collide:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/channel/UChlKnJ__UVIj_nr5t3vyewQ
+Nielio:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/channel/UCe-C_Fgps0pERHb8GDZ1baQ
+TomW:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/channel/UCVZ10TbaQiq0CYK02Pe5QfQ
+Moonquill Theater:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-stories
+    url: https://www.youtube.com/channel/UCosm0hMJ7ag_pndN27J6HMQ
+Hyper Morph:
+  preset: Plex TV Show by Date
+  format: bestvideo+bestaudio/best
+  ytdl_options:
+    merge_output_format: mkv
+  throttle_protection:
+    sleep_per_request_s:
+      min: 3.0
+      max: 4.5
+  match_filters:
+    filters:
+    - title ~= '(?i)malfoid|malfoy|draconia|dracaena|draco|(?<![a-z])potter(?!y)|pottah|galfoy|hogwarts|slytherin|말포이|마루포이|포터|드레이코|マルフォイ|ドラコ|ポッター|马尔福|馬爾福|霍格華茲|霍格沃茨|馬份|德拉科|波特|(?<!prince )harry(?! styles)|hermione|snape|dumbledore|voldemort|weasley|hagrid|mcgonagall|bellatrix|luna lovegood|lovegood|azkaban|dementor|yule ball|quidditch|gryffindor|hufflepuff|ravenclaw|death eater|horcrux|patronus|marauder|lumos|dobby|sirius black|neville|wizarding|petunia|dursley|privet drive|lupin|sirius|triwizard|grindelwald|tonks'
+  overrides:
+    file_title: '{%slice(title_sanitized_plex, 0, 60)}'
+    tv_show_directory: /youtube/malfoid-series
+    url: https://www.youtube.com/channel/UCF0ElzqYGZ4x-R2QLxqSEog
