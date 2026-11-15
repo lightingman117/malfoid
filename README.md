@@ -4,7 +4,7 @@ Draconia | Dracena Malfoy #Malfoid # Yearn
 A fan archive of Malfoid videos and music: AI fan animations, music videos and stories, saved before they disappear. Some of them already have.
 
 ## What's here
-- `lists/archive-list-*.txt`: dated lists of everything archived so far, grouped by category (series, music, stories) and by channel. Each line is the upload date and the title.
+- `lists/archive-list.txt`: everything archived so far (updated daily; older versions are in the git history), grouped by category (series, music, stories) and by channel. Each line is the upload date and the title.
 - `lists/missing.md`: missing videos (needed and found).
 - `lists/authors.md`: every author we archive, by type, with links to where their videos are.
 
