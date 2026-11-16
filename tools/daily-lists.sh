@@ -1,13 +1,13 @@
 #!/bin/sh
-# Output: /config/public/archive-list.txt and /config/public/authors.md
-cd /config && mkdir -p public
+# Output: <CONFIG_DIR>/public/archive-list.txt and <CONFIG_DIR>/public/authors.md
+cd <CONFIG_DIR> && mkdir -p public
 python3 lst.py
 python3 authors.py
 # channel names: fetch only authors not looked up yet
 python3 -c "
 import json
-have = {l.split('\t')[0] for l in open('/config/chan_names.tsv', encoding='utf-8')}
-for r in json.load(open('/config/authors.json'))['authors']:
+have = {l.split('\t')[0] for l in open('<CONFIG_DIR>/chan_names.tsv', encoding='utf-8')}
+for r in json.load(open('<CONFIG_DIR>/authors.json'))['authors']:
     if r[1].startswith('http') and r[0] not in have: print(r[0] + '\t' + r[1])
 " > chan_new.tsv
 while IFS="$(printf '\t')" read -r name url; do

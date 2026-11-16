@@ -28,5 +28,5 @@ for i, x in items.items():
     got = vid in have
     rows.append((got, c, vid, round((x.get('item_size') or 0) / 1e6), t[:90]))
 rows.sort()
-json.dump(rows, open('/config/ia_diff.json', 'w'))
+json.dump(rows, open('<CONFIG_DIR>/ia_diff.json', 'w'))
 print('youtube items', len(items), 'wizardry', len(rows), 'already have', sum(r[0] for r in rows), 'missing', sum(not r[0] for r in rows), 'missing MB', sum(r[3] for r in rows if not r[0]))

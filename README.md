@@ -4,7 +4,7 @@ Draconia | Dracena Malfoy #Malfoid # Yearn
 A fan archive of Malfoid videos and music: AI fan animations, music videos and stories, saved before they disappear. Some of them already have.
 
 ## Get the files
-**https://malfoid.duckdns.org/**: a read-only file browser for the archive. You can watch in the browser, download single files, or download a whole folder as a zip. The folders are `series/`, `music/`, `stories/` and `archive.org/` (reuploads of videos that were removed from YouTube).
+**https://malfoid.duckdns.org/**: a read-only file browser for the archive. You can watch in the browser, download single files, or download a whole folder as a zip. The folders are `series/`, `music/`, `stories/`, `archive.org/` (reuploads of videos that were removed from YouTube) and `commentary/` (reaction and analysis videos about the trend, not fan works; kept for now, may be pruned later).
 
 The site lags a little behind the lists here while downloads are still running.
 
@@ -14,7 +14,7 @@ This archive is listed in the **Malfoid Index**, a curated directory of Malfoid 
 - `lists/archive-list.txt`: everything archived so far (updated daily; older versions are in the git history), grouped by category (series, music, stories) and by channel. Each line is the upload date and the title.
 - `lists/missing.md`: missing videos (needed and found).
 - `lists/authors.md`: every author we archive, by type, with links to where their videos are.
-- `tools/`: the ytdl-sub setup (Malfoid subscriptions, config, nightly cron line) and the scripts that build these lists and pull from archive.org.
+- `tools/`: the ytdl-sub setup (Malfoid subscriptions, config, cron line) and the scripts that build these lists and pull from archive.org. Paths are placeholders: `<CONFIG_DIR>` is your ytdl-sub config folder, `<TV_SHOWS_DIR>` your TV-shows folder.
 
 ## Folder names
 Each author's folder is named `English Name (Original Name) [Sources, Role]`, for example:

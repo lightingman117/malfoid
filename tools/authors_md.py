@@ -18,12 +18,18 @@ def ia_match(*cands):
             if len(ck) >= 4 and (k in ck or ck in k): return c
     return None
 # Hand-set names (fandom names) and extra locations. Edit here.
-COMMON = {'ADayASMR': 'Lumos Lumos (complete)', 'belcourtsisters': 'Draco Female Adventures', 'j.a.vazquez5946 (Historias Impact)': 'Historias Impact', 'galakushi': 'Galakushi'}
+COMMON = {'ADayASMR': 'Lumos Lumos (complete)', 'belcourtsisters': 'Draco Female Adventures', 'j.a.vazquez5946 (Historias Impact)': 'Historias Impact', 'galakushi': 'Galakushi', 'MalfoidTV': 'Katechon Studio (Malfoid TV)'}
 IA_NAME = {'j.a.vazquez5946 (Historias Impact)': 'J.A. V\u00e1zquez'}
 EXTRA = {
     'belcourtsisters': ['Mine'],
     'j.a.vazquez5946 (Historias Impact)': ['[X](https://x.com/AzratemES)', 'Mine'],
     'Nextrealmstudio': ['[Site](https://draconiamalfoid.com/)', 'Mine'],
+    'Fo_yege1664': ['[X](https://x.com/Foyege24)'],
+    'MadMax000': ['[X](https://x.com/MadMax_Series)'],
+    'LouieVerseCinematics': ['[X](https://x.com/LadyWasabee)'],
+    'zeyhashimoto': ['[X](https://x.com/ZeyHashimoto)'],
+    'MalfoidTV': ['[X](https://x.com/katechon_studio)', '[Site](https://malfoid.tv/)', 'Mine'],
+    'OtakuAI2345': ['[X](https://x.com/otakuai2345)'],
 }
 NO_YT = {'galakushi': 'Mine (reupload)'}
 def line(sub, r):

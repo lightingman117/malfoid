@@ -1,2 +1,2 @@
-# Nightly; Sunday = full sweep that retries anything missed during the week
-if [ "$(date +%u)" = "7" ]; then ytdl-sub sub -o "--ytdl_options.break_on_existing False"; else ytdl-sub sub; fi
+# Every 4 hours (container cron 17 */4 * * *): last 7 days of every subscription
+python3 <CONFIG_DIR>/fresh.py > <CONFIG_DIR>/fresh.log 2>&1

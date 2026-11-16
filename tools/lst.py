@@ -32,7 +32,9 @@ for c in cats:
     tot += cn
     summary.append('%s: %d videos, %d channels/sources' % (c, cn, sum(1 for l in block if l.startswith('\n## '))))
     out.append('\n\n==================== %s (%d) ====================' % (c.upper(), cn))
+    if c == 'malfoid-commentary':
+        out.append('Note: reaction/review/analysis videos about the trend, not fan works. Kept for now; may be pruned later.')
     out.extend(block)
 hdr = ['Malfoid archive - file list (updated %s)' % __import__('time').strftime('%Y-%m-%d'), 'Total: %d videos, %.1f GB' % (tot, totb / 1e9)] + summary
-open('/config/public/archive-list.txt', 'w', encoding='utf-8').write('\n'.join(hdr + out) + '\n')
+open('<CONFIG_DIR>/public/archive-list.txt', 'w', encoding='utf-8').write('\n'.join(hdr + out) + '\n')
 print('\n'.join(hdr))

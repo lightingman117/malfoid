@@ -20,3 +20,4 @@ configuration:
   # filesystem as the destination for downloaded files in the `overrides: /
   # *_directory:` paths:
   working_directory: ".ytdl-sub-working-directory"
+  lock_directory: "<CONFIG_DIR>/.lock-yt"
