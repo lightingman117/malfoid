@@ -26,7 +26,7 @@ Title | Author | Link | Priority
 - ? | Hyper Morph | https://youtu.be/ZYGRFem5bh4 | Normal
 - ? | Hyper Morph | https://youtu.be/4w2tIBR9z4Y | Normal
 - ? | Hyper Morph | https://youtu.be/YiOGLEeviFo | Normal
-- Episodes 4, 5, 6 and the Movie | Next Realm Studios | https://draconiamalfoid.com/ | Normal
+- Episodes 5, 6 and the Movie (Episode 4 is likely in a Bilibili compilation, not verified: https://www.bilibili.com/video/BV1QxHw6UETa) | Next Realm Studios | https://draconiamalfoid.com/ | Normal
 - ? (age-restricted) | DracaenaMalfoid | https://youtu.be/7M68vmWUgyM | Normal
 - ? (deleted, in the Malfoid-Music playlist) | ? | ? | Low
 - Other posts | Historias Impact | https://x.com/AzratemES | Low
