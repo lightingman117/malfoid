@@ -1,4 +1,4 @@
-# malfoid
+# Malfoid Archive
 Draconia | Dracena Malfoy #Malfoid # Yearn
 
 A fan archive of Malfoid videos and music: AI fan animations, music videos and stories, saved before they disappear. Some of them already have.
