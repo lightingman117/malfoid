@@ -16,11 +16,27 @@ This archive is listed in the **Malfoid Index**, a curated directory of Malfoid 
 - `lists/authors.md`: every author we archive, by type, with links to where their videos are.
 - `tools/`: the ytdl-sub setup (Malfoid subscriptions, config, nightly cron line) and the scripts that build these lists and pull from archive.org.
 
+## Folder names
+Each author's folder is named `English Name (Original Name) [Sources, Role]`, for example:
+- `616 STUDIO (616Studioph) [YT, Creator]`
+- `KYL0REN (KYL0ЯЁП) [YT, ReUp]`
+- `Enoki Saori (榎木纱织) [Bili, Creator]`
+- `Katechon Studio (MalfoidTV) [YT+X+Web, Creator]`
+
+The English name matches the Malfoid Index where the author is listed there. `(Original Name)` is left out when it's the same.
+
+**Sources** (joined with `+`): `YT` YouTube · `X` x.com · `Bili` Bilibili · `IA` archive.org · `Rmbl` Rumble · `TT` TikTok · `IG` Instagram · `Nico` Niconico · `Web` the creator's own site · `Pixiv` · `AO3` · `Wtpad` Wattpad
+
+**Role:** `Creator` makes their own videos · `ReUp` reuploads other people's · `Mixed` does both · blank if we don't know yet. Credit goes to the creator, not the reuploader.
+
+Folders are being renamed to this format in batches, so some still use the old channel names.
+
 The lists are snapshots. Downloads are still running, and new lists will be added as the archive grows.
 
 ## Sources
 - YouTube channels and playlists
 - Reuploads of removed videos found on archive.org
+- Bilibili
 - A few videos from X and creator sites
 
 ## Know where a missing video is?
