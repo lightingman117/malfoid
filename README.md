@@ -41,6 +41,6 @@ The lists are snapshots. Downloads are still running, and new lists will be adde
 
 ## Send us a link
 Know a Malfoid video, channel or playlist we're missing, or where a removed video was reuploaded?
-**[Send it with this form](https://docs.google.com/forms/d/e/1FAIpQLSd-ak0lKIAx56Z_Gy-yU3EYruaesNUjaIpp8sBxpXeTVwu-dQ/viewform)** (needs a Google sign-in, so we can tell real tips from spam). Every link is checked before anything is added.
+**[Send it with this form](https://docs.google.com/forms/d/e/1FAIpQLSd-ak0lKIAx56Z_Gy-yU3EYruaesNUjaIpp8sBxpXeTVwu-dQ/viewform)** A link is best, but just a title and who made it helps too. Every tip is checked before anything is added.
 
 You can also open a GitHub issue.
