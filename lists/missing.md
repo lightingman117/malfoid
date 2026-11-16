@@ -31,7 +31,6 @@ Title | Author | Link | Priority
 - ? (deleted, in the Malfoid-Music playlist) | ? | ? | Low
 - Other posts | Historias Impact | https://x.com/AzratemES | Low
 - ? (channel is a dead link) | DraconiaMalfoid1 | https://www.youtube.com/@DraconiaMalfoid1 | Low
-- Harry Potter AU Part 1 (reupload with Chinese subs: https://www.bilibili.com/video/BV1ga4x6hEZx) | J.A. Vázquez | https://youtu.be/euyK-S8dOto | High
 - MALFOID 'Wait 'Til My Father Hears About This' MV | AI replacing me | https://youtu.be/MLw3IanniSg | Normal
 
 ## Found
@@ -48,3 +47,4 @@ Title | Author | Link | Priority
 - Malfoy and Harry Anime Episodes 1–8 | Galakushi | reupload by @maelle_gold | Normal
 - Malfoid and Harry's wish – Episode 1 | Galakushi | https://archive.org/details/youtube-oEZOQl_sask | High
 - Malfoid & Harry: A Hogwarts Romantic Comedy (27 episodes; YouTube versions removed) | Shishir | https://x.com/shishirdotai | Normal
+- Harry Potter AU Part 1 (original removed: https://youtu.be/euyK-S8dOto) | J.A. Vázquez | https://youtu.be/ohzwG0WEOHY | High
