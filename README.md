@@ -3,6 +3,11 @@ Draconia | Dracena Malfoy #Malfoid # Yearn
 
 A fan archive of Malfoid videos and music: AI fan animations, music videos and stories, saved before they disappear. Some of them already have.
 
+## Get the files
+**https://malfoid.duckdns.org/**: a read-only file browser for the archive. You can watch in the browser, download single files, or download a whole folder as a zip. The folders are `series/`, `music/`, `stories/` and `archive.org/` (reuploads of videos that were removed from YouTube).
+
+The site lags a little behind the lists here while downloads are still running.
+
 ## What's here
 - `lists/archive-list.txt`: everything archived so far (updated daily; older versions are in the git history), grouped by category (series, music, stories) and by channel. Each line is the upload date and the title.
 - `lists/missing.md`: missing videos (needed and found).
