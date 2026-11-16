@@ -8,6 +8,8 @@ A fan archive of Malfoid videos and music: AI fan animations, music videos and s
 
 The site lags a little behind the lists here while downloads are still running.
 
+This archive is listed in the **Malfoid Index**, a curated directory of Malfoid fan works (fanfics, comics, art and videos): https://rhedak.github.io/malfoid-gallery/malfoid-index/
+
 ## What's here
 - `lists/archive-list.txt`: everything archived so far (updated daily; older versions are in the git history), grouped by category (series, music, stories) and by channel. Each line is the upload date and the title.
 - `lists/missing.md`: missing videos (needed and found).
