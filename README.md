@@ -39,5 +39,8 @@ The lists are snapshots. Downloads are still running, and new lists will be adde
 - Bilibili
 - A few videos from X and creator sites
 
-## Know where a missing video is?
-Open an issue with the title, channel, and any link or reupload you know of.
+## Send us a link
+Know a Malfoid video, channel or playlist we're missing, or where a removed video was reuploaded?
+**[Send it with this form](https://docs.google.com/forms/d/e/1FAIpQLSd-ak0lKIAx56Z_Gy-yU3EYruaesNUjaIpp8sBxpXeTVwu-dQ/viewform)** (needs a Google sign-in, so we can tell real tips from spam). Every link is checked before anything is added.
+
+You can also open a GitHub issue.
