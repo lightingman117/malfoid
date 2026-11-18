@@ -44,6 +44,7 @@ Title | Author | Link | Priority
 - Draconia's Halloween Outfits… | Draco Female Adventures | https://archive.org/details/youtube-xO8vVTGt-PY | High
 - Woke Up Between TWO Malfoys… | Draco Female Adventures | https://archive.org/details/youtube-mrbUVp72_Gw | High
 - Draconia cosplay | Draco Female Adventures | https://archive.org/details/youtube-4OzPBut15Lw | High
+- Kinda found: Chinese-titled reuploads, part of the series so far (account is still uploading) | Draco Female Adventures (Dragonia_Belc on Bilibili) | https://space.bilibili.com/1997525394 | High
 - Harry Potter × Malfoid, The Yule Ball | Historias Impact | https://archive.org/details/youtube-h48q8tXo8mE | Normal
 - Malfoy and Harry Anime Episodes 1–8 | Galakushi | reupload by @maelle_gold | Normal
 - Malfoid and Harry's wish – Episode 1 | Galakushi | https://archive.org/details/youtube-oEZOQl_sask | High
