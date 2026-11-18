@@ -32,6 +32,7 @@ Title | Author | Link | Priority
 - Other posts | Historias Impact | https://x.com/AzratemES | Low
 - ? (channel is a dead link) | DraconiaMalfoid1 | https://www.youtube.com/@DraconiaMalfoid1 | Low
 - MALFOID 'Wait 'Til My Father Hears About This' MV | AI replacing me | https://youtu.be/MLw3IanniSg | Normal
+- Snowball | GOASkey | https://www.youtube.com/@GOASkey | Normal
 
 ## Found
 
