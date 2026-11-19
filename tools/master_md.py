@@ -31,3 +31,26 @@ for c, rs in sorted(vids.items()):
         f.write(line); size += len(line.encode()); n += 1
     if f: f.close()
     print(c, n, 'videos in', part, 'file(s)')
+# ---- X (Twitter): videos and literature, same idea (public posts only, no file paths)
+XO = 'lists/x'; os.makedirs(XO, exist_ok=True)
+def xlist(src, name, title, intro, cols, line):
+    if not os.path.exists(os.path.join(SRC, src)): return
+    rs = sorted(rows(src), key=lambda r: (r['Creator'].lower(), r['Posted']))
+    part, size, f, last = 0, 0, None, None
+    for r in rs:
+        s = line(r)
+        if f is None or size + len(s.encode()) > LIMIT:
+            if f: f.close()
+            part += 1; size = 0; last = None
+            f = open(os.path.join(XO, f'{name}-{part}.md'), 'w', encoding='utf-8'); f.write(f'# {title} (part {part})\n\n{intro}\n\n{cols}\n')
+        if r['Creator'] != last:
+            h = f"\n## {r['Creator']}\n\n"; f.write(h); size += len(h.encode()); last = r['Creator']
+        f.write(s); size += len(s.encode())
+    if f: f.close()
+    print(name, len(rs), 'rows in', part, 'file(s)')
+xlist('x-videos.tsv', 'videos', 'X Malfoid videos', 'Videos posted on X that we count as Malfoid. "Skipped (YouTube copy)" = the same video is archived from YouTube.',
+      'Posted | Post | Status | Category | Link',
+      lambda r: f"- {r['Posted']} | {esc(r['Post text'])} | {r['Status']} | {r['Category']} | [X]({r['Link']})" + (f" [YouTube]({r['YouTube copy']})" if r['YouTube copy'] else '') + '\n')
+xlist('x-literature.tsv', 'literature', 'X Malfoid fiction', 'Malfoid stories posted on X, one row per chapter or post.',
+      'Posted | Work | Chapter | Status | Link',
+      lambda r: f"- {r['Posted']} | {esc(r['Work'])} | {esc(r['Chapter'])} | {r['Status']} | " + (f"[X]({r['Link']})" if r['Link'] else '(not found yet)') + '\n')
