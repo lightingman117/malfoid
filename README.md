@@ -14,6 +14,8 @@ This archive is listed in the **Malfoid Index**, a curated directory of Malfoid 
 - `lists/archive-list.txt`: everything archived so far (updated daily; older versions are in the git history), grouped by category (series, music, stories) and by channel. Each line is the upload date and the title.
 - `lists/missing.md`: missing videos (needed and found).
 - `lists/authors.md`: every author we archive, by type, with links to where their videos are.
+- `lists/youtube/`: the YouTube master list as Markdown: `channels.md` (every channel we follow, how many Malfoid videos, how many saved) and `videos-<category>-<part>.md` (every Malfoid video by channel, with its status). Search it with GitHub search.
+- `tools/master/`: the same master list as tab-separated files (`youtube-channels.tsv`, `youtube-videos.tsv`); `tools/master_md.py` turns them into the Markdown pages.
 - `tools/`: the ytdl-sub setup (Malfoid subscriptions, config, cron line) and the scripts that build these lists and pull from archive.org. Paths are placeholders: `<CONFIG_DIR>` is your ytdl-sub config folder, `<TV_SHOWS_DIR>` your TV-shows folder.
 
 ## Folder names
