@@ -7,6 +7,7 @@ Title | Author | Link | Priority
 ## Needed
 
 - Rest of the channel (channel made private 2026-11-18; Episode 1 of The Uncanny survives on VelvetEternal) | LuminosStudio | https://www.youtube.com/channel/UC1GOdaiTvN-QqQbFrUpzw6w | High
+- Anything beyond the 3 saved videos: Winter with Her, Spring with Her, POV: Spring Break (channel gone from YouTube, noticed 2026-11-18) | Papallax | https://www.youtube.com/channel/UC_Ys3Lsi6F63BiL1TNEpn0w | High
 - ? (removed: Warner Bros. copyright claim) | Draco Female Adventures | https://youtu.be/oV49d3DeSNk | High
 - ? (account terminated) | Draco Female Adventures | https://youtu.be/A6hRgFUv9aA | High
 - ? (removed: Warner Bros. copyright claim) | Draco Female Adventures | https://youtu.be/CkQPBUSry0k | High
