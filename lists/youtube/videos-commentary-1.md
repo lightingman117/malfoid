@@ -2,6 +2,14 @@
 
 Uploaded | Title | Status | Link, grouped by channel.
 
+## 
+
+- ? | Harry Potter (Female Draco Malfoy AU) react to Harry Potter as DANTE "PT 7" \| Devil May Cry 5 \| GCRV | To download | [YouTube](https://www.youtube.com/watch?v=vNvIAz33GqQ)
+- ? | Harry Potter (Female Draco Malfoy AU) react to Harry Potter as DANTE "PT 5" \| Devil May Cry 5 \| GCRV | To download | [YouTube](https://www.youtube.com/watch?v=aTNpcV_wtr0)
+- ? | Harry Potter (Female Draco Malfoy AU) react to Harry Potter as DANTE "PT 6" \| Devil May Cry 5 \| GCRV | To download | [YouTube](https://www.youtube.com/watch?v=SSURT00zfmo)
+- ? | Harry Potter (Female Draco Malfoy AU) react to Harry Potter as DANTE "PT 4" \| Devil May Cry 5 \| GCRV | To download | [YouTube](https://www.youtube.com/watch?v=YnCrq7KZOa0)
+- ? | Harry Potter react to Draco Malfoy // Draco as Roxana // (WIP) | To download | [YouTube](https://www.youtube.com/watch?v=7cHMUQsfi5I)
+
 ## 300Kultura
 
 - ? | LEWICA vs MALFOID. Kradną nam Harry'ego Pottera, czyli ktoś tu UPADŁ NA GŁOWĘ | To download | [YouTube](https://www.youtube.com/watch?v=sx6M3Cvo-9I)
@@ -60,6 +68,10 @@ Uploaded | Title | Status | Link, grouped by channel.
 - 2026-10-28 | Potter, take responsibility!! No, don't take responsibility!!! (Fem!Malfoy) - ANIME REACTION! | To download | [YouTube](https://www.youtube.com/watch?v=NhgfJR2V8b4)
 - 2026-11-04 | What Happens When You Play LUMOS LUMOS at 1.4x Speed?! \| English Version - ANIME REACTION! | To download | [YouTube](https://www.youtube.com/watch?v=M3qAJfcIes0)
 
+## Clean Stuff
+
+- ? | Draco Malfoy Woke Up as a GIRL and She's OBSESSED With You (What IF) | To download | [YouTube](https://www.youtube.com/watch?v=xb_tDE16RcU)
+
 ## Content memer
 
 - ? | Tsundere Malfoid with this trend #malfoid #malfoy #harrypotter #animeedit #anime #editingnews | To download | [YouTube](https://www.youtube.com/watch?v=9b2ju4dqXT8)
@@ -75,6 +87,8 @@ Uploaded | Title | Status | Link, grouped by channel.
 ## Draconia Malfoy
 
 - ? | 🎬 DRACONIA DAILY LIFE DAY 12 - THE WRONG CONCLUSION # #malfoid #funny #dailyvlog #harrypotter #vlog | To download | [YouTube](https://www.youtube.com/watch?v=MPcDOUcWuEA)
+- ? | Gilderoy Lockhart supervises the duel of Malfoid vs Potter #malfoid | To download | [YouTube](https://www.youtube.com/watch?v=N52Io0tkUIc)
+- ? | 【Malfoy Is a Girl?!】Draconia Malfoid has some explaining to do 💚\| Part 16 #DraconiaMalfoid | To download | [YouTube](https://www.youtube.com/watch?v=UlecNT1sbMc)
 
 ## Draconia Malfoy New Chapter
 
@@ -103,6 +117,16 @@ Uploaded | Title | Status | Link, grouped by channel.
 - ? | Harry Potter (Female Draco Malfoy AU) react to Harry Potter as LEON KENNEDY P4 \| RE9: REQUIEM \| GCRV | To download | [YouTube](https://www.youtube.com/watch?v=S8ee2IvOQQU)
 - ? | Harry Potter (Female Draco Malfoy AU) react to Harry Potter as DOOMGUY "PART 12" \| DOOM: TDA \| GCRV | To download | [YouTube](https://www.youtube.com/watch?v=nvXuyc7TafE)
 - ? | Harry Potter (Female Draco Malfoy AU) react to Harry Potter as DOOMGUY "PART 13" \| DOOM: TDA \| GCRV | To download | [YouTube](https://www.youtube.com/watch?v=cmGdpAa1EQc)
+- ? | Harry Potter (Female Draco Malfoy AU) react to Harry Potter as DOOMGUY "PART 8" \| DOOM: TDA \| GCRV | To download | [YouTube](https://www.youtube.com/watch?v=oEDH2zgl_y4)
+- ? | Harry Potter (Female Draco Malfoy AU) react to Harry Potter as DOOMGUY "PART 10" \| DOOM: TDA \| GCRV | To download | [YouTube](https://www.youtube.com/watch?v=AD1fXx-KUZ0)
+- ? | Harry Potter (Female Draco Malfoy AU) react to Harry Potter as DOOMGUY "PART 6" \| DOOM: TDA \| GCRV | To download | [YouTube](https://www.youtube.com/watch?v=JhXpNw6VWuA)
+- ? | Harry Potter (Female Draco Malfoy AU) react to Harry Potter as LEON KENNEDY P2 \| RE9: REQUIEM \| GCRV | To download | [YouTube](https://www.youtube.com/watch?v=YEa9YthGJPA)
+- ? | Harry Potter (Female Draco Malfoy AU) react to Harry Potter as LEON KENNEDY P3 \| RE9: REQUIEM \| GCRV | To download | [YouTube](https://www.youtube.com/watch?v=SvgYfpdu-ys)
+- ? | Harry Potter (Female Draco Malfoy AU) react to Harry Potter as LEON KENNEDY P8 \| RE9: REQUIEM \| GCRV | To download | [YouTube](https://www.youtube.com/watch?v=vJSDSFkzVdo)
+- ? | Harry Potter (Female Draco Malfoy AU) react to Harry Potter as LEON KENNEDY P5 \| RE9: REQUIEM \| GCRV | To download | [YouTube](https://www.youtube.com/watch?v=h1hq96V2L4s)
+- ? | Harry Potter (Female Draco Malfoy AU) react to Harry Potter as DANTE \| Devil May Cry 5 \| GCRV | To download | [YouTube](https://www.youtube.com/watch?v=rwY6UW-vsGc)
+- ? | Harry Potter (Female Draco Malfoy AU) react to Harry Potter as LEON KENNEDY P7 \| RE9: REQUIEM \| GCRV | To download | [YouTube](https://www.youtube.com/watch?v=xxx9uQOa5zs)
+- ? | Harry Potter (Female Draco Malfoy AU) react to Harry Potter as DANTE "PT 2" \| Devil May Cry 5 \| GCRV | To download | [YouTube](https://www.youtube.com/watch?v=vqGDuf1-fSM)
 - 2026-10-08 | Harry Potter (Female Draco Malfoy AU) react to Harry Potter as LEON KENNEDY \| RE9: REQUIEM \| GCRV | To download | [YouTube](https://www.youtube.com/watch?v=qpE8miAVcRg)
 - 2026-10-13 | Harry Potter (Female Draco Malfoy AU) react to Harry Potter as LEON KENNEDY P6 \| RE9: REQUIEM \| GCRV | To download | [YouTube](https://www.youtube.com/watch?v=FFEINqRMgE8)
 - 2026-10-16 | Harry Potter (Female Draco Malfoy AU) react to Harry Potter as LEON KENNEDY P9 \| RE4 \| GCRV | To download | [YouTube](https://www.youtube.com/watch?v=RU2_ClK3-w8)
@@ -122,6 +146,14 @@ Uploaded | Title | Status | Link, grouped by channel.
 ## Gaming With Spoons
 
 - 2026-10-18 | How MALFOID Became The Most Wholesome Meme of the Year | Saved | [YouTube](https://www.youtube.com/watch?v=O6xrfMlMUPw)
+
+## Georg Vovk
+
+- ? | Obsessive Female Draco Malfoy VS Harry Poter/ ENG SUB(SOUND REMASTERED) | To download | [YouTube](https://www.youtube.com/watch?v=9qiCsqpwESY)
+
+## Girlform Lab
+
+- ? | [TSF Transformation] The Blonde Rival’s Maid Wager?! \| TS Malfoy vs Ranma-chan PART 3 | To download | [YouTube](https://www.youtube.com/watch?v=KBavu_LQJ10)
 
 ## Half Blood Theorist
 
@@ -234,10 +266,15 @@ Uploaded | Title | Status | Link, grouped by channel.
 
 - ? | HEXES AT THE HALLOWEEN BALL 🎃 \| Malfoid vs Potter \| Halloween Musical | To download | [YouTube](https://www.youtube.com/watch?v=WCUm-jQHXj4)
 
+## mo•on
+
+- ? | Ts Malfoy Romeo & Jilet EP2 \| harrypotter ai drama \| 2170기묘한 이야기 ep10 | To download | [YouTube](https://www.youtube.com/watch?v=wVJkDpVDrBY)
+
 ## Mr. Pzin
 
 - ? | Harry Potter (Fem! Malfoy AU) React to: Malfoy's Thoughts \| Gacha React \| Harry X Dracona Malfoy \| | To download | [YouTube](https://www.youtube.com/watch?v=TIpvpyBf8Lo)
 - ? | FPE React To Female Malfoy Comics (Harry Potter A.U. Fem Malfoy) \| Gacha React\|@ParadaDimensional | To download | [YouTube](https://www.youtube.com/watch?v=-U98cX6gh1s)
+- ? | FPE React To: Quando o Potter resolver Agir (Harry Potter A.U Fem Malfoy) \| Gacha React \| Abbie As | To download | [YouTube](https://www.youtube.com/watch?v=RXMZPNn3cBE)
 
 ## Mythic Subframe
 
@@ -289,6 +326,7 @@ Uploaded | Title | Status | Link, grouped by channel.
 
 ## QORVETH STUDIOS
 
+- ? | When you watch the wrong Harry Potter but it's lowkey lit🍿 #harrypotter #Foyege #whatif | To download | [YouTube](https://www.youtube.com/watch?v=ePncdo4-DTw)
 - 2026-11-14 | #harrypotter x #malfoy When you watch the wrong Harry Potter but it's lowkey lit 🔥 #Foyege #whatif | To download | [YouTube](https://www.youtube.com/watch?v=3ABA_nBdWFo)
 
 ## Rabo9D
@@ -307,13 +345,18 @@ Uploaded | Title | Status | Link, grouped by channel.
 
 - ? | Harry & Draconia: A Love Story \| Chapter 16: The wrong name \| Audiobook | To download | [YouTube](https://www.youtube.com/watch?v=l2ToMa4SYr4)
 
+## RED BRAID STUDIO
+
+- ? | 28 Days as a Woman vs a 40-Year Legend \| TS Malfoy vs Ranma-chan — PART 1 | To download | [YouTube](https://www.youtube.com/watch?v=mxGgbqv8PNU)
+- ? | [TSF Transformation] The Blonde Rival’s Maid Wager?! \| TS Malfoy vs Ranma-chan PART 3 | To download | [YouTube](https://www.youtube.com/watch?v=shW4cO9Nfyc)
+
 ## Reth white
 
 - 2026-10-17 | 🇺🇸/🇧🇷/🇪🇸\|Harry Potter React to MALFOY \|Gacha Reaction | To download | [YouTube](https://www.youtube.com/watch?v=VgSd6dzYFyQ)
 
-## REX  and 3 more
+## REX 
 
-- ? | HarryPotter Characters React To Harry Potter x Draco Malfoid \|\| Harry Potter \|\| ONESHOT \|\| | To download | [YouTube](https://www.youtube.com/watch?v=BBs8DyVtRf8)
+- 2026-10-26 | HarryPotter Characters React To Harry Potter x Draco Malfoid \|\| Harry Potter \|\| ONESHOT \|\| | To download | [YouTube](https://www.youtube.com/watch?v=BBs8DyVtRf8)
 
 ## Rowella Cordero
 
@@ -403,6 +446,10 @@ Uploaded | Title | Status | Link, grouped by channel.
 ## 마이부 코스프레 MyBoo Cosplay
 
 - ? | [Sub] Harry Potter vs Malfoid Cosplay (Neon, Roleplay, House Sorting Test) | To download | [YouTube](https://www.youtube.com/watch?v=ZjCsGvNiN-M)
+
+## 메피
+
+- ? | "Wait, Why Did I Become a Girl?!"🫨 [Draco Malfoy Genderbend] Malfoid Galfoy (Female version) TS Meme | To download | [YouTube](https://www.youtube.com/watch?v=9tw1-rOrROY)
 
 ## 모모도로 Momodoro
 

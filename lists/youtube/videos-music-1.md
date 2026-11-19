@@ -2,10 +2,6 @@
 
 Uploaded | Title | Status | Link, grouped by channel.
 
-## 
-
-- ? | 왜 ts 말포이만 인기있는데? 시리즈 3 + 봄을 닮은것(ai 이미지, 노래는 채널장) 역시 내 청춘 러브 코미디는 잘못됐다(히키가야 하치만 ts) | To download | [YouTube](https://www.youtube.com/watch?v=Bx-DSbJSolw)
-
 ## 123Ravenq
 
 - 2026-10-29 | Draconia Malfoy - Song | Saved | [YouTube](https://www.youtube.com/watch?v=WgUQHtK1ET8)
@@ -31,8 +27,8 @@ Uploaded | Title | Status | Link, grouped by channel.
 ## AightCrunsh
 
 - 2026-11-13 | 🐍 YOU LEFT ME IN THE SNAKEPIT \| Track 03 \| DRACONIA – SIEGE OF HOGWARTS | Saved | [YouTube](https://www.youtube.com/watch?v=f-u4fVDtxHs)
-- 2026-11-15 | 🔪 FOR MASTER REGULUS \| 🔓 BONUS TRACK \| DRACONIA – SIEGE OF HOGWARTS | Saved | [YouTube](https://www.youtube.com/watch?v=X9Q5CBNh2Ws)
 - 2026-11-15 | 🐍 HOGWARTS, MY BEAUTIFUL MONSTER \| Track 01 \| DRACONIA – SIEGE OF HOGWARTS | Saved | [YouTube](https://www.youtube.com/watch?v=I-X0pGuP1j0)
+- 2026-11-15 | 🔪 FOR MASTER REGULUS \| 🔓 BONUS TRACK \| DRACONIA – SIEGE OF HOGWARTS | Saved | [YouTube](https://www.youtube.com/watch?v=X9Q5CBNh2Ws)
 
 ## Aiyun
 
@@ -42,6 +38,10 @@ Uploaded | Title | Status | Link, grouped by channel.
 ## Aldendra
 
 - ? | A Mysterious Singer? #shorts #malfoid #harrypotter #hogwarts | To download | [YouTube](https://www.youtube.com/watch?v=uAGZHA09Wfk)
+
+## aleatório 
+
+- ? | MALFOID - Don't Let Go, Potter (Harry Potter x Female Draco Malfoy Fan Song)  | To download | [YouTube](https://www.youtube.com/watch?v=2J_KqT9RAuo)
 
 ## Aleχ
 
@@ -84,6 +84,10 @@ Uploaded | Title | Status | Link, grouped by channel.
 
 - ? | Malfoid - El opening | To download | [YouTube](https://www.youtube.com/watch?v=y0XoF5mhTEk)
 
+## Banana-Man
+
+- ? | So i used ai to generate a song for Fem Draco Malfoid.  | To download | [YouTube](https://www.youtube.com/watch?v=iUIMzBQ2Rw0)
+
 ## Based Camp Music
 
 - 2026-10-04 | The Spell Curve (Malfoid's Song) | Saved | [YouTube](https://www.youtube.com/watch?v=mJYMfGRJzA4)
@@ -101,53 +105,53 @@ Uploaded | Title | Status | Link, grouped by channel.
 - 2026-11-02 | Look Up - Malfoy \| Malfoid | Saved | [YouTube](https://www.youtube.com/watch?v=Yc1-NVGfxtk)
 - 2026-11-02 | "Fine. It's warm. Shut up." 🙄❄️ #malfoy #malfoid #slytherin | Saved | [YouTube](https://www.youtube.com/watch?v=qh8ONnLfcgE)
 - 2026-11-03 | "Tomorrow, then. Same time." #malfoy #malfoid #slytherin | Saved | [YouTube](https://www.youtube.com/watch?v=1YV8zM8iy2s)
-- 2026-11-04 | One Word - Malfoy \| Malfoid | Saved | [YouTube](https://www.youtube.com/watch?v=y_4jbJPCsZY)
 - 2026-11-04 | She held out her hand. Potter didn't take it. 🤝 #malfoy #malfoid #slytherin | Saved | [YouTube](https://www.youtube.com/watch?v=mXDXm-k-7qQ)
+- 2026-11-04 | One Word - Malfoy \| Malfoid | Saved | [YouTube](https://www.youtube.com/watch?v=y_4jbJPCsZY)
 - 2026-11-05 | Cold outside? She's colder. ❄️🐍 #malfoy #malfoid #slytherin | Saved | [YouTube](https://www.youtube.com/watch?v=ueJNm1sCMiQ)
-- 2026-11-06 | I Wear It Well - Malfoy \| Malfoid | Saved | [YouTube](https://www.youtube.com/watch?v=HFSW33CKX34)
-- 2026-11-06 | Potter. Don't look at me like that. 🐍 #malfoy #malfoid #slytherin | Saved | [YouTube](https://www.youtube.com/watch?v=NYiUUVi1DE0)
 - 2026-11-06 | One small light on a dark tower ✨ #malfoy #malfoid #slytherin | Saved | [YouTube](https://www.youtube.com/watch?v=JgS5_TQnhYc)
+- 2026-11-06 | Potter. Don't look at me like that. 🐍 #malfoy #malfoid #slytherin | Saved | [YouTube](https://www.youtube.com/watch?v=NYiUUVi1DE0)
+- 2026-11-06 | I Wear It Well - Malfoy \| Malfoid | Saved | [YouTube](https://www.youtube.com/watch?v=HFSW33CKX34)
 - 2026-11-07 | Teaching Harry Potter how to shake a hand #malfoy #malfoid #slytherin | Saved | [YouTube](https://www.youtube.com/watch?v=lsKW_jAZRCs)
-- 2026-11-08 | Rejecting the entire Yule Ball, one owl at a time #malfoy #malfoid #slytherin | Saved | [YouTube](https://www.youtube.com/watch?v=80uDhHR4GYA)
 - 2026-11-08 | Fear My Voice - Malfoy \| Malfoid | Saved | [YouTube](https://www.youtube.com/watch?v=GTVprxWMoo0)
+- 2026-11-08 | Rejecting the entire Yule Ball, one owl at a time #malfoy #malfoid #slytherin | Saved | [YouTube](https://www.youtube.com/watch?v=80uDhHR4GYA)
 - 2026-11-08 | "My name is Malfoy." 🐍 #malfoy #malfoid #slytherin | Saved | [YouTube](https://www.youtube.com/watch?v=cVeF5mvYjg0)
 - 2026-11-09 | Every day at five, she waits for him to look up #malfoy #malfoid #slytherin | Saved | [YouTube](https://www.youtube.com/watch?v=a0Wk4F2F6h4)
 - 2026-11-10 | Expecto Patronum - Malfoy (Lyric Video) | Saved | [YouTube](https://www.youtube.com/watch?v=ws5MlhDOxx4)
-- 2026-11-10 | One spell would make her forget him. She can't say it. #malfoy #malfoid #slytherin | Saved | [YouTube](https://www.youtube.com/watch?v=RXqZtsetOQA)
 - 2026-11-10 | Seven tries. Seven times nothing but smoke. Then... 🦚 #malfoy #malfoid #slytherin | Saved | [YouTube](https://www.youtube.com/watch?v=mF6QFyy_J88)
+- 2026-11-10 | One spell would make her forget him. She can't say it. #malfoy #malfoid #slytherin | Saved | [YouTube](https://www.youtube.com/watch?v=RXqZtsetOQA)
 - 2026-11-11 | "Bow to the girl in the silver and green" 🐍💚 #malfoy #malfoid #slytherin | Saved | [YouTube](https://www.youtube.com/watch?v=VprxqxizBQY)
-- 2026-11-12 | "...Potter?" 🥀 #malfoy #malfoid #slytherin | Saved | [YouTube](https://www.youtube.com/watch?v=XAFHiL7csPU)
-- 2026-11-12 | Sectum - Malfoy (Lyric Video) | Saved | [YouTube](https://www.youtube.com/watch?v=lxGqYVgaXh8)
 - 2026-11-12 | Half a word. She can't say the other half. #malfoy #malfoid #slytherin | Saved | [YouTube](https://www.youtube.com/watch?v=tGoPTinqZno)
+- 2026-11-12 | Sectum - Malfoy (Lyric Video) | Saved | [YouTube](https://www.youtube.com/watch?v=lxGqYVgaXh8)
+- 2026-11-12 | "...Potter?" 🥀 #malfoy #malfoid #slytherin | Saved | [YouTube](https://www.youtube.com/watch?v=XAFHiL7csPU)
 - 2026-11-13 | Everything she never said. 🐍 #malfoid #DracoMalfoy #HarryPotter | Saved | [YouTube](https://www.youtube.com/watch?v=MasjUBUoqrU)
+- 2026-11-13 | Chin Up - Malfoy (Lyric Video) @galakushi @j.a.vazquez5946 | Saved | [YouTube](https://www.youtube.com/watch?v=0e5oNgS75f0)
 - 2026-11-13 | "Finite Incantatem?" ...Not yet. Keep dancing. #malfoy #malfoid #slytherin | Saved | [YouTube](https://www.youtube.com/watch?v=An-kaaG2mGg)
 - 2026-11-13 | Chin up, Slytherin. 🐍 #malfoid #slytherin #wedontbow | Saved | [YouTube](https://www.youtube.com/watch?v=zo_ImA4SOj0)
-- 2026-11-13 | Chin Up - Malfoy (Lyric Video) @galakushi @j.a.vazquez5946 | Saved | [YouTube](https://www.youtube.com/watch?v=0e5oNgS75f0)
-- 2026-11-14 | Know Your Place - Malfoy (Lyric Video) | Saved | [YouTube](https://www.youtube.com/watch?v=PZLHJ_Q-HZ4)
 - 2026-11-14 | United and Proud - Malfoy (Lyric Video) | Saved | [YouTube](https://www.youtube.com/watch?v=kuSFgX2g6bs)
-- 2026-11-14 | She raised her wand to forget him #malfoy #malfoid #slytherin | Saved | [YouTube](https://www.youtube.com/watch?v=wv8hIpqbImw)
 - 2026-11-14 | "Which fork? That's a spoon." 🍴🐍 #malfoy #malfoid #slytherin | Saved | [YouTube](https://www.youtube.com/watch?v=NK7S5P12Buk)
-- 2026-11-15 | Blink if you miss me. 🌙 #malfoid #petrificustotalus #halfbloodprince | Saved | [YouTube](https://www.youtube.com/watch?v=44jnyXLjoKA)
-- 2026-11-15 | Lie Still - Malfoy (Lyric Video) | Saved | [YouTube](https://www.youtube.com/watch?v=1apKAKzu8QQ)
+- 2026-11-14 | She raised her wand to forget him #malfoy #malfoid #slytherin | Saved | [YouTube](https://www.youtube.com/watch?v=wv8hIpqbImw)
+- 2026-11-14 | Know Your Place - Malfoy (Lyric Video) | Saved | [YouTube](https://www.youtube.com/watch?v=PZLHJ_Q-HZ4)
 - 2026-11-15 | "Lumos Maxima, blind you with the shine" ✨ #malfoy #malfoid #slytherin | Saved | [YouTube](https://www.youtube.com/watch?v=vtsOVxGQ7Ro)
-- 2026-11-15 | Look us in the eye. 🔥 #malfoid #slytherin #wedontbow | Saved | [YouTube](https://www.youtube.com/watch?v=agQ0YADKvyM)
+- 2026-11-15 | Lie Still - Malfoy (Lyric Video) | Saved | [YouTube](https://www.youtube.com/watch?v=1apKAKzu8QQ)
+- 2026-11-15 | Blink if you miss me. 🌙 #malfoid #petrificustotalus #halfbloodprince | Saved | [YouTube](https://www.youtube.com/watch?v=44jnyXLjoKA)
 - 2026-11-15 | Which house are you? 🐍🦅🦡🦁 #malfoid #unitedandproud #hogwartshouses | Saved | [YouTube](https://www.youtube.com/watch?v=QffajCGYimk)
-- 2026-11-16 | Not Another One - Malfoy (Lyric Video) | Saved | [YouTube](https://www.youtube.com/watch?v=clKMTn3VNWs)
-- 2026-11-16 | Habit, Potter. 🖤 #malfoid #petrificustotalus #halfbloodprince | Saved | [YouTube](https://www.youtube.com/watch?v=phy_83SllOg)
+- 2026-11-15 | Look us in the eye. 🔥 #malfoid #slytherin #wedontbow | Saved | [YouTube](https://www.youtube.com/watch?v=agQ0YADKvyM)
 - 2026-11-16 | We saved you a seat. 💚 #malfoid #unitedandproud | Saved | [YouTube](https://www.youtube.com/watch?v=GLgbs5RJ4HA)
 - 2026-11-16 | "Capitals. And spelled it right." 🖤 #malfoid #sayittomyface #eighthyear | Saved | [YouTube](https://www.youtube.com/watch?v=sR1QhLPoByg)
+- 2026-11-16 | Not Another One - Malfoy (Lyric Video) | Saved | [YouTube](https://www.youtube.com/watch?v=clKMTn3VNWs)
 - 2026-11-16 | "Now you walk past. And I look away." #malfoy #malfoid #slytherin | Saved | [YouTube](https://www.youtube.com/watch?v=zWpqnl5f4WQ)
 - 2026-11-16 | Say It To My Face - Malfoy | Saved | [YouTube](https://www.youtube.com/watch?v=NGJWpVt3JT0)
-- 2026-11-17 | There you were, Potter. 🖤 #malfoid #occlumency #halfbloodprince | Saved | [YouTube](https://www.youtube.com/watch?v=UJw9zo9Or-M)
+- 2026-11-16 | Habit, Potter. 🖤 #malfoid #petrificustotalus #halfbloodprince | Saved | [YouTube](https://www.youtube.com/watch?v=phy_83SllOg)
 - 2026-11-17 | "I was sixteen. And I said yes." 🖤 #malfoy #malfoid #slytherin | Saved | [YouTube](https://www.youtube.com/watch?v=R7SXLhSTpm8)
-- 2026-11-17 | Well, Actually - Malfoy (Lyric Video) | Saved | [YouTube](https://www.youtube.com/watch?v=R7hAde8QI8E)
 - 2026-11-17 | Not another one! Yes. Another one. ☕ #malfoid #notanotherone #threehundredcups | Saved | [YouTube](https://www.youtube.com/watch?v=meZ--u7f7gI)
 - 2026-11-17 | Empty Your Mind -Malfoy (Lyric Video) | Saved | [YouTube](https://www.youtube.com/watch?v=SKBCOnoW_So)
+- 2026-11-17 | There you were, Potter. 🖤 #malfoid #occlumency #halfbloodprince | Saved | [YouTube](https://www.youtube.com/watch?v=UJw9zo9Or-M)
+- 2026-11-17 | Well, Actually - Malfoy (Lyric Video) | Saved | [YouTube](https://www.youtube.com/watch?v=R7hAde8QI8E)
+- 2026-11-18 | I'll know you by the hair. 🤍 #malfoid #occlumency #halfbloodprince | Saved | [YouTube](https://www.youtube.com/watch?v=eDcUZznwOlc)
+- 2026-11-18 | "They found a green star. Guess where." 💚 #malfoid #whoimmeanttobe #greenstar | Saved | [YouTube](https://www.youtube.com/watch?v=gbPt1j7FCT4)
 - 2026-11-18 | Should've Brought Me - Malfoy (Lyric Video) \| Malfoid | Saved | [YouTube](https://www.youtube.com/watch?v=hfytPHNkq9E)
 - 2026-11-18 | My god. You three. 🐍 #malfoid #shouldvebroughtme #sodaft | Saved | [YouTube](https://www.youtube.com/watch?v=jVv9XZoKnwI)
 - 2026-11-18 | Who I'm Meant To Be - Malfoy (Lyric Video) \| Malfoid | Saved | [YouTube](https://www.youtube.com/watch?v=F33Cm4EMO-Q)
-- 2026-11-18 | "They found a green star. Guess where." 💚 #malfoid #whoimmeanttobe #greenstar | Saved | [YouTube](https://www.youtube.com/watch?v=gbPt1j7FCT4)
-- 2026-11-18 | I'll know you by the hair. 🤍 #malfoid #occlumency #halfbloodprince | Saved | [YouTube](https://www.youtube.com/watch?v=eDcUZznwOlc)
 
 ## Beyond Hogwarts (BeyondHogwartsAI1)
 
@@ -160,6 +164,7 @@ Uploaded | Title | Status | Link, grouped by channel.
 ## Bloom Songs
 
 - ? | Juliet  \| A Malfoid Song \| Dreamy Indie Pop & Soft Rock | To download | [YouTube](https://www.youtube.com/watch?v=yggp-z5dh7w)
+- ? | Just Curious 💚 \| A Malfoid Song \| Mellow Indie Pop \| Soft R&B & Indie Pop | To download | [YouTube](https://www.youtube.com/watch?v=QPuBV-VGxEM)
 
 ## Brazilian Soul Sound
 
@@ -186,9 +191,9 @@ Uploaded | Title | Status | Link, grouped by channel.
 
 ## cestlavieartist
 
+- 2026-11-16 | Confession \| Draconia Malfoy — Potter POV | Saved | [YouTube](https://www.youtube.com/watch?v=WyzfoPUTWIY)
 - 2026-11-16 | Cestlavie - I L O V E Y O U (Official Music Video) \| Draconia Malfoy — Potter POV | Saved | [YouTube](https://www.youtube.com/watch?v=kTJSi6OgAq8)
 - 2026-11-16 | Travel With Me \| Draconia Malfoy — Potter POV | Saved | [YouTube](https://www.youtube.com/watch?v=Oe2_0ArTflk)
-- 2026-11-16 | Confession \| Draconia Malfoy — Potter POV | Saved | [YouTube](https://www.youtube.com/watch?v=WyzfoPUTWIY)
 
 ## Chaosmaster Hawk
 
@@ -199,6 +204,10 @@ Uploaded | Title | Status | Link, grouped by channel.
 - ? | VILLAINESS MALFOY music fixed — AUDIOBOOK (pt 4) | To download | [YouTube](https://www.youtube.com/watch?v=Du7ttq6eqpg)
 - 2026-10-21 | VILLAINESS MALFOY music fixed — AUDIOBOOK (pt 1) | To download | [YouTube](https://www.youtube.com/watch?v=MsmpX0-YZ8k)
 - 2026-10-22 | VILLAINESS MALFOY music fixed — AUDIOBOOK (pt 2) | To download | [YouTube](https://www.youtube.com/watch?v=5Oos4jYcRe8)
+
+## ChronoCrusader
+
+- ? | PUMPKIN PUMPKIN! 🎃 \| Malfoid’s Halloween Song (Fan-Made) | To download | [YouTube](https://www.youtube.com/watch?v=cFv-zjOFLfo)
 
 ## CLUB BUNNY
 
@@ -294,6 +303,10 @@ Uploaded | Title | Status | Link, grouped by channel.
 - ? | 🐉 MALFOY 💚 Her Decision Part 3 - I Won't Deny It (Lyrics) - Song of the Dragon | To download | [YouTube](https://www.youtube.com/watch?v=5eBq2MxBBT8)
 - ? | 🐉 💚 Malfoid - You Are My Happiest Light (Lyrics) - The Dragon's Song | To download | [YouTube](https://www.youtube.com/watch?v=nAaMTR_MwR0)
 
+## ElectroKaplosion | MareQuest
+
+- ? | Marefoy (Harry Potter MLP Parody Song & Video) | To download | [YouTube](https://www.youtube.com/watch?v=7sASxkTqs7Q)
+
 ## ELYVIA4
 
 - ? | If Malfoy was a girl… Anime Opening NÃO ESCOLHI 🐍) \| Brazilian Phonk | To download | [YouTube](https://www.youtube.com/watch?v=9r2_G9bkOPA)
@@ -313,6 +326,10 @@ Uploaded | Title | Status | Link, grouped by channel.
 ## Evermoure
 
 - ? | Harry Potter x Draconia Malfoy \| My Love My Rival (Anime Lyric Video) | To download | [YouTube](https://www.youtube.com/watch?v=PObd8pG8f04)
+
+## F Note
+
+- ? | Malfoid Theme Song Lyrics | To download | [YouTube](https://www.youtube.com/watch?v=_UJ6kSMarJ4)
 
 ## FILM_PLY
 
@@ -364,8 +381,8 @@ Uploaded | Title | Status | Link, grouped by channel.
 
 ## juntahmolokai
 
-- 2026-10-18 | ♫ Malfoid - Chosen & Conflicted ♫ (Harry POV) | Saved | [YouTube](https://www.youtube.com/watch?v=5jnbBE7cY7k)
 - 2026-10-18 | ♫ Ron and Hermione have had enough "Pull It Together, Harry!" ♫ (Malfoid) | Saved | [YouTube](https://www.youtube.com/watch?v=-RJ7zV0CuQg)
+- 2026-10-18 | ♫ Malfoid - Chosen & Conflicted ♫ (Harry POV) | Saved | [YouTube](https://www.youtube.com/watch?v=5jnbBE7cY7k)
 - 2026-11-04 | Draconia's Magical Night - "My Soul Is Filled With You" | Saved | [YouTube](https://www.youtube.com/watch?v=pVU04EuF0d8)
 
 ## Ken (ken31331)
@@ -383,8 +400,8 @@ Uploaded | Title | Status | Link, grouped by channel.
 - 2026-10-06 | The MALFOID chud victory and Lanterns disaster! with guest RH Snow! - THE CULTURE CRUSADE | Saved | [YouTube](https://www.youtube.com/watch?v=cfUmRWNuZsY)
 - 2026-10-08 | They can't handle MALFOID! | Saved | [YouTube](https://www.youtube.com/watch?v=GSUqF3rH8ho)
 - 2026-10-09 | MALFOID - Be My Potter \| MUSIC VIDEO by Shad M. Brooks | Saved | [YouTube](https://www.youtube.com/watch?v=_vqabNg5-XA)
-- 2026-10-13 | MALFOID conquers the internet, with guest ARCH - the culture crusade | Saved | [YouTube](https://www.youtube.com/watch?v=GAJPRTCiaY8)
 - 2026-10-13 | Shad addresses the FNT MALFOID backlash | Saved | [YouTube](https://www.youtube.com/watch?v=uoPTJzQmi7U)
+- 2026-10-13 | MALFOID conquers the internet, with guest ARCH - the culture crusade | Saved | [YouTube](https://www.youtube.com/watch?v=GAJPRTCiaY8)
 - 2026-10-14 | Why the MALFOID meme is more important than you think | Saved | [YouTube](https://www.youtube.com/watch?v=ADpIpfun31A)
 - 2026-10-15 | Why FANFICTION is important and Malfoid proves it! | Saved | [YouTube](https://www.youtube.com/watch?v=1TlG2fpD5vU)
 - 2026-10-16 | When is it OK to CHANGE a character's GENDER like malfoid? | Saved | [YouTube](https://www.youtube.com/watch?v=1C5FKRWKHK4)
@@ -409,6 +426,10 @@ Uploaded | Title | Status | Link, grouped by channel.
 
 - 2026-11-01 | Malfoid -- The One I Was Born to Hate (Official Music Video) \| Draconia Malfoy x Harry Potter | Saved | [YouTube](https://www.youtube.com/watch?v=9kKozhLLz8g)
 
+## Kyrulean
+
+- ? | pov: Malfoid wrote you a love song \| Accio, My Heart – Kyrulean | To download | [YouTube](https://www.youtube.com/watch?v=M5eS4-WN01Y)
+
 ## LEE01
 
 - ? | Why Am I Falling – Draco Malfoy Fan Song (Full ver.) \| 말포이 팬송 풀버전 | To download | [YouTube](https://www.youtube.com/watch?v=j41wmPxX9wQ)
@@ -417,16 +438,16 @@ Uploaded | Title | Status | Link, grouped by channel.
 
 - 2026-10-27 | Girl Draco Saved Harry With the Killing Curse. He Called Her Ginny \| Spike Score #shorts #fyp | Saved | [YouTube](https://www.youtube.com/watch?v=A4MoQ8VfP7s)
 - 2026-10-27 | Draco Malfoy as a Girl, Made With AI: All 3 Episodes + Every Book Reference \| Spike Score 7/10 | Saved | [YouTube](https://www.youtube.com/watch?v=mNi4zo6tFFc)
-- 2026-10-28 | Not Ginny \| Malfoid (Female Draco) Music Video \| Lilith Spike | Saved | [YouTube](https://www.youtube.com/watch?v=e_hoUqySKk0)
 - 2026-10-28 | Not Ginny 💚 Draconia Malfoy (Unofficial Music Video) #shorts | Saved | [YouTube](https://www.youtube.com/watch?v=5GzAeIP9IW4)
-- 2026-10-29 | I Turned Draconia Malfoy Into LEGO — Every Frame (Malfoid) | Saved | [YouTube](https://www.youtube.com/watch?v=hwvzSKuQ4vY)
+- 2026-10-28 | Not Ginny \| Malfoid (Female Draco) Music Video \| Lilith Spike | Saved | [YouTube](https://www.youtube.com/watch?v=e_hoUqySKk0)
 - 2026-10-29 | Draconia Malfoy… but LEGO 🧱 #shorts | Saved | [YouTube](https://www.youtube.com/watch?v=l6qzhu4RDNo)
-- 2026-10-31 | Malfoid Takes Harry to the Yule Ball – She's My Date \| Lilith Spike | Saved | [YouTube](https://www.youtube.com/watch?v=WU24r2OTSYU)
+- 2026-10-29 | I Turned Draconia Malfoy Into LEGO — Every Frame (Malfoid) | Saved | [YouTube](https://www.youtube.com/watch?v=hwvzSKuQ4vY)
 - 2026-10-31 | She's My Date 🎃 Draconia Malfoy x Harry Potter #shorts | Saved | [YouTube](https://www.youtube.com/watch?v=eD6DARqGeoI)
+- 2026-10-31 | Malfoid Takes Harry to the Yule Ball – She's My Date \| Lilith Spike | Saved | [YouTube](https://www.youtube.com/watch?v=WU24r2OTSYU)
 - 2026-11-03 | Not Ginny is coming to Spotify Thursday \| Draconia Malfoy song – Lilith Spike | Saved | [YouTube](https://www.youtube.com/watch?v=L4LzK29kuhI)
 - 2026-11-03 | Harry Potter by Balenciaga: Draconia Malfoy Asked Me for a Song – Ew, No (Teaser) \| Lilith Spike | Saved | [YouTube](https://www.youtube.com/watch?v=pzBqHFQ1quM)
-- 2026-11-06 | Malfoid by Balenciaga: Is It Ginny? Ew, No \| Lilith Spike #shorts | Saved | [YouTube](https://www.youtube.com/watch?v=Aukg9pZzbcY)
 - 2026-11-06 | Malfoid by Balenciaga – Ew, No \| Lilith Spike | Saved | [YouTube](https://www.youtube.com/watch?v=ZGA5nhLTNh8)
+- 2026-11-06 | Malfoid by Balenciaga: Is It Ginny? Ew, No \| Lilith Spike #shorts | Saved | [YouTube](https://www.youtube.com/watch?v=Aukg9pZzbcY)
 - 2026-11-09 | Malfoid Songs Ranked: The Top 10 on YouTube \| Total Request Lilith | Saved | [YouTube](https://www.youtube.com/watch?v=AGcm75YDEHc)
 - 2026-11-11 | something big is happening on set... 🎬 \| Malfoy Family | Saved | [YouTube](https://www.youtube.com/watch?v=JGkJ87yJ2Kk)
 - 2026-11-11 | Draconia Malfoy \| Malfoid Family Ep.1 \| FOYEGE Universe | Saved | [YouTube](https://www.youtube.com/watch?v=FtWLaP3m0gY)
@@ -530,8 +551,8 @@ Uploaded | Title | Status | Link, grouped by channel.
 
 ## Moonquill Theater
 
-- 2026-11-13 | Malfoy's Anime Opening \| The Villainess Malfoy Book 1 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=1dVSDEwOqtA)
 - 2026-11-13 | The Villainess Malfoy \| Anime Opening + Book 1 Out Now \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=5Dh-1RBfvuo)
+- 2026-11-13 | Malfoy's Anime Opening \| The Villainess Malfoy Book 1 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=1dVSDEwOqtA)
 - 2026-11-16 | The Villainess Malfoy Anime Opening \| The Villainess Malfoy \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=14TSnFb1Lfs)
 
 ## Mrs. Smith & Sons
@@ -544,15 +565,15 @@ Uploaded | Title | Status | Link, grouped by channel.
 - 2026-10-15 | Draco Malfoy Female Version Potter, Don't Look At Me | To download | [YouTube](https://www.youtube.com/watch?v=AobWcUodYvI)
 - 2026-10-16 | Malfoid Draco — He Looked Back \| YAV & YOV | Saved | [YouTube](https://www.youtube.com/watch?v=fzLXaFNJ_lI)
 - 2026-10-17 | Potter & Malfoid — Magic in the Room \| YAV & YOV | Saved | [YouTube](https://www.youtube.com/watch?v=IkrZaxEOMdQ)
-- 2026-10-18 | Malfoid Draco & Potter — LOOK AT ME \| YAV & YOV | Saved | [YouTube](https://www.youtube.com/watch?v=Jjay-QR1lqM)
-- 2026-10-18 | Malfoid Confesses Her Secret Love to Harry \| Part 4 - I've Always Loved You \| YAV & YOV | Saved | [YouTube](https://www.youtube.com/watch?v=9gnEoGFwxh4)
 - 2026-10-18 | Malfoid Draco & Potter — LOOK AT ME \| Alternate Edit \| YAV & YOV | Saved | [YouTube](https://www.youtube.com/watch?v=DSJlstwxJaA)
+- 2026-10-18 | Malfoid Confesses Her Secret Love to Harry \| Part 4 - I've Always Loved You \| YAV & YOV | Saved | [YouTube](https://www.youtube.com/watch?v=9gnEoGFwxh4)
+- 2026-10-18 | Malfoid Draco & Potter — LOOK AT ME \| YAV & YOV | Saved | [YouTube](https://www.youtube.com/watch?v=Jjay-QR1lqM)
 - 2026-10-20 | Malfoid draco & Potter | To download | [YouTube](https://www.youtube.com/watch?v=cI0I_tn9rTk)
 - 2026-10-20 | Malfoid Draco & Harry Potter — NOW YOU NOTICE ME \| YAV & YOV | Saved | [YouTube](https://www.youtube.com/watch?v=L_FFYmfeV8I)
 - 2026-10-22 | Malfoid Draco's Secret: Saved You in the Shadows \| Harry Potter × Female Draco \| YAV & YOV | Saved | [YouTube](https://www.youtube.com/watch?v=q80weAxrx4g)
 - 2026-10-26 | MALFOID DRACONIA — THE JEALOUS WALTZ \| Gothic Ballroom Instrumental — YAV & YOV | Saved | [YouTube](https://www.youtube.com/watch?v=Wcd6Ki7LVHY)
-- 2026-10-29 | INSIDE MY MIND — Malfoid \| Dark Dance-Pop Song \| YAV & YOV | Saved | [YouTube](https://www.youtube.com/watch?v=v1NvyZ_PyIE)
 - 2026-10-29 | Malfoid & Potter — We Counted Stars — YAV & YOV | Saved | [YouTube](https://www.youtube.com/watch?v=dV9X57nANKQ)
+- 2026-10-29 | INSIDE MY MIND — Malfoid \| Dark Dance-Pop Song \| YAV & YOV | Saved | [YouTube](https://www.youtube.com/watch?v=v1NvyZ_PyIE)
 - 2026-11-02 | Dance Draco and Potter  #yavandyov #musicyav #harrypotter | To download | [YouTube](https://www.youtube.com/watch?v=2tKHFP7_IWs)
 - 2026-11-07 | Malfoid Draconia & Harry Potter — THE ROOM STARTS TO CRACK \| YAV & YOV | Saved | [YouTube](https://www.youtube.com/watch?v=Rvripfz8Plo)
 - 2026-11-14 | Malfoy & Professor Snape — Forbidden Love \| Severus Snape & Female Malfoy \| Harry Potter Edit | To download | [YouTube](https://www.youtube.com/watch?v=8OmzLG_-xcE)
@@ -565,21 +586,21 @@ Uploaded | Title | Status | Link, grouped by channel.
 
 ## MythicTune
 
-- 2026-10-18 | MALFOID - “Don’t Get the Wrong Idea, Potter” \| Female Draco Malfoy Fan Song | Saved | [YouTube](https://www.youtube.com/watch?v=oqQPbkZgIGE)
 - 2026-10-18 | MALFOID Teaser - I can get behind this 'What If' | Saved | [YouTube](https://www.youtube.com/watch?v=16OSLVm6-kU)
+- 2026-10-18 | MALFOID - “Don’t Get the Wrong Idea, Potter” \| Female Draco Malfoy Fan Song | Saved | [YouTube](https://www.youtube.com/watch?v=oqQPbkZgIGE)
 - 2026-10-18 | MALFOID HASN’T FINISHED “HATING” HARRY \| Female Draco Malfoy Song | Saved | [YouTube](https://www.youtube.com/watch?v=jp9AtYHJokQ)
 - 2026-10-21 | HARRY RESPONDS TO MALFOID - “Funny Way of Hating Me” \| Part 2 \| Harry Potter Fan Song | Saved | [YouTube](https://www.youtube.com/watch?v=EBOl9hPOBGc)
 - 2026-10-21 | MALFOID CALLS IT HATE. HARRY HAS QUESTIONS \| Harry Potter Part 2 | Saved | [YouTube](https://www.youtube.com/watch?v=hzpvGVhyo7Y)
 - 2026-10-22 | HARRY FACED A DRAGON. THIS IS WORSE \| Malfoid Part 2 | Saved | [YouTube](https://www.youtube.com/watch?v=efmMqm4GgiA)
-- 2026-10-25 | HARRY WOULD RATHER BE THE BOY SHE HATES \| Malfoid Part 3 \| Shorts | Saved | [YouTube](https://www.youtube.com/watch?v=GYM2w2LvaBQ)
 - 2026-10-25 | MALFOID & HARRY FACE VOLDEMORT - “Don’t Let Go” \| Part 3 Duet Dance \| Harry Potter | Saved | [YouTube](https://www.youtube.com/watch?v=qwWD_L_Ckpw)
+- 2026-10-25 | HARRY WOULD RATHER BE THE BOY SHE HATES \| Malfoid Part 3 \| Shorts | Saved | [YouTube](https://www.youtube.com/watch?v=GYM2w2LvaBQ)
 - 2026-10-26 | MALFOID WON’T LET HARRY GIVE UP \| Don’t Let Go \| Part 3\| AMV Shorts | Saved | [YouTube](https://www.youtube.com/watch?v=4VNfcnuTNxg)
 - 2026-11-18 | MALFOID × HARRY: THE COMPLETE TRILOGY \| Draconia Malfoy Music Movie | Saved | [YouTube](https://www.youtube.com/watch?v=Y7BJQ5BeT1M)
 
 ## NeonViozen
 
-- 2026-10-06 | 🎵 MALFOID — The Internet's New Obsession  AMV🎵 | Saved | [YouTube](https://www.youtube.com/watch?v=egpdozI_Enc)
 - 2026-10-06 | 🎵 The Internet's New Obsession  AMV🎵 | Saved | [YouTube](https://www.youtube.com/watch?v=8eF-NhPiCmE)
+- 2026-10-06 | 🎵 MALFOID — The Internet's New Obsession  AMV🎵 | Saved | [YouTube](https://www.youtube.com/watch?v=egpdozI_Enc)
 - 2026-10-10 | 🎵 The Internet's New Obsession  AMV 🎵 | Saved | [YouTube](https://www.youtube.com/watch?v=8fHAuOgzzA8)
 - 2026-10-18 | MALFOID WANTS ME, BLUD \| Harry Potter x Malfoid AMV | Saved | [YouTube](https://www.youtube.com/watch?v=2MLY6JbDHDY)
 - 2026-11-05 | amelia & malfoid | Saved | [YouTube](https://www.youtube.com/watch?v=bgFJ7_PWpYk)
@@ -624,6 +645,10 @@ Uploaded | Title | Status | Link, grouped by channel.
 
 - ? | A Name Is Not A Destiny -- Malfoid Music | To download | [YouTube](https://www.youtube.com/watch?v=DOinMxRgBtg)
 
+## PISLA
+
+- ? | 💚TS 말포이 자작ost - I Meant Love [1시간. 4 ver] Malfoid song 1hour song | To download | [YouTube](https://www.youtube.com/watch?v=iP48AmwE8XQ)
+
 ## Piw Ken
 
 - 2026-10-13 | DRACO MALFOY FEM! 🐍 Slytherin Song \| AI Music | To download | [YouTube](https://www.youtube.com/watch?v=4yDvYUSycOk)
@@ -639,6 +664,10 @@ Uploaded | Title | Status | Link, grouped by channel.
 - 2026-10-22 | Malfoy Music Video P6 A Better Story | Saved | [YouTube](https://www.youtube.com/watch?v=5D2w1NQstI4)
 - 2026-10-27 | Zako Malfoid x Harry Potter Version [Anime Music Video] - Play Astronomical | Saved | [YouTube](https://www.youtube.com/watch?v=mpbSspXCcsc)
 - 2026-10-28 | Zako Malfoid Version - Play Astronomical | Saved | [YouTube](https://www.youtube.com/watch?v=U49qd8-0C8A)
+
+## Q Criterion
+
+- ? | Metric - Lost Kitten (Malfoid song) - bass cover | To download | [YouTube](https://www.youtube.com/watch?v=jeTzd8st0TE)
 
 ## Raw AI Legends
 
@@ -720,6 +749,10 @@ Uploaded | Title | Status | Link, grouped by channel.
 
 - ? | The Draconia Malfoy Song \| ♫♪ (Fan Made EN Song) | To download | [YouTube](https://www.youtube.com/watch?v=aa2zwp9KD70)
 
+## seth1894
+
+- ? | Malfoid - Storm by GENER8ION feat. Yung Lean (AI Cover) | To download | [YouTube](https://www.youtube.com/watch?v=NplOifom7uI)
+
 ## Shadow Phonk77 (ShadowPhonk77-p6y)
 
 - 2026-10-09 | Malfoid x  SHAPE OF YOU FUNK \| Draconia Malfoid edit / [AMV] \| | Saved | [YouTube](https://www.youtube.com/watch?v=QT74z22PERY)
@@ -757,6 +790,7 @@ Uploaded | Title | Status | Link, grouped by channel.
 - ? | The Mirror Again (Malfoid song) | To download | [YouTube](https://www.youtube.com/watch?v=FlIOKv5toug)
 - ? | Granger Danger (Malfoid Song) | To download | [YouTube](https://www.youtube.com/watch?v=8jf_Dmrn7pI)
 - ? | Enemy Within (Malfoid song) | To download | [YouTube](https://www.youtube.com/watch?v=n_wYAFoPz_k)
+- ? | Captain's Rant (I'm the Best) \| Punk Rock Malfoid song | To download | [YouTube](https://www.youtube.com/watch?v=86McTH19yuQ)
 
 ## Skyebrows
 
@@ -784,9 +818,14 @@ Uploaded | Title | Status | Link, grouped by channel.
 
 - 2026-11-06 | Harry Potter x Female Draco "Malfoid" \| "Between the Serpent and the Scar" \| What If  Song | Saved | [YouTube](https://www.youtube.com/watch?v=RekgIPoKnbM)
 
+## Streeve
+
+- ? | [Song] Malfoid Story - A Kiss Beneath the Stars | To download | [YouTube](https://www.youtube.com/watch?v=WOrEzHwxeAo)
+
 ## Synthetik Frequency
 
 - ? | Silver and Green (Lyrics) ❄️ \| Malfoid Yule Ball Parody \| Synthetik Frequency #malfoy | To download | [YouTube](https://www.youtube.com/watch?v=kgIR2Nd9Ot0)
+- ? | Malfoid \| Song Lyrics\| Synthetik Frequency | To download | [YouTube](https://www.youtube.com/watch?v=fVC7T1_EHlk)
 
 ## Tales in Melody
 
@@ -799,34 +838,34 @@ Uploaded | Title | Status | Link, grouped by channel.
 ## The Malfoid Experience
 
 - 2026-10-25 | Wicked Little Thing \| Malfoid \| Official Music Video | Saved | [YouTube](https://www.youtube.com/watch?v=qkw2PCToa78)
+- 2026-11-04 | The Dance  - Dark Fantasy  #aimusicvideo #music #remix | Saved | [YouTube](https://www.youtube.com/watch?v=6gibgGD_pDQ)
 - 2026-11-04 | Dark Fantasy \| Malfoid x Potter \| Music Video | Saved | [YouTube](https://www.youtube.com/watch?v=akdCCXxJAkM)
 - 2026-11-04 | The Entrance   - Dark Fantasy #aimusicvideo #music #remix | Saved | [YouTube](https://www.youtube.com/watch?v=Ya2YXFT29XI)
-- 2026-11-04 | The Dance  - Dark Fantasy  #aimusicvideo #music #remix | Saved | [YouTube](https://www.youtube.com/watch?v=6gibgGD_pDQ)
-- 2026-11-05 | The Whispered Warning   - Wicked Little Thing  #malfoid #music #aimusicvideo | Saved | [YouTube](https://www.youtube.com/watch?v=vk7EQOj6Fes)
-- 2026-11-05 | The Kiss   - Wicked Little Thing  #aimusicvideo #music #remix  #malfoid | Saved | [YouTube](https://www.youtube.com/watch?v=wJujknfwToQ)
-- 2026-11-05 | The Spark  - Dark Fantasy   #malfoid #music #aimusicvideo | Saved | [YouTube](https://www.youtube.com/watch?v=YXAgW5bm6sg)
 - 2026-11-05 | The Duel  -  Wicked Little Thing  #malfoid #music #aimusicvideo | Saved | [YouTube](https://www.youtube.com/watch?v=LsmZVKQHb5A)
-- 2026-11-05 | He Reaches for Her  - Dark Fantasy  #malfoid #music #aimusicvideo | Saved | [YouTube](https://www.youtube.com/watch?v=xwjWnANdOr4)
-- 2026-11-05 | The Interruption  - Dark Fantasy  #aimusicvideo #music #remix | Saved | [YouTube](https://www.youtube.com/watch?v=SRQIFpKKnVQ)
 - 2026-11-05 | The Serpent  - Wicked Little Thing  #aimusicvideo #music #remix | Saved | [YouTube](https://www.youtube.com/watch?v=B9ezeE8MtMY)
-- 2026-11-06 | Let Her Guard Down  - Dark Fantasy  #malfoid #music #aimusicvideo | Saved | [YouTube](https://www.youtube.com/watch?v=Qv_ksQFw9e8)
-- 2026-11-06 | A Dangerous Wish  - Wicked Little Thing  #malfoid #music #aimusicvideo | Saved | [YouTube](https://www.youtube.com/watch?v=orVcGd9RCbg)
+- 2026-11-05 | He Reaches for Her  - Dark Fantasy  #malfoid #music #aimusicvideo | Saved | [YouTube](https://www.youtube.com/watch?v=xwjWnANdOr4)
+- 2026-11-05 | The Whispered Warning   - Wicked Little Thing  #malfoid #music #aimusicvideo | Saved | [YouTube](https://www.youtube.com/watch?v=vk7EQOj6Fes)
+- 2026-11-05 | The Interruption  - Dark Fantasy  #aimusicvideo #music #remix | Saved | [YouTube](https://www.youtube.com/watch?v=SRQIFpKKnVQ)
+- 2026-11-05 | The Spark  - Dark Fantasy   #malfoid #music #aimusicvideo | Saved | [YouTube](https://www.youtube.com/watch?v=YXAgW5bm6sg)
+- 2026-11-05 | The Kiss   - Wicked Little Thing  #aimusicvideo #music #remix  #malfoid | Saved | [YouTube](https://www.youtube.com/watch?v=wJujknfwToQ)
+- 2026-11-06 | One Move Ahead  - Wicked Little Thing  #malfoid #music #aimusicvideo | Saved | [YouTube](https://www.youtube.com/watch?v=-cTJKnlOnrw)
 - 2026-11-06 | Midnight Escape -Dark Fantasy  #malfoid #music #aimusicvideo | Saved | [YouTube](https://www.youtube.com/watch?v=bkzW4nuQRAk)
+- 2026-11-06 | A Dangerous Wish  - Wicked Little Thing  #malfoid #music #aimusicvideo | Saved | [YouTube](https://www.youtube.com/watch?v=orVcGd9RCbg)
+- 2026-11-06 | Let Her Guard Down  - Dark Fantasy  #malfoid #music #aimusicvideo | Saved | [YouTube](https://www.youtube.com/watch?v=Qv_ksQFw9e8)
 - 2026-11-06 | Unread Secrets  - Dark Fantasy  #malfoid #music #aimusicvideo | Saved | [YouTube](https://www.youtube.com/watch?v=9RodmAnzqbg)
 - 2026-11-06 | After the Magic  - Wicked Little Thing  #malfoid #music #aimusicvideo | Saved | [YouTube](https://www.youtube.com/watch?v=sQk1p8Fy6m4)
-- 2026-11-06 | One Move Ahead  - Wicked Little Thing  #malfoid #music #aimusicvideo | Saved | [YouTube](https://www.youtube.com/watch?v=-cTJKnlOnrw)
 - 2026-11-11 | Now Watch It Burn - Heir to None - #malfoid #booktok #darkfantasymusic | Saved | [YouTube](https://www.youtube.com/watch?v=F_1Ne7DzWjs)
 - 2026-11-11 | Break the Seal - Heir to None -   #malfoid #darkfantasymusic #aimusicvideo | Saved | [YouTube](https://www.youtube.com/watch?v=KbdXrk6ORfE)
-- 2026-11-11 | The Bargain - Heir to None - #malfoid #booktok #darkfantasymusic | Saved | [YouTube](https://www.youtube.com/watch?v=yIoZtRLaFMo)
+- 2026-11-11 | Let Them Go - Heir to None   #malfoid #darkfantasymusic #aimusicvideo | Saved | [YouTube](https://www.youtube.com/watch?v=Z1ac6ISvPsA)
+- 2026-11-11 | The Cage - Heir to None -  #malfoid #darkfantasymusic #aimusicvideo | Saved | [YouTube](https://www.youtube.com/watch?v=Ay71V3O4iK8)
 - 2026-11-11 | The Failed Rescue - Heir to None  - #malfoid #darkfantasymusic #aimusicvideo | Saved | [YouTube](https://www.youtube.com/watch?v=hZtxwlCJlNg)
 - 2026-11-11 | Heir to None I Malfoid x  Potter I AI Music Video | Saved | [YouTube](https://www.youtube.com/watch?v=YHRZadsBTBI)
-- 2026-11-11 | Narcissa Intervenes - Heir to None -  #malfoid #darkfantasymusic #aimusicvideo | Saved | [YouTube](https://www.youtube.com/watch?v=_-byS2f8fSA)
-- 2026-11-11 | Let Them Go - Heir to None   #malfoid #darkfantasymusic #aimusicvideo | Saved | [YouTube](https://www.youtube.com/watch?v=Z1ac6ISvPsA)
+- 2026-11-11 | The Bargain - Heir to None - #malfoid #booktok #darkfantasymusic | Saved | [YouTube](https://www.youtube.com/watch?v=yIoZtRLaFMo)
 - 2026-11-11 | The Tether - Heir to None -  #malfoid  #darkfantasymusic | Saved | [YouTube](https://www.youtube.com/watch?v=zazqHOMYcFw)
-- 2026-11-11 | The Cage - Heir to None -  #malfoid #darkfantasymusic #aimusicvideo | Saved | [YouTube](https://www.youtube.com/watch?v=Ay71V3O4iK8)
+- 2026-11-11 | Narcissa Intervenes - Heir to None -  #malfoid #darkfantasymusic #aimusicvideo | Saved | [YouTube](https://www.youtube.com/watch?v=_-byS2f8fSA)
 - 2026-11-12 | Across Time and Space   - Malfoid x Potter I AI Music Video | Saved | [YouTube](https://www.youtube.com/watch?v=sSMNszBjluw)
-- 2026-11-12 | One Wrong Step - Across Time And Space -  #malfoid #darkfantasymusic #aimusicvideo | Saved | [YouTube](https://www.youtube.com/watch?v=7PbYukaAFoY)
 - 2026-11-12 | Would He Turn Back - Across Time And Space -   #malfoid #darkfantasymusic #aimusicvideo | Saved | [YouTube](https://www.youtube.com/watch?v=q_cGydXz8aQ)
+- 2026-11-12 | One Wrong Step - Across Time And Space -  #malfoid #darkfantasymusic #aimusicvideo | Saved | [YouTube](https://www.youtube.com/watch?v=7PbYukaAFoY)
 - 2026-11-12 | Mirror, Mirror on the Wall - Across Time And Space -  #malfoid #darkfantasymusic #aimusicvideo | Saved | [YouTube](https://www.youtube.com/watch?v=I2wQIbq-LIo)
 
 ## The Malfoid Room
@@ -888,17 +927,17 @@ Uploaded | Title | Status | Link, grouped by channel.
 
 - 2026-10-15 | Malfoid Draco (Duet Version) \| Potter, Don't Look at Me \| Olha yavor, YAV & YOV | Saved | [YouTube](https://www.youtube.com/watch?v=pWiBovqfLmU)
 - 2026-10-17 | Malfoid Draco & Potter — RED & GREEN \| Olha Yavor | Saved | [YouTube](https://www.youtube.com/watch?v=OHU53aP6TAw)
-- 2026-10-18 | Malfoid Draco & Potter —  NOT ENEMIES ANYMORE \| Olha Yavor, YAV & YOV | Saved | [YouTube](https://www.youtube.com/watch?v=6bjLmfWEOCg)
-- 2026-10-18 | Malfoid Draco & Potter —  Don’t Go There Tonight \| Olha Yavor, YAV & YOV | Saved | [YouTube](https://www.youtube.com/watch?v=SRhqox85_1o)
 - 2026-10-18 | Malfoid Draco & Potter —  First Look, First Fight \| Olha Yavor, YAV & YOV | Saved | [YouTube](https://www.youtube.com/watch?v=akbUSxI4xjQ)
 - 2026-10-18 | Malfoid Draco & Potter —  I KNEW IT WAS YOU \| Olha Yavor, YAV & YOV | Saved | [YouTube](https://www.youtube.com/watch?v=Af1iadE_Gpo)
 - 2026-10-18 | Malfoid Draco & Potter —  My Name is a Malfoid Draco \| Olha Yavor, YAV & YOV | Saved | [YouTube](https://www.youtube.com/watch?v=-ZL0WHpeB9w)
+- 2026-10-18 | Malfoid Draco & Potter —  NOT ENEMIES ANYMORE \| Olha Yavor, YAV & YOV | Saved | [YouTube](https://www.youtube.com/watch?v=6bjLmfWEOCg)
 - 2026-10-18 | Malfoid Draco & Potter —  WHY DO I LOOK FOR YOU? \| Olha Yavor, YAV & YOV | Saved | [YouTube](https://www.youtube.com/watch?v=Asav_P1k0oc)
-- 2026-10-18 | Malfoid Draco & Potter —  ENEMY TURNED INTO YOU \| Olha Yavor, YAV & YOV | Saved | [YouTube](https://www.youtube.com/watch?v=4q9iiETeL4s)
-- 2026-10-18 | Malfoid Draco & Potter —  Still Enemies, Right? \| Olha Yavor, YAV & YOV | Saved | [YouTube](https://www.youtube.com/watch?v=PXT8LXnH6B4)
 - 2026-10-18 | Malfoid Draco & Potter —  THROUGH THE FIRE \| Olha Yavor, YAV & YOV | Saved | [YouTube](https://www.youtube.com/watch?v=Ty0H7v2vJ1k)
-- 2026-10-18 | Malfoid Draco & Potter —  AFTER EVERYTHING \| Olha Yavor, YAV & YOV | Saved | [YouTube](https://www.youtube.com/watch?v=KSvCGF-xNiE)
+- 2026-10-18 | Malfoid Draco & Potter —  Still Enemies, Right? \| Olha Yavor, YAV & YOV | Saved | [YouTube](https://www.youtube.com/watch?v=PXT8LXnH6B4)
 - 2026-10-18 | Malfoid Draco & Potter —  Silver White \| Olha Yavor, YAV & YOV | Saved | [YouTube](https://www.youtube.com/watch?v=6WDwUtavhCg)
+- 2026-10-18 | Malfoid Draco & Potter —  Don’t Go There Tonight \| Olha Yavor, YAV & YOV | Saved | [YouTube](https://www.youtube.com/watch?v=SRhqox85_1o)
+- 2026-10-18 | Malfoid Draco & Potter —  ENEMY TURNED INTO YOU \| Olha Yavor, YAV & YOV | Saved | [YouTube](https://www.youtube.com/watch?v=4q9iiETeL4s)
+- 2026-10-18 | Malfoid Draco & Potter —  AFTER EVERYTHING \| Olha Yavor, YAV & YOV | Saved | [YouTube](https://www.youtube.com/watch?v=KSvCGF-xNiE)
 
 ## yraltv
 
@@ -911,15 +950,15 @@ Uploaded | Title | Status | Link, grouped by channel.
 ## zandran2
 
 - 2026-10-02 | Which Song Should I Work on Next? 🎶 #fansong #musicpoll #harrypotter #slytherin #tcoaal | Saved | [YouTube](https://www.youtube.com/watch?v=jMaU7XQXnII)
-- 2026-10-07 | Pure Blood, Bad Attitude | Saved | [YouTube](https://www.youtube.com/watch?v=bbb55OuctqU)
 - 2026-10-07 | October 7, 2026 | Saved | [YouTube](https://www.youtube.com/watch?v=9kgtqbIygSU)
+- 2026-10-07 | Pure Blood, Bad Attitude | Saved | [YouTube](https://www.youtube.com/watch?v=bbb55OuctqU)
 - 2026-10-09 | Up To Something | Saved | [YouTube](https://www.youtube.com/watch?v=3dW0YivKpSY)
 - 2026-10-11 | Which Song Should I Make Next? 🐍⚡ Lucius vs Female Draco #shorts | Saved | [YouTube](https://www.youtube.com/watch?v=fcKUa4YSNq4)
 - 2026-10-11 | Snape Has Had Enough \| "Ten Points From Everyone" | Saved | [YouTube](https://www.youtube.com/watch?v=lSBLiIcNzBg)
 - 2026-10-12 | I was ruined from the start" \| Pure Blood, Bleeding Heart | Saved | [YouTube](https://www.youtube.com/watch?v=OKW7Op9Pwj4)
 - 2026-10-13 | Pure Blood, Bleeding Heart 「純血と、血を流す心」 \| Original Anime ED (Japanese ver.) [JP/EN Lyrics] | Saved | [YouTube](https://www.youtube.com/watch?v=oUM3X_wPn7s)
-- 2026-10-15 | Pure Blood, Bleeding Heart (Director’s Cut) \| Dark Anime Music Video | Saved | [YouTube](https://www.youtube.com/watch?v=tRaqpImDEJA)
 - 2026-10-15 | Pure Blood, Bleeding Heart 🐍🖤 \| New Edit Teaser | Saved | [YouTube](https://www.youtube.com/watch?v=QM4LE91pu5o)
+- 2026-10-15 | Pure Blood, Bleeding Heart (Director’s Cut) \| Dark Anime Music Video | Saved | [YouTube](https://www.youtube.com/watch?v=tRaqpImDEJA)
 - 2026-10-17 | The Black Sheep Approves 🐑 \| Sirius Black Anime Music Video | Saved | [YouTube](https://www.youtube.com/watch?v=DxCGAlyEPnQ)
 - 2026-10-17 | Chosen Boy, Frozen Hands — He Was Right, and It Didn't Matter | Saved | [YouTube](https://www.youtube.com/watch?v=fTEUaAA_1-c)
 - 2026-10-19 | "No, YOU'RE a problem!" — Beautiful Disaster (AMV) | Saved | [YouTube](https://www.youtube.com/watch?v=fOyUm22WZhM)
@@ -933,38 +972,38 @@ Uploaded | Title | Status | Link, grouped by channel.
 - 2026-10-26 | Burning Sky — The Night the Green Came Down | Saved | [YouTube](https://www.youtube.com/watch?v=lwlho6EXdJ0)
 - 2026-10-27 | Hunted, Haunted, Hallowed — The Truce Is Over | Saved | [YouTube](https://www.youtube.com/watch?v=O4PrP8N4eWY)
 - 2026-10-28 | Kneel to the Nameless King | Saved | [YouTube](https://www.youtube.com/watch?v=bypNuzQqjQI)
-- 2026-10-29 | Ten Points From Everyone Instrumental | Saved | [YouTube](https://www.youtube.com/watch?v=_N7ghGowz5Q)
 - 2026-10-29 | Pure Blood Empty Hands | Saved | [YouTube](https://www.youtube.com/watch?v=sMO0zF3L6LQ)
+- 2026-10-29 | Ten Points From Everyone Instrumental | Saved | [YouTube](https://www.youtube.com/watch?v=_N7ghGowz5Q)
 - 2026-10-30 | Dementor, Dementor~ - The Cutest Scare at Hogwarts | Saved | [YouTube](https://www.youtube.com/watch?v=JPGwnXb7Hec)
 - 2026-10-30 | Of All the Boys in Hogwarts 🐍💅 | Saved | [YouTube](https://www.youtube.com/watch?v=NfVaJQJtAOw)
-- 2026-10-31 | Stop the Presses! \| The Daily Prophet's Failed Scoop | Saved | [YouTube](https://www.youtube.com/watch?v=lGvzVZNxuxY)
 - 2026-10-31 | Misery Loves Company \| Two Sworn Enemies, One Shared Enemy | Saved | [YouTube](https://www.youtube.com/watch?v=l_2EMTXG5RA)
+- 2026-10-31 | Stop the Presses! \| The Daily Prophet's Failed Scoop | Saved | [YouTube](https://www.youtube.com/watch?v=lGvzVZNxuxY)
 - 2026-10-31 | Misery loves company tease | Saved | [YouTube](https://www.youtube.com/watch?v=QJjrnIY5WFE)
-- 2026-11-01 | I Called It First \| The Shipper Friend Saw It Coming | Saved | [YouTube](https://www.youtube.com/watch?v=q1thocFv5w0)
 - 2026-11-01 | Threat Assessment \| The Bodyguard's Case File on the Golden Boy | Saved | [YouTube](https://www.youtube.com/watch?v=XLH4eKI5r60)
-- 2026-11-02 | Seven Skies | Saved | [YouTube](https://www.youtube.com/watch?v=Y8MGUhfDLHY)
+- 2026-11-01 | I Called It First \| The Shipper Friend Saw It Coming | Saved | [YouTube](https://www.youtube.com/watch?v=q1thocFv5w0)
 - 2026-11-02 | The House That Ate Me | Saved | [YouTube](https://www.youtube.com/watch?v=XqBJNn4TEA0)
+- 2026-11-02 | Seven Skies | Saved | [YouTube](https://www.youtube.com/watch?v=Y8MGUhfDLHY)
 - 2026-11-03 | The Locket Lied | Saved | [YouTube](https://www.youtube.com/watch?v=ql2VJZnKbxU)
 - 2026-11-03 | The Doe in the Dark | Saved | [YouTube](https://www.youtube.com/watch?v=NSy8XiH8aY0)
 - 2026-11-04 | The Hat Knew — The Sorting Hat Saw It Coming | Saved | [YouTube](https://www.youtube.com/watch?v=ophgcpZxxmk)
 - 2026-11-05 | Fair Play | Saved | [YouTube](https://www.youtube.com/watch?v=WkO6SJdhAEQ)
 - 2026-11-06 | Hagrid Can't Keep a Secret \| "I Shouldn't Have Said That" | Saved | [YouTube](https://www.youtube.com/watch?v=uKYViSyrrKg)
 - 2026-11-07 | None Shall Pass \| Snape vs. Ron & Pansy | Saved | [YouTube](https://www.youtube.com/watch?v=9BQgLV85FkM)
-- 2026-11-08 | The Old Dog's Gonna Find a Way \| I Hear You Both | Saved | [YouTube](https://www.youtube.com/watch?v=DEUb5dVf83w)
 - 2026-11-08 | Commentary Box \| Ron vs Pansy Quidditch Rap Battle | Saved | [YouTube](https://www.youtube.com/watch?v=od13zlNNOs0)
+- 2026-11-08 | The Old Dog's Gonna Find a Way \| I Hear You Both | Saved | [YouTube](https://www.youtube.com/watch?v=DEUb5dVf83w)
 - 2026-11-10 | Double or Nothing \| Fred & George Open the Betting Book \| Something Happening Again | Saved | [YouTube](https://www.youtube.com/watch?v=dIQub4yio1g)
 - 2026-11-10 | "You're one of mine now, love" · Set Another Plate | Saved | [YouTube](https://www.youtube.com/watch?v=1fgfYMSvrOQ)
 - 2026-11-11 | Checkmate Headmaster | Saved | [YouTube](https://www.youtube.com/watch?v=DQ5Irk6CjMA)
 - 2026-11-12 | Stars on the Cellar Wall | Saved | [YouTube](https://www.youtube.com/watch?v=ZTr03s8acHI)
 - 2026-11-13 | Pure Blood, Pure Madness \| Auntie's Got the Key | Saved | [YouTube](https://www.youtube.com/watch?v=MgiDLQR_8ks)
-- 2026-11-14 | Still Recruiting \| Green or Red, It's All the Same | Saved | [YouTube](https://www.youtube.com/watch?v=by62ImCsnAE)
 - 2026-11-14 | Somebody Forgot: the Remembrall Never Lies | Saved | [YouTube](https://www.youtube.com/watch?v=_MkBd4qojzw)
+- 2026-11-14 | Still Recruiting \| Green or Red, It's All the Same | Saved | [YouTube](https://www.youtube.com/watch?v=by62ImCsnAE)
 - 2026-11-15 | Hush, Hush (A Lady Never Tells) | Saved | [YouTube](https://www.youtube.com/watch?v=xFfpgY5GHu4)
 - 2026-11-15 | Not My First War | Saved | [YouTube](https://www.youtube.com/watch?v=IapfC-QyMcw)
-- 2026-11-16 | Hate Me Louder \| Boo Me Off the Stage | Saved | [YouTube](https://www.youtube.com/watch?v=sxE7jxMZqeE)
 - 2026-11-16 | Wait Till Your Father Hears | Saved | [YouTube](https://www.youtube.com/watch?v=2_f-hvyhkcI)
-- 2026-11-17 | Cake or Creature? \| Sorting Hogwarts Into Sweets and Beasts | Saved | [YouTube](https://www.youtube.com/watch?v=BZUj-788q7c)
+- 2026-11-16 | Hate Me Louder \| Boo Me Off the Stage | Saved | [YouTube](https://www.youtube.com/watch?v=sxE7jxMZqeE)
 - 2026-11-17 | Over My Dead Broom \| Six Big Brothers, But I Bite the Worst | Saved | [YouTube](https://www.youtube.com/watch?v=C63V4sG74us)
+- 2026-11-17 | Cake or Creature? \| Sorting Hogwarts Into Sweets and Beasts | Saved | [YouTube](https://www.youtube.com/watch?v=BZUj-788q7c)
 
 ## Zen Tai
 
@@ -989,9 +1028,9 @@ Uploaded | Title | Status | Link, grouped by channel.
 - 2026-10-27 | MALFOID - All The Time, Harry! - a song | Saved | [YouTube](https://www.youtube.com/watch?v=24AoDMhODL8)
 - 2026-10-30 | MALFOID - Beneath the Walls - a ballad | Saved | [YouTube](https://www.youtube.com/watch?v=DzjBpcL90i8)
 
-## Zoo Zoo Animals and 2 more
+## Zoo Zoo Animals
 
-- ? | Malfoid Challenges Harry Potter \| I CHOOSE MY SIDE (Fan Anime Opening) | To download | [YouTube](https://www.youtube.com/watch?v=2sDZDyStQAI)
+- 2026-11-08 | Malfoid Challenges Harry Potter \| I CHOOSE MY SIDE (Fan Anime Opening) | To download | [YouTube](https://www.youtube.com/watch?v=2sDZDyStQAI)
 
 ## Zyltrix
 
@@ -1043,6 +1082,10 @@ Uploaded | Title | Status | Link, grouped by channel.
 
 - ? | [Playlist] TS 말포이 영애의 지독한 짝사랑 할로윈 🎃 \| 해리포터 감성 영어 노래 \| Harry Potter inspired Playlist 🪄\| 광고없음 | To download | [YouTube](https://www.youtube.com/watch?v=5FFRPEvUIaQ)
 
+## 바보처럼이모든게당연하다고생각한사람들
+
+- 2026-10-18 | 왜 ts 말포이만 인기있는데? 시리즈 3 + 봄을 닮은것(ai 이미지, 노래는 채널장) 역시 내 청춘 러브 코미디는 잘못됐다(히키가야 하치만 ts) | To download | [YouTube](https://www.youtube.com/watch?v=Bx-DSbJSolw)
+
 ## 별별이유
 
 - ? | TS Malfoy’s true feelings revealed by a single snowball \| 눈덩이 하나에 속마음 들킨 TS 말포이 | To download | [YouTube](https://www.youtube.com/watch?v=FFh-ahK79aA)
@@ -1050,6 +1093,10 @@ Uploaded | Title | Status | Link, grouped by channel.
 ## 분석요정
 
 - ? | 똑같은 AI 노래인데 왜 한국어 자막만 켜면 심장이 무너질까? (TS 말포이 뮤비의 비밀) | To download | [YouTube](https://www.youtube.com/watch?v=JKCv7RVXAhg)
+
+## 비도
+
+- ? | TS 말포이 × 해리 \| 팬메이드 AI SONG 🎸🖤 \| I Forgot My Comeback | To download | [YouTube](https://www.youtube.com/watch?v=-US81oORvho)
 
 ## 새마음
 
