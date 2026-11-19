@@ -4,35 +4,26 @@ Uploaded | Title | Status | Link, grouped by channel.
 
 ## 
 
-- ? | 🐍💚 What if Draco Malfoy had a gender-swapped version? ✨❤️ | To download | [YouTube](https://www.youtube.com/watch?v=7A_Q3ZGymGo)
-- ? | Harry Potter and the Girl with the Diary \| Malfoid Audiobook \| Part 2 | To download | [YouTube](https://www.youtube.com/watch?v=2IEzDBIFHnU)
-- ? | Chosen and Bound Part 1 - Liar \| a Malfoid x Potter Story \| | To download | [YouTube](https://www.youtube.com/watch?v=5HCF1yDynTs)
-- ? | (1) What If Draco Malfoy Was a Girl? \| Harry Potter Fanfiction | To download | [YouTube](https://www.youtube.com/watch?v=5wc1bfcMmRk)
-- ? | The COMPLETE Lumos Lumos STORY! | To download | [YouTube](https://www.youtube.com/watch?v=9TSK3hYLAD4)
-- ? | what if Dracona Malfoid is a girl | To download | [YouTube](https://www.youtube.com/watch?v=9q1F2CbZg4A)
-- ? | 「Audiobook」Malfoid: Harry Potter and the Girl Who Chose: Book 1 | To download | [YouTube](https://www.youtube.com/watch?v=Bpxxj9Ee1W4)
-- ? | MalFoid「Audiobook」Harry Potter and the Girl Who Noticed Him Part 2/2 | To download | [YouTube](https://www.youtube.com/watch?v=D5N_8Ibey18)
-- ? | Harry x Draconia Malfoy Love Story Foyege Edition #romance #harrypotter #ai #aivideo  | To download | [YouTube](https://www.youtube.com/watch?v=FiOEk9XV-l0)
-- ? | Harry x Draconia- The 7 Harry Potter books with Fem Malfoy - The Snake and the Dragon - Ch 2 | To download | [YouTube](https://www.youtube.com/watch?v=HaLLgCzpgkw)
-- ? | 'Lumos Lumos Epilogue Version' by ADayASMR Animated Lyric Video - Malfoid Anime Music Video | To download | [YouTube](https://www.youtube.com/watch?v=KpA8dyOmheU)
-- ? | A MALFOID VISUAL NOVEL \| Pureblood & Prejudice 💚 | To download | [YouTube](https://www.youtube.com/watch?v=TaocQkIvnOE)
-- ? | MalFoid「Audiobook」Harry Potter and the Girl Who Noticed Him Part 1/2 | To download | [YouTube](https://www.youtube.com/watch?v=db0ItglF9R0)
-- ? | The Tsundere Miss Malfoy Wants Me to Confess?#HarryPotter #Malfoy #Fanfiction #GenderbentMalfoy | To download | [YouTube](https://www.youtube.com/watch?v=hxNX2VhpH4w)
-- ? | 「Audiobook」Malfoid: Harry Potter and the Girl Who Noticed Him: A Complete Retelling | To download | [YouTube](https://www.youtube.com/watch?v=iN9xUR9ivKE)
-- ? | Harry Potter and the Girl Who Noticed Him Audiobook | To download | [YouTube](https://www.youtube.com/watch?v=rmLK_FDlXOQ)
-- ? | Harry Potter Fanfic: Tiểu Thư Phản Diện Malfoy (Phần 1) (Reup) | To download | [YouTube](https://www.youtube.com/watch?v=x7GQi8I5luc)
-- ? | 「Audiobook」Harry Potter and the Imprisoned Girl (Part 2 of 4) | To download | [YouTube](https://www.youtube.com/watch?v=zuRdMCj_n2A)
-- ? | El Draco Mujer si resolvería la narrativa de Harry Potter  | To download | [YouTube](https://www.youtube.com/watch?v=kYA_Uq2ZxF8)
-- ? | Inexplicable - Harry x Fem!Draco - FanFic - One-Shot - | To download | [YouTube](https://www.youtube.com/watch?v=12Xwl-Py01c)
-- ? | Infinity Nikki: Nikki como Draconia — Draco Malfoy versión mujer \| Fanfic de Harry Potter | To download | [YouTube](https://www.youtube.com/watch?v=NebWstsqDZg)
+- ? | Draconia Malfoy & Harriet Potter \| What if they were both female? #malfoid | To download | [YouTube](https://www.youtube.com/watch?v=bBY5Lt5lDdw)
+- ? | What if Harry Potter doesn't remember Malfoy? Harry Potter × TS Malfoy \| Harry Potter Fan Animation | To download | [YouTube](https://www.youtube.com/watch?v=J4RJeijSIFo)
+- ? | TsMalfoy Story | To download | [YouTube](https://www.youtube.com/watch?v=7R6xq4vu0TY)
+
+##  Mr. Ovis
+
+- ? | Malfoid: Her Full Story. | To download | [YouTube](https://www.youtube.com/watch?v=l4-ykv6iSt8)
 
 ## 3 Gen King
 
+- ? | What if Draco Malfoy Was a Girl? \| Episode 1 | To download | [YouTube](https://www.youtube.com/watch?v=5uOWvRHNjCE)
 - 2026-10-28 | What if Draco Malfoy Was a Girl? \| Episode 2 | Saved | [YouTube](https://www.youtube.com/watch?v=621AViZ7V38)
 
 ## 92Qnam
 
 - 2026-11-09 | What If Fem!Malfoy Confessed Before Sectumsempra! | Saved | [YouTube](https://www.youtube.com/watch?v=VSRz-_5zAkE)
+
+## 9k Chaos
+
+- ? | What If Draco Malfoy Was A Girl in Harry Potter? 😂 | To download | [YouTube](https://www.youtube.com/watch?v=ZmD27rA44M4)
 
 ## Abakam Music 🎶
 
@@ -40,28 +31,24 @@ Uploaded | Title | Status | Link, grouped by channel.
 
 ## Adam Dubs
 
-- ? | Female Draco Sees Harry Potter in Her DREAMS… 💚 Harry Potter Comic Dub | To download | [YouTube](https://www.youtube.com/watch?v=4lK6_PHccdI)
-- ? | Draco Says He Hates Harry… But His Jealousy Says Otherwise! 😭❤️ - Harry Potter comic dub  | To download | [YouTube](https://www.youtube.com/watch?v=2s-K1L91mpM)
-- ? | Potter… But We Know Better ❤️ - Harry Potter comic dub  | To download | [YouTube](https://www.youtube.com/watch?v=LaEvS90o23A)
-- ? | Crush on Harry Potter ❤️ - Harry Potter comic dub  | To download | [YouTube](https://www.youtube.com/watch?v=SIZO6r1LkdQ)
+- 2026-10-06 | Harry Potter & Draco Malfoy’s Love Story ❤️ \| Comic Dub Harry Potter | To download | [YouTube](https://www.youtube.com/watch?v=6R2dlHmK22M)
+- 2026-10-07 | Everything About Harry 😂❤️ - Harry Potter comic dub | To download | [YouTube](https://www.youtube.com/watch?v=aZH0s3g8KaQ)
+- 2026-10-07 | Potter… But We Know Better ❤️ - Harry Potter comic dub | To download | [YouTube](https://www.youtube.com/watch?v=LaEvS90o23A)
+- 2026-10-07 | Crush on Harry Potter ❤️ - Harry Potter comic dub | To download | [YouTube](https://www.youtube.com/watch?v=SIZO6r1LkdQ)
+- 2026-10-08 | Draco Malfoy: “I Hate Potter!” Also Draco: 👀 - Harry Potter comic dub | To download | [YouTube](https://www.youtube.com/watch?v=sz8wTFOAq1o)
+- 2026-10-08 | “It’s Just a Bet!” — Her Feelings Said Otherwise ❤️ - Harry Potter comic dub | To download | [YouTube](https://www.youtube.com/watch?v=KbfQRjUg7c8)
+- 2026-10-08 | She Finally Confessed Her Feelings To Harry ❤️ \| Harry Potter Comic Dub | To download | [YouTube](https://www.youtube.com/watch?v=XOiqURVoA1s)
+- 2026-10-08 | Harry Potter Meets the Multiverse  \| Harry Potter Comic Dub | To download | [YouTube](https://www.youtube.com/watch?v=rlI0d0seitg)
 - 2026-10-10 | Harry Potter Gets Reincarnated… But Draco Malfoy Is a GIRL?! 😳 \| Harry Potter Comic Dub | To download | [YouTube](https://www.youtube.com/watch?v=zFkn7jadSN8)
+- 2026-10-10 | Draco Says He Hates Harry… But His Jealousy Says Otherwise! 😭❤️ - Harry Potter comic dub | To download | [YouTube](https://www.youtube.com/watch?v=2s-K1L91mpM)
 - 2026-10-11 | Female Draco Malfoy Makes Harry Potter Her BOYFRIEND?! 😳💚 \| Harry Potter Comic Dub | To download | [YouTube](https://www.youtube.com/watch?v=bMO_TpyuIQQ)
+- 2026-10-12 | Female Draco Sees Harry Potter in Her DREAMS… 💚 Harry Potter Comic Dub | To download | [YouTube](https://www.youtube.com/watch?v=4lK6_PHccdI)
 - 2026-10-13 | Harry Potter and Female Draco Malfoy: A Different Hogwarts Story 💚 Harry Potter comic dub | To download | [YouTube](https://www.youtube.com/watch?v=kVgLHriSdpY)
 - 2026-10-23 | Harry Potter Couldn’t Stop Laughing at Female Draco 💚 \| Harry Potter Comic Dub | To download | [YouTube](https://www.youtube.com/watch?v=dyJgXVAvD7g)
 
-## Adam Dubs and Comic by Nick 
-
-- ? | Harry Potter & Draco Malfoy’s Love Story ❤️ \| Comic Dub Harry Potter  | To download | [YouTube](https://www.youtube.com/watch?v=6R2dlHmK22M)
-- ? | Draco Malfoy: “I Hate Potter!” Also Draco: 👀 - Harry Potter comic dub  | To download | [YouTube](https://www.youtube.com/watch?v=sz8wTFOAq1o)
-- ? | Everything About Harry 😂❤️ - Harry Potter comic dub  | To download | [YouTube](https://www.youtube.com/watch?v=aZH0s3g8KaQ)
-- ? | “It’s Just a Bet!” — Her Feelings Said Otherwise ❤️ - Harry Potter comic dub  | To download | [YouTube](https://www.youtube.com/watch?v=KbfQRjUg7c8)
-- ? | She Finally Confessed Her Feelings To Harry ❤️ \| Harry Potter Comic Dub  | To download | [YouTube](https://www.youtube.com/watch?v=XOiqURVoA1s)
-- ? | Harry Potter Meets the Multiverse  \| Harry Potter Comic Dub | To download | [YouTube](https://www.youtube.com/watch?v=rlI0d0seitg)
-
 ## Admiral Trina
 
-- ? | Malfoid is a TOTAL Tsundere to Harry Potter (Comic Dub) | To download | [YouTube](https://www.youtube.com/watch?v=LRkZXoxUjRE)
-- ? | Malfoy Has a Child with Harry (Malfoid X Harry Potter comic dub) | To download | [YouTube](https://www.youtube.com/watch?v=_5PNfBte-YE)
+- ? | The Dark Lord is Dead (Harry Potter Comic Dub) | To download | [YouTube](https://www.youtube.com/watch?v=tYfNlfCctrs)
 
 ## Aerylla VA
 
@@ -70,17 +57,53 @@ Uploaded | Title | Status | Link, grouped by channel.
 ## Aisynth
 
 - ? | The Tsundere Young Lady Turned into a Catgirl  #HarryPotter #Malfoy #Fanfiction #GenderbentMalfoy | To download | [YouTube](https://www.youtube.com/watch?v=RPlJm2pADpQ)
+- 2026-10-12 | The Tsundere Miss Malfoy Wants Me to Confess?#HarryPotter #Malfoy #Fanfiction #GenderbentMalfoy | To download | [YouTube](https://www.youtube.com/watch?v=hxNX2VhpH4w)
 
-## AniFlops and AriE comic
+## Alix Mornay - Every Story Leaves an Echo
 
-- ? | I Am Not Jealous, Potter! \| Kekel Comic dub | To download | [YouTube](https://www.youtube.com/watch?v=8sbbCARBYgw)
-- ? | D-Don't Press So Close, Potter... \| Vexter Comic dub | To download | [YouTube](https://www.youtube.com/watch?v=ZrJkpnWKmpY)
-- ? | Make Me Your Wife, Potter... \| Kekel Comic dub | To download | [YouTube](https://www.youtube.com/watch?v=nU9rQ-xOXHI)
-- ? | You're Staring Too Hard, Potter... \| Nitekidoe Comic dub  | To download | [YouTube](https://www.youtube.com/watch?v=w2ydgxo8yJs)
+- ? | Of Silver and Ash - Musical Theme from a Draconia Malfoy Story | To download | [YouTube](https://www.youtube.com/watch?v=8XhKhb3rcgw)
+
+## Aliz
+
+- ? | MALFOID CELOSA 💚 \| Malfoid X Harry Fandub Latino \| | To download | [YouTube](https://www.youtube.com/watch?v=Kf79M3tZKug)
+
+## AllForWaifus
+
+- ? | Female Draco Challenged Harry to a Duel… It Went VERY Wrong 😳 \| Malfoid Comic Dub | To download | [YouTube](https://www.youtube.com/watch?v=XqcW9lbJ8zA)
+
+## Altashi ASMR
+
+- ? | Malfoy Prank Gone Wrong #malfoid #shorts #comicdub #voiceacting #malfoy | To download | [YouTube](https://www.youtube.com/watch?v=IDtGOGRXHg4)
+
+## Amory Hale (haleamory)
+
+- 2026-11-06 | memory 19 — out of ten #malfoid #enemiestolovers #tsundere #perfectcouple #lovestory | Saved | [YouTube](https://www.youtube.com/watch?v=QHnyyOomJ-I)
+- 2026-11-07 | memory 20 — the thief #malfoid #enemiestolovers #tsundere #perfectcouple #lovestory | Saved | [YouTube](https://www.youtube.com/watch?v=MV-9cFfNgJE)
+- 2026-11-08 | memory 21 — the bubbles #malfoid #enemiestolovers #tsundere #perfectcouple #lovestory | Saved | [YouTube](https://www.youtube.com/watch?v=MPlFsnTNcEI)
+- 2026-11-09 | memory 22 — the mirror #malfoid #enemiestolovers #tsundere #perfectcouple #lovestory | Saved | [YouTube](https://www.youtube.com/watch?v=rIC2_xRlcB8)
+- 2026-11-10 | memory 23 — the air con #malfoid #enemiestolovers #tsundere #perfectcouple #lovestory | Saved | [YouTube](https://www.youtube.com/watch?v=_RYJpOe8iO0)
+- 2026-11-11 | memory 24 — the tie #malfoid #enemiestolovers #tsundere #perfectcouple #lovestory | Saved | [YouTube](https://www.youtube.com/watch?v=97XP2BQbPMA)
+- 2026-11-12 | memory 25 — the waltz #malfoid #enemiestolovers #tsundere #perfectcouple #lovestory | Saved | [YouTube](https://www.youtube.com/watch?v=G2ZJhYhihK0)
+- 2026-11-13 | memory 26 — first snow #malfoid #enemiestolovers #tsundere #perfectcouple #lovestory | Saved | [YouTube](https://www.youtube.com/watch?v=h0-Qs5cVjeo)
+- 2026-11-14 | memory 27 — man flu #malfoid #enemiestolovers #tsundere #perfectcouple #lovestory #manflu | Saved | [YouTube](https://www.youtube.com/watch?v=TxzN7PGaPRk)
+- 2026-11-15 | memory 28 — the waiter #malfoid #enemiestolovers #tsundere #perfectcouple #lovestory | Saved | [YouTube](https://www.youtube.com/watch?v=LkQkaKcaAWA)
+- 2026-11-16 | memory 29 — the worm #malfoid #enemiestolovers #tsundere #perfectcouple #lovestory #wormtrend | Saved | [YouTube](https://www.youtube.com/watch?v=aa6Fo_Sve_o)
+- 2026-11-17 | memory 30 — memories #malfoid #enemiestolovers #tsundere #perfectcouple #lovestory | Saved | [YouTube](https://www.youtube.com/watch?v=tP-x6tjzx6I)
+
+## AniFlops
+
+- 2026-10-12 | You're Staring Too Hard, Potter... \| Nitekidoe Comic dub | To download | [YouTube](https://www.youtube.com/watch?v=w2ydgxo8yJs)
+- 2026-10-16 | Make Me Your Wife, Potter... \| Kekel Comic dub | To download | [YouTube](https://www.youtube.com/watch?v=nU9rQ-xOXHI)
+- 2026-10-24 | D-Don't Press So Close, Potter... \| Vexter Comic dub | To download | [YouTube](https://www.youtube.com/watch?v=ZrJkpnWKmpY)
+- 2026-11-02 | I Am Not Jealous, Potter! \| Kekel Comic dub | To download | [YouTube](https://www.youtube.com/watch?v=8sbbCARBYgw)
 
 ## Anima-Dubs Studios
 
 - ? | O Encontro com a Malfoid no Expresso de Hogwarts! \| Fandub Animação (Episódio 1) | To download | [YouTube](https://www.youtube.com/watch?v=-JuQQDaQXsg)
+
+## Anime and comics
+
+- ? | Malfoid Rejects Potter, But Her Teacher Doesn't \| Author: Rutherfor34 | To download | [YouTube](https://www.youtube.com/watch?v=T2f3sPq-XGw)
 
 ## Anime Flow
 
@@ -92,6 +115,18 @@ Uploaded | Title | Status | Link, grouped by channel.
 - 2026-11-13 | Malfoid: Year Five — The Night Her Father Went to Azkaban | Saved | [YouTube](https://www.youtube.com/watch?v=HHUTeq0f1jA)
 - 2026-11-16 | The Day They Tried to Ban Malfoid — And Failed | Saved | [YouTube](https://www.youtube.com/watch?v=eurgRFBWU-A)
 
+## AnimeLoversArc
+
+- ? | 🐍 WHAT IF DRACO MALFOY WAS A GIRL?! 💚👀Meet MALFOID ✨ A female Draco Malfoy with a different story | To download | [YouTube](https://www.youtube.com/watch?v=UqozXcQiLC8)
+
+## AnimeYcomics
+
+- ? | Spying on Potter👿(Jealous Malfoy😡) | To download | [YouTube](https://www.youtube.com/watch?v=Pin0U-ofR4A)
+- ? | Malfoy and Potter Caught by Professor Snape | To download | [YouTube](https://www.youtube.com/watch?v=lxTdVLs1GhY)
+- ? | Potter and Malfoy kiss💞 | To download | [YouTube](https://www.youtube.com/watch?v=vNRE5EUMg_s)
+- 2026-10-03 | Malfoid tsundere:¿Perdido Potter🤣? | To download | [YouTube](https://www.youtube.com/watch?v=gcZmzGGGJxk)
+- 2026-10-15 | Malfoid:¡Potter y Wesly novios! | To download | [YouTube](https://www.youtube.com/watch?v=kq0u-LoIJ24)
+
 ## ANIMIRIL
 
 - ? | What If Malfoid Dated Anime Characters? 💚✨ もしマルフォイがアニメのキャラクターと付き合ったら？ | To download | [YouTube](https://www.youtube.com/watch?v=0lC7vy7A7co)
@@ -99,6 +134,14 @@ Uploaded | Title | Status | Link, grouped by channel.
 ## anokoVA
 
 - 2026-10-05 | 【Harry Potter ASMR】Fem!Draco Patches You Up (and Hates Every Second) -  🇺🇸 Accent [Tsundere] | To download | [YouTube](https://www.youtube.com/watch?v=ZjIo2IKnl3Q)
+
+## Ashuplicity
+
+- 2026-10-25 | The Malfoy Girl Chose HARRY?! \| Anime Story | Saved | [YouTube](https://www.youtube.com/watch?v=TLJu8MwgUK0)
+
+## Asuzu Animate (AsuzuReincarnat)
+
+- 2026-10-20 | What if Malfoid has an opening like Kaguya Sama : Love Is War? | Saved | [YouTube](https://www.youtube.com/watch?v=DhSEZHFwDk0)
 
 ## Atraidez Data Center
 
@@ -111,6 +154,15 @@ Uploaded | Title | Status | Link, grouped by channel.
 ## AwHellNao
 
 - ? | Malfoy invites Potter to the Ball 【Comic Dub】 | To download | [YouTube](https://www.youtube.com/watch?v=p07-4iFuHg8)
+
+## AYAYO 
+
+- ? | Malfoid Animation 2 \| FANDUB ITA Harry Potter | To download | [YouTube](https://www.youtube.com/watch?v=ZAILwbgI3_I)
+- ? | Malfoid Animation \| FANDUB ITA Harry Potter | To download | [YouTube](https://www.youtube.com/watch?v=0h09eeTPl0k)
+
+## Bam & Watch
+
+- ? | 🎀Malfoid pero Femboy!? My Femboy Roomate Fandub Español | To download | [YouTube](https://www.youtube.com/watch?v=2pxrl3QPeYs)
 
 ## Banger Movies
 
@@ -128,13 +180,38 @@ Uploaded | Title | Status | Link, grouped by channel.
 
 - 2026-10-24 | What if Draco was a girl in love with Harry? \| Malfoid Fan Film | Saved | [YouTube](https://www.youtube.com/watch?v=penD2VSqhu4)
 
-## Blocks Makeover and Shinyyy Art
+## Big Bobby
 
-- ? | What If RUMI Was a MALFOID & JINU Was HARRY POTTER?! 🐍⚡ | To download | [YouTube](https://www.youtube.com/watch?v=EDPudfeFiNI)
+- 2026-10-13 | Harry HATED Malfoy… But His Wand Said Otherwise 😳❤️ \| Comic Dub | To download | [YouTube](https://www.youtube.com/watch?v=pV65lLNdP1M)
+
+## Bleh_Anime
+
+- ? | Dracena Malfoy, Chapter 2, part 1 | To download | [YouTube](https://www.youtube.com/watch?v=7Sqp3pV6LvI)
+- ? | Dracena Malfoy, Chapter 1, part 2 | To download | [YouTube](https://www.youtube.com/watch?v=Si_j_grQs9o)
+- ? | Dracena Malfoy Chapter 2, Part 3 | To download | [YouTube](https://www.youtube.com/watch?v=8Md1r8c7GHE)
+- ? | Dracena Malfoy Chapter 2, Part 2 | To download | [YouTube](https://www.youtube.com/watch?v=pj8XqHbQvhQ)
+- ? | Dracena Malfoy, Chapter 1, (female Draco Malfoy) | To download | [YouTube](https://www.youtube.com/watch?v=SqCVZ8aAQD0)
+
+## Blocks Makeover
+
+- 2026-11-03 | What If RUMI Was a MALFOID & JINU Was HARRY POTTER?! 🐍⚡ | To download | [YouTube](https://www.youtube.com/watch?v=EDPudfeFiNI)
+
+## boogie woogie comics
+
+- ? | Malfoid Let Potter Hold Her Hand, BUT... | To download | [YouTube](https://www.youtube.com/watch?v=iM5bFx6lAV0)
+- ? | Harry Potter x Malfoy: Say Your Last Words | To download | [YouTube](https://www.youtube.com/watch?v=fsGlEDUOXnk)
 
 ## Bruno Fics
 
 - ? | Harry x Draconia - The 7 Harry Potter Books with Fem Malfoy - The Serpent and the Dragon - Ch 1 | To download | [YouTube](https://www.youtube.com/watch?v=iKfBLRf-ErE)
+
+## BubbleTalk
+
+- ? | Who Caught The Snitch? 😤 Fem!Draco vs Harry \| Drarry Comic Dub | To download | [YouTube](https://www.youtube.com/watch?v=rguzP6CH8WM)
+
+## Buni Media Hub
+
+- ? | POTTAH! I STILL LOVE YOU 💔 \| A Malfoy Alternate Story | To download | [YouTube](https://www.youtube.com/watch?v=QejagDx9G6I)
 
 ## CaeloDubs
 
@@ -157,9 +234,23 @@ Uploaded | Title | Status | Link, grouped by channel.
 
 - ? | This Malfoid Origin Story is a CRAZY Twist for Harry Potter.. | To download | [YouTube](https://www.youtube.com/watch?v=ojIDXUegRBw)
 
+## Carlos  Rd
+
+- 2026-10-07 | Draco Malfoy Mujer Harry Potter ComicDub #harrypotter | To download | [YouTube](https://www.youtube.com/watch?v=DTJ8y7PPLjM)
+
+## Cat2k
+
+- ? | Chapter 1: Asking the haughty Miss Malfoy to dance | To download | [YouTube](https://www.youtube.com/watch?v=JG7z9mxQnYQ)
+
+## CatzooluStories
+
+- 2026-10-31 | (1) What If Draco Malfoy Was a Girl? \| Harry Potter Fanfiction | To download | [YouTube](https://www.youtube.com/watch?v=5wc1bfcMmRk)
+
 ## Chapterbound Audio
 
 - ? | VILLAINESS MALFOY — AUDIOBOOK (PT 1) | To download | [YouTube](https://www.youtube.com/watch?v=Wssp51CmHR4)
+- ? | VILLAINESS MALFOY — AUDIOBOOK PT 4 (Finale of the series)  | To download | [YouTube](https://www.youtube.com/watch?v=wgrtHE7ExCc)
+- ? | VILLAINESS MALFOY — AUDIOBOOK PT 3 | To download | [YouTube](https://www.youtube.com/watch?v=SYww4E6-dnY)
 
 ## CineAI Studio
 
@@ -189,6 +280,14 @@ Uploaded | Title | Status | Link, grouped by channel.
 - 2026-11-15 | If Draco Was a Girl and Harry Choosing Her Over Ron Changed the Whole War? (Full MOVie) | Saved | [YouTube](https://www.youtube.com/watch?v=HjK05ZuemXM)
 - 2026-11-16 | What If Draco Malfoy Was Twin Girls and Both Fell in Love With Harry? | Saved | [YouTube](https://www.youtube.com/watch?v=QTQYpMnTUG8)
 
+## Crunchyegg
+
+- ? | Malfoid: Harry Potter x Draconia Malfoy \| Illustrated Audiobook | To download | [YouTube](https://www.youtube.com/watch?v=1-LYawg5FX4)
+
+## CULTIST
+
+- 2026-11-04 | The COMPLETE Lumos Lumos STORY! | To download | [YouTube](https://www.youtube.com/watch?v=9TSK3hYLAD4)
+
 ## CustardsEED 🇵🇭
 
 - ? | Ron holds off Snape to help Harry and Malfoid \| Comic Dub | To download | [YouTube](https://www.youtube.com/watch?v=nWstDfHgmPE)
@@ -200,6 +299,18 @@ Uploaded | Title | Status | Link, grouped by channel.
 ## DarkerClarity
 
 - ? | What if Draco was a girl? | To download | [YouTube](https://www.youtube.com/watch?v=jfRLvQclPRw)
+
+## Dasedoban 
+
+- ? | Harry Potter. Harry asks Malfoy to the ball (Latin Fandub) | To download | [YouTube](https://www.youtube.com/watch?v=TOJqInfvm0E)
+
+## David Stewart
+
+- ? | Fan Fiction (and Malfoid) as an artistic exercise | To download | [YouTube](https://www.youtube.com/watch?v=2K3gH8YVljQ)
+
+## Deadjosey
+
+- ? | She's cute with short hair too #malfoid #harrypotter #anime #comicdub #shorts #fyp #yts | To download | [YouTube](https://www.youtube.com/watch?v=MwlFli5aDyY)
 
 ## DeadSpell
 
@@ -227,6 +338,11 @@ Uploaded | Title | Status | Link, grouped by channel.
 - ? | 「Audiobook」Harry Potter and the Girl with the Diary (Part 2 of 2) | To download | [YouTube](https://www.youtube.com/watch?v=TMuTXrGTKtQ)
 - ? | 「Audiobook」Harry Potter and the Imprisoned Girl (Part 3 of 4) | To download | [YouTube](https://www.youtube.com/watch?v=Zv6exE1TmB4)
 - ? | 「Audiobook」Harry Potter and the Girl with the Diary (Part 1 of 2) | To download | [YouTube](https://www.youtube.com/watch?v=zO0NmEn-VQg)
+- 2026-11-10 | 「Audiobook」Harry Potter and the Imprisoned Girl (Part 2 of 4) | To download | [YouTube](https://www.youtube.com/watch?v=zuRdMCj_n2A)
+
+## DEI TOONS
+
+- ? | La BODA de Malfoy y Harry Potter ComicDub #harrypotter | To download | [YouTube](https://www.youtube.com/watch?v=Ds24k_MqFpc)
 
 ## demonflyingfox
 
@@ -236,9 +352,18 @@ Uploaded | Title | Status | Link, grouped by channel.
 
 - ? | STOP LAUGHING😡😡😡 \| #edit #malfoy #malfoid \| art by: @sylphynia | To download | [YouTube](https://www.youtube.com/watch?v=ZJdLwAYviBg)
 
+## DezguisedVA
+
+- 2026-10-13 | Malfoy's Snake Bro...🐍 ft. @GracieAudios #shorts #malfoy #dracomalfoy #comicdub | To download | [YouTube](https://www.youtube.com/watch?v=MLAtztBOt6M)
+
 ## Dhiren Puri
 
 - ? | Draconia Malfoid X Harry/ What if Draco Malfoy was a girl? | To download | [YouTube](https://www.youtube.com/watch?v=AzVMDUZ74fI)
+
+## Dian_dubs
+
+- ? | Malfoy and Harry Potter Part 2 Latin Spanish - Dress [Fan dub] Female Draco | To download | [YouTube](https://www.youtube.com/watch?v=5VkkHpLxkWE)
+- ? | Malfoy and Harry Potter Part 3 Latin Spanish - Escorting to the dance [Fan dub] Female Draco | To download | [YouTube](https://www.youtube.com/watch?v=uGnCkOjGN-M)
 
 ## Dinodragonbooboo STUDIO
 
@@ -250,6 +375,14 @@ Uploaded | Title | Status | Link, grouped by channel.
 
 - ? | Best Potter y Malfoy spin off story, Part I. Credit to Foyege | To download | [YouTube](https://www.youtube.com/watch?v=5sobn_uDmZA)
 
+## Draconia Malfoy: A Different Story
+
+- ? | Draconía Malfoy - A Different Story \| Chapter 3 (Harry Potter) | To download | [YouTube](https://www.youtube.com/watch?v=iMWR9N8SodM)
+- ? | Draconia Malfoy: A Different Story \| Chapter 4 Part 3 (Harry Potter) | To download | [YouTube](https://www.youtube.com/watch?v=yJMRIFENGSU)
+- ? | Draconia Malfoy - Another Story \| Chapter 4 Part 2 (Harry Potter) | To download | [YouTube](https://www.youtube.com/watch?v=FIsn7NAQ--Q)
+- ? | Draconia Malfoy: A Different Story \| Chapter 4 part 1 | To download | [YouTube](https://www.youtube.com/watch?v=r4Xxg1nFslo)
+- ? | Draconia Malfoy — A Different Story \| Chapter 1 (Harry Potter) | To download | [YouTube](https://www.youtube.com/watch?v=fzNmRfS6mm4)
+
 ## draconiamalfoyfanfics
 
 - 2026-11-04 | Draconia Malfoy and the Silver Cord \| Full Audiobook \| Blackscreen | Saved | [YouTube](https://www.youtube.com/watch?v=OZrg__MAPRQ)
@@ -260,13 +393,22 @@ Uploaded | Title | Status | Link, grouped by channel.
 
 - 2026-10-13 | What if Harry Potter took Female Draco to the Yule Ball? (Fanfic Reading) | Saved | [YouTube](https://www.youtube.com/watch?v=O27SitmlKFg)
 
+## Dubber.
+
+- ? | Harry Risked EVERYTHING for Malfoid… 😳 \| Harry x Malfoid Comic Dub | To download | [YouTube](https://www.youtube.com/watch?v=C7Hgk7nYSBo)
+
 ## DubBox
 
-- ? | Harry Finally Forgives Draco Malfoy… 😭❤️ \| Harry Potter Comic Dub | To download | [YouTube](https://www.youtube.com/watch?v=icDWig7usr4)
+- 2026-10-09 | I Became Harry Potter… and Draco Malfoy Is a GIRL?! 😳🐍 \| Harry Potter Comic Dub | To download | [YouTube](https://www.youtube.com/watch?v=qdHND8csUgA)
+- 2026-10-23 | Harry Finally Forgives Draco Malfoy… 😭❤️ \| Harry Potter Comic Dub | To download | [YouTube](https://www.youtube.com/watch?v=icDWig7usr4)
 
 ## DubBox and Zeno Dubs 
 
-- ? | I Became Harry Potter… and Draco Malfoy Is a GIRL?! 😳🐍 \| Harry Potter Comic Dub | To download | [YouTube](https://www.youtube.com/watch?v=qdHND8csUgA)
+- ? | Draco Says Shut Up, Potter!  💚 But Then She Fixes His Tie \| Harry Potter Comic Dub | To download | [YouTube](https://www.youtube.com/watch?v=flb_CuoJ7-c)
+
+## Dumblelore
+
+- ? | The Entire Story Of Harry And Malfoid In 30 Minutes | To download | [YouTube](https://www.youtube.com/watch?v=mk5PiUwyjdc)
 
 ## Echoes Of Hogwarts
 
@@ -274,11 +416,33 @@ Uploaded | Title | Status | Link, grouped by channel.
 
 ## El mezabrozo
 
+- ? | What if Harry Potter Malfoy & Harry Chapters 1 to 9 ENG SUB | To download | [YouTube](https://www.youtube.com/watch?v=P-TtL7maJ1Y)
+- ? | Malfoid wont admit it by zeyhashimoto "Chapters" 42 Spanish sub by minita_kurobot | To download | [YouTube](https://www.youtube.com/watch?v=QdPtLWPRSJI)
+- ? | Malfoid wont admit it by zeyhashimoto "Chapters" 47 Spanish sub by minita_kurobot | To download | [YouTube](https://www.youtube.com/watch?v=zYY-g0CnJDI)
+- ? | Malfoid won't admit it by zeyhashimoto "Chapters" 41 Spanish sub by minita_kurobot | To download | [YouTube](https://www.youtube.com/watch?v=M3-HGA6hRBY)
+- ? | Malfoy won't admit it (Chapter) 4 by ZeyHashimoto and subtitled in Spanish by minita_kurobot | To download | [YouTube](https://www.youtube.com/watch?v=I29fTkL6z7U)
+- ? | What if Harry Potter Malfoy & Harry "Chapters" 10 to 12 English Subtitles | To download | [YouTube](https://www.youtube.com/watch?v=NVmPl9K4DBw)
 - 2026-10-16 | What if Harry Potter draconia Malfoy IA live action version | To download | [YouTube](https://www.youtube.com/watch?v=VKYnd5XnxZ8)
 
-## Elina Karimova_리나대장 and 유나_Yuna Karimova
+## Elian 
 
-- ? | 여자 말포이 실존ㅎ 해리포터 자매 브이로그 \| Harry Potter sister's halloween VLOG | To download | [YouTube](https://www.youtube.com/watch?v=mPy53wG1PLo)
+- 2026-10-14 | El Draco Mujer si resolvería la narrativa de Harry Potter | To download | [YouTube](https://www.youtube.com/watch?v=kYA_Uq2ZxF8)
+
+## Elina Karimova
+
+- 2026-11-08 | 여자 말포이 실존ㅎ 해리포터 자매 브이로그 \| Harry Potter sister's halloween VLOG | To download | [YouTube](https://www.youtube.com/watch?v=mPy53wG1PLo)
+
+## Emi Serrano
+
+- ? | HARRY POTTER AU (LATIN AMERICAN FANDUB) - FINAL CHAPTER TRAILER | To download | [YouTube](https://www.youtube.com/watch?v=BqVpHNoXJy4)
+
+## Epic Ifs
+
+- ? | What If Harry Potter Had a Slytherin Twin Sister? (The Malfoid Timeline) | To download | [YouTube](https://www.youtube.com/watch?v=qY1oY7RN5Ag)
+
+## Ethan Walker
+
+- ? | Malfoid fan fiction  | To download | [YouTube](https://www.youtube.com/watch?v=FPKMtNN3hcc)
 
 ## Ethanpoz01
 
@@ -289,13 +453,27 @@ Uploaded | Title | Status | Link, grouped by channel.
 
 - 2026-10-08 | Bullying or Flirting? Draco Malfoy Gets Caught 😳 \| Harry Potter Comic Dub | Saved | [YouTube](https://www.youtube.com/watch?v=UZ9TXbmzwlw)
 
-## FANNYLU ALEXANDRA and Alex Sans Fandubs
-
-- ? | MALFOID SE HACE LA DIFICIL CON HARRY (ANIMACIÓN IA) | To download | [YouTube](https://www.youtube.com/watch?v=eOyR93VRoys)
-
 ## Fantastic fun
 
 - ? | What If Malfoy Was A Girl? 💔 Harry Potter AI Love Story \| Credit: @FOYEGE \| PART 1 | To download | [YouTube](https://www.youtube.com/watch?v=yg0nM0oVMMI)
+
+## Fanwha dubs
+
+- ? | Malfoid - anime - SPANISH FANDUB | To download | [YouTube](https://www.youtube.com/watch?v=wKZ0MQLFhSM)
+- ? | MALFOY.......IS A GIRL? // SPANISH FANDUB [PART 3] | To download | [YouTube](https://www.youtube.com/watch?v=E-gsek-6lug)
+
+## Fearsumsan
+
+- ? | What's the Matter, Potter? #harrypotter #malfoy #anime #comicdub #hogwarts #wizardingworld #waifu | To download | [YouTube](https://www.youtube.com/watch?v=sljY-g7J3fY)
+
+## fenicia moore
+
+- 2026-11-11 | A MALFOID VISUAL NOVEL \| Pureblood & Prejudice 💚 | To download | [YouTube](https://www.youtube.com/watch?v=TaocQkIvnOE)
+
+## FENRIR 
+
+- ? | In Nomine Amoris - Harry x Draco Fem - FanFic - One Shot - | To download | [YouTube](https://www.youtube.com/watch?v=N_lA2Hm-YD8)
+- 2026-10-07 | Inexplicable - Harry x Draco Fem - FanFic - One Shot - | To download | [YouTube](https://www.youtube.com/watch?v=12Xwl-Py01c)
 
 ## Fercho91
 
@@ -308,15 +486,31 @@ Uploaded | Title | Status | Link, grouped by channel.
 - 2026-10-18 | The Vilaness Malfoy - Chapter 1:PROLOGUE | Saved | [YouTube](https://www.youtube.com/watch?v=sytC2x6ocGc)
 - 2026-10-21 | Let me help you, princess #malfoy #fanfiction #harrypotter | Saved | [YouTube](https://www.youtube.com/watch?v=aB2VsL6wNDc)
 - 2026-10-22 | VALENTINE'S DAY #fanfiction #harrypotter #fantasy #malfoy | Saved | [YouTube](https://www.youtube.com/watch?v=oxEsBAGd5TM)
-- 2026-10-22 | The Porcelain Princess and the Master of Death - Chapter 2: Football and Starlight | Saved | [YouTube](https://www.youtube.com/watch?v=jJQ1c_hKfs8)
 - 2026-10-22 | The peace of a sunlight #fanfiction #harrypotter #fantasy #malfoy | Saved | [YouTube](https://www.youtube.com/watch?v=2mTN4cbDFrk)
+- 2026-10-22 | The Porcelain Princess and the Master of Death - Chapter 2: Football and Starlight | Saved | [YouTube](https://www.youtube.com/watch?v=jJQ1c_hKfs8)
 - 2026-10-27 | The Vilaness Malfoy - Chapter 2: I will protect the House of Malfoy! | Saved | [YouTube](https://www.youtube.com/watch?v=ojeT1sByCQU)
 - 2026-10-28 | The Vilaness Malfoy - Chapter 3: Hogwarts Express | Saved | [YouTube](https://www.youtube.com/watch?v=Mlz9t80MAgc)
+
+## FIXEN_EDITZ
+
+- ? | What if Draco was a Girl - Malfoid | To download | [YouTube](https://www.youtube.com/watch?v=U3dH8JoK9tY)
 
 ## FOBKER
 
 - ? | Foyege - Draconia Malfoid & Harry Potter ❤️ \| An Alternate Universe Love Story.  Part 2 | To download | [YouTube](https://www.youtube.com/watch?v=Mtkwz1iZJ9s)
 - ? | Foyege -  Draconia Malfoid & Harry Potter ❤️ \| An Alternate Universe Love Story. Part 1 | To download | [YouTube](https://www.youtube.com/watch?v=nO_sDenCP5k)
+
+## fone listen
+
+- ? | Draconia and Harry \| Chapter 1 \| Harry Potter Fanfiction Audiobook | To download | [YouTube](https://www.youtube.com/watch?v=0BQlvwWdY3o)
+
+## frostyguns55
+
+- 2026-10-22 | Harry Potter and the Girl with the Diary \| Malfoid Audiobook \| Part 2 | To download | [YouTube](https://www.youtube.com/watch?v=2IEzDBIFHnU)
+
+## fuku dubs
+
+- ? | MALFOY MUJER ES TAN LINDA: HARRY POTTER COMICS EN ESPAÑOL | To download | [YouTube](https://www.youtube.com/watch?v=2ShAEzk95eA)
 
 ## GACHA TURTLE 
 
@@ -327,13 +521,27 @@ Uploaded | Title | Status | Link, grouped by channel.
 - ? | 🇺🇸/🇪🇸/🇧🇷 Harry Potter Characters React To Malfoid x Harry (Tsundere Comic Dubs) \| Harry Potter React | To download | [YouTube](https://www.youtube.com/watch?v=5CpFgcH1Dbg)
 - ? | 🇺🇸/🇪🇸/🇧🇷 Harry Potter Characters React to Malfoid x Harry comic dubs - Au original - gacha nebula | To download | [YouTube](https://www.youtube.com/watch?v=DurqUStWWyw)
 
+## GameDubs
+
+- ? | Drarry: Dragna x Harry  - S1E9 P2 (Doblaje Latino) #harrypotter #drarry #anime #malfoid #hogwarts | To download | [YouTube](https://www.youtube.com/watch?v=gN1zsY8hFtY)
+- ? | Drarry: Dragna x Harry  - S1E9 P1 (Doblaje Latino) #harrypotter #drarry #anime #hogwarts #malfoid | To download | [YouTube](https://www.youtube.com/watch?v=rL9cCGTJ7GI)
+- ? | Drarry: Dragna x Harry  - S1E10 (Doblaje Latino) #anime #drarry #harrypotter#malfoid #hogwarts | To download | [YouTube](https://www.youtube.com/watch?v=z4y3-XEbC3c)
+
 ## GerDose
 
 - 2026-11-10 | I made a VISUAL NOVEL about MALFOID (Part 1) | Saved | [YouTube](https://www.youtube.com/watch?v=cTnz6DzLmt4)
 
+## Glitch Box TV
+
+- ? | Harry Meets Fem Draco at Madam Malkin's! 😳✨ \| Harry Potter Comic Dub | To download | [YouTube](https://www.youtube.com/watch?v=p1utncubrt0)
+
 ## GomekFD
 
 - ? | MALFOY ES UNA TSUNDERE 😳💚 \| Fandub Latino -  Harry Potter | To download | [YouTube](https://www.youtube.com/watch?v=awtWKMGJ37E)
+
+## gomekfd
+
+- 2026-10-10 | Malfoy...? 🤨 \| Fandub en Español | To download | [YouTube](https://www.youtube.com/watch?v=vdtIb3YvhLA)
 
 ## Goofy Gaming
 
@@ -342,6 +550,8 @@ Uploaded | Title | Status | Link, grouped by channel.
 ## GuffiMan
 
 - ? | Malfoid Wanted a Fake Boyfriend… Harry Tore Up Her Invitation \| Harry Potter Comic Dub | To download | [YouTube](https://www.youtube.com/watch?v=UCGDML0xLpI)
+- ? | Malfoid Broke Harry’s Trust \| Harry Potter Comic Dub | To download | [YouTube](https://www.youtube.com/watch?v=lOGwwG78CDk)
+- 2026-10-23 | Harry’s Maid Is… MALFOY?! 😳 \| Harry Potter Comic Dub | To download | [YouTube](https://www.youtube.com/watch?v=p0ojRUuofj8)
 
 ## Guilherme Talks
 
@@ -352,6 +562,15 @@ Uploaded | Title | Status | Link, grouped by channel.
 
 - 2026-10-28 | Malfoid - the movie (2026) Episodes 1-14 | Saved | [YouTube](https://www.youtube.com/watch?v=zb9GAlsro3Y)
 
+## Harry Potter What IF?
+
+- 2026-11-09 | 「Audiobook」Malfoid: Harry Potter and the Girl Who Noticed Him: A Complete Retelling | To download | [YouTube](https://www.youtube.com/watch?v=iN9xUR9ivKE)
+
+## HeyJuni
+
+- ? | Draconia Malfoy and the Boy Who Lived \| Harry Potter and the Sorcerer's Stone Fanfic \| Audiobook | To download | [YouTube](https://www.youtube.com/watch?v=uxPBK0qsJ0s)
+- ? | Draconia Malfoy and the Heir of Slytherin PART 2 \| Harry Potter and the Chamber of Secrets Fanfic | To download | [YouTube](https://www.youtube.com/watch?v=Z87yJ39e7S4)
+
 ## Hidromoss
 
 - ? | The Dark Secret \| Episode 1: Another Story \| Draconia Malfoid short | To download | [YouTube](https://www.youtube.com/watch?v=geFpZsQyux4)
@@ -360,17 +579,11 @@ Uploaded | Title | Status | Link, grouped by channel.
 ## Hogwartium
 
 - 2026-11-02 | What If Malfoid Was Disowned for Loving Harry? | To download | [YouTube](https://www.youtube.com/watch?v=LktlDYUQaEo)
+- 2026-11-04 | What If Malfoid Accidentally Drank Harry's Love Potion? | To download | [YouTube](https://www.youtube.com/watch?v=UJlge7xzunQ)
+- 2026-11-06 | What If Malfoid Was Harry's Date to Slughorn's Christmas Party? | To download | [YouTube](https://www.youtube.com/watch?v=d1T7PbE9LoQ)
+- 2026-11-07 | What If Malfoid Was Reborn With All Her Memories? | To download | [YouTube](https://www.youtube.com/watch?v=jhoBC92wwBA)
 - 2026-11-08 | What If Harry and Malfoid Were BOTH Reborn With Their Memories? | To download | [YouTube](https://www.youtube.com/watch?v=TvFtHyDz8kk)
-
-## Hogwartium and 2 more
-
-- ? | What If Malfoid Was Harry's Date to Slughorn's Christmas Party? | To download | [YouTube](https://www.youtube.com/watch?v=d1T7PbE9LoQ)
-- ? | What If Malfoid Was Reborn With All Her Memories? | To download | [YouTube](https://www.youtube.com/watch?v=jhoBC92wwBA)
-
-## Hogwartium and Potterium
-
-- ? | What If Malfoid Accidentally Drank Harry's Love Potion? | To download | [YouTube](https://www.youtube.com/watch?v=UJlge7xzunQ)
-- ? | What If Hogwarts Was Forced to Watch Malfoid’s Memories? | To download | [YouTube](https://www.youtube.com/watch?v=4lHY3wCiCXc)
+- 2026-11-12 | What If Hogwarts Was Forced to Watch Malfoid’s Memories? | To download | [YouTube](https://www.youtube.com/watch?v=4lHY3wCiCXc)
 
 ## HogwartsHistorianYT
 
@@ -379,30 +592,44 @@ Uploaded | Title | Status | Link, grouped by channel.
 - 2026-11-02 | What If Harry Potter and Malfoid Were Forced Into an Arranged Marriage? | Saved | [YouTube](https://www.youtube.com/watch?v=eMlG8zb8pm8)
 - 2026-11-04 | What If Harry Potter and Malfoid Grew Up Together? | Saved | [YouTube](https://www.youtube.com/watch?v=aT-bpQB4MUE)
 
+## HolidayVA
+
+- ? | Gender Bent Malfoy \| Comic by BasedBinkie | To download | [YouTube](https://www.youtube.com/watch?v=W2d13fquUDM)
+
+## HPPodfics
+
+- 2026-10-26 | MalFoid「Audiobook」Harry Potter and the Girl Who Noticed Him Part 1/2 | To download | [YouTube](https://www.youtube.com/watch?v=db0ItglF9R0)
+- 2026-10-27 | MalFoid「Audiobook」Harry Potter and the Girl Who Noticed Him Part 2/2 | To download | [YouTube](https://www.youtube.com/watch?v=D5N_8Ibey18)
+
 ## Humbertory
 
 - ? | HARRY invites MALFOY to the DANCE \| Comic Dub Latino | To download | [YouTube](https://www.youtube.com/watch?v=gz7iT7TTg5k)
+- 2026-10-19 | MALFOY regaña a HARRY \| Comic Dub Latino | To download | [YouTube](https://www.youtube.com/watch?v=KZylyK85T10)
+
+## ich
+
+- 2026-10-03 | what if Dracona Malfoid is a girl | To download | [YouTube](https://www.youtube.com/watch?v=9q1F2CbZg4A)
 
 ## Imperator Drakonov
 
 - 2026-10-02 | Malfoid: The Harry Potter Tsundere Reimagining | Saved | [YouTube](https://www.youtube.com/watch?v=BqSNErJjL60)
 - 2026-10-04 | Pureblood and Prejudice: The Love Triangle \| A Malfoid Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=E2s32VqI69E)
-- 2026-10-06 | Malfoid and You \| MALFOID DATING SIM \| Pureblood and Prejudice \| A Malfoid Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=luzIzgj-4Ws)
 - 2026-10-06 | Crimson Flowers \| A Malfoid Fanfiction Story \| Malfoid + Harry Sectumsempra Scene | Saved | [YouTube](https://www.youtube.com/watch?v=ysF3yQ7zBkM)
+- 2026-10-06 | Malfoid and You \| MALFOID DATING SIM \| Pureblood and Prejudice \| A Malfoid Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=luzIzgj-4Ws)
 - 2026-10-07 | The Bride of Voldemort \| A Malfoid Fanfiction | Saved | [YouTube](https://www.youtube.com/watch?v=i8fXJggV7mc)
 - 2026-10-08 | First Impressions \| Malfoid Fanfic \| Celestial Bodies Chapter 1\| Harry + Malfoid | Saved | [YouTube](https://www.youtube.com/watch?v=ec-2Jyl2p54)
 - 2026-10-08 | Just a Malfoid | Saved | [YouTube](https://www.youtube.com/watch?v=X1jkhHl_Gv8)
 - 2026-10-09 | Near-Strangers on a Train \| Malfoid Fanfic \| Celestial Bodies Chapter 2 \| Harry + Malfoid | Saved | [YouTube](https://www.youtube.com/watch?v=DWZOGyufcAQ)
-- 2026-10-10 | Brooms and Duels \| Malfoid Fanfic \| Celestial Bodies Chapter 3 \| Harry + Malfoid | Saved | [YouTube](https://www.youtube.com/watch?v=JsmZOvz4Upc)
 - 2026-10-10 | Flying With Malfoid \| MALFOID DATING SIM \| Pureblood and Prejudice \| A Malfoid Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=Vcw9Uof3JU8)
-- 2026-10-11 | Lucius The Malfoid Girl Dad \| A Malfoid FanFiction | Saved | [YouTube](https://www.youtube.com/watch?v=mIHUglzKHvA)
+- 2026-10-10 | Brooms and Duels \| Malfoid Fanfic \| Celestial Bodies Chapter 3 \| Harry + Malfoid | Saved | [YouTube](https://www.youtube.com/watch?v=JsmZOvz4Upc)
 - 2026-10-11 | Happily Ever After \| MALFOID DATING SIM \| Pureblood and Prejudice \| A Malfoid Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=oF7a3hSY9FE)
+- 2026-10-11 | Lucius The Malfoid Girl Dad \| A Malfoid FanFiction | Saved | [YouTube](https://www.youtube.com/watch?v=mIHUglzKHvA)
 - 2026-10-12 | The Problem With Malfoid \| Down The Malfoid Hole | Saved | [YouTube](https://www.youtube.com/watch?v=sdU20CLgr4s)
 - 2026-10-12 | The Mirror \| Malfoid Fanfic \| Celestial Bodies Chapter 4 \| Harry + Malfoid | Saved | [YouTube](https://www.youtube.com/watch?v=Itt0xnc3vv0)
 - 2026-10-13 | Noblesse Oblige: The Book of Malfoy \| Malfoid Fanfiction About Lucius And Harry | Saved | [YouTube](https://www.youtube.com/watch?v=FfqI_mBkylg)
 - 2026-10-13 | One More Job To Save Malfoid \| A Malfoid Fanfiction Where Mad Eye Moody protects Harry x Malfoid | Saved | [YouTube](https://www.youtube.com/watch?v=DlAgI_F6C8g)
-- 2026-10-14 | To The Heir of House Potter \| A Change in Fate Chapter 1 \| Malfoid Fanfiction | Saved | [YouTube](https://www.youtube.com/watch?v=AnWonhpj-rw)
 - 2026-10-14 | Shut Up, Malfoid \| A Malfoid Fanfiction \| Harry + Malfoid | Saved | [YouTube](https://www.youtube.com/watch?v=Oonuoz_hcRE)
+- 2026-10-14 | To The Heir of House Potter \| A Change in Fate Chapter 1 \| Malfoid Fanfiction | Saved | [YouTube](https://www.youtube.com/watch?v=AnWonhpj-rw)
 - 2026-10-15 | Draceana's Diary \| A Mother's Nightmare \| A Malfoid Fanfiction | Saved | [YouTube](https://www.youtube.com/watch?v=YbwnVhPkn5M)
 - 2026-10-16 | Control Freak Malfoid \| The Girl Who Smiled \| Malfoid Fanfiction \| Harry + Malfoid | Saved | [YouTube](https://www.youtube.com/watch?v=uuL077CkQKs)
 - 2026-10-16 | The Girl In Green \| Malfoid Fanfic  \| The Things We Inherit Chapter 1\| Harry + Malfoid | Saved | [YouTube](https://www.youtube.com/watch?v=kb4lVvt7Bk4)
@@ -420,26 +647,30 @@ Uploaded | Title | Status | Link, grouped by channel.
 - 2026-10-24 | Why Sectumsempra MUST Happen | Saved | [YouTube](https://www.youtube.com/watch?v=ruTn3R5Wzs4)
 - 2026-10-25 | The Wrong Sort \| The Things We Inherit Chapter 3 \| Malfoid Fanfic \| Malfoid + Harry | Saved | [YouTube](https://www.youtube.com/watch?v=_HAgTCbXd3Q)
 - 2026-10-26 | Love Pure As Hate \| Drusilla Malfoy and The Boy Who Loved Her \| Malfoid Fanfiction \| Malfoid + Harry | Saved | [YouTube](https://www.youtube.com/watch?v=ji0H6GvzNdw)
-- 2026-10-27 | The Forbidden Forest \| Shut up, Malfoid: Chapter 3  \| A Malfoid Fanfiction \| Harry + Malfoid | Saved | [YouTube](https://www.youtube.com/watch?v=zLjILPb_N_o)
 - 2026-10-27 | Preparation \| Malfoid Fanfic \| Celestial Bodies Chapter 7 \| Harry + Malfoid | Saved | [YouTube](https://www.youtube.com/watch?v=nk8ZkD43zWM)
+- 2026-10-27 | The Forbidden Forest \| Shut up, Malfoid: Chapter 3  \| A Malfoid Fanfiction \| Harry + Malfoid | Saved | [YouTube](https://www.youtube.com/watch?v=zLjILPb_N_o)
 - 2026-10-28 | An Unfortunate Habit of Noticing \| The Things We Inherit Chapter 4 \| A Malfoid Fanfic | Saved | [YouTube](https://www.youtube.com/watch?v=jVQ22VRW7F8)
-- 2026-10-30 | Flight of the Witch \| A Malfoid Halloween Fanfiction \| Harry Potter Fanfiction | To download | [YouTube](https://www.youtube.com/watch?v=3DM2YsvJmoY)
 - 2026-10-30 | Snake Out of Water \| Drusilla Malfoy and The Boy Who Loved Her \|Malfoid Fanfiction\| Malfoid + Harry | Saved | [YouTube](https://www.youtube.com/watch?v=tvuMIRSQQdo)
-- 2026-11-01 | Things that Bite \| The Things We Inherit Chapter 5 \| Malfoid Fanfiction \| Malfoid x Harry | To download | [YouTube](https://www.youtube.com/watch?v=4MkEqAgVlLQ)
+- 2026-10-30 | Flight of the Witch \| A Malfoid Halloween Fanfiction \| Harry Potter Fanfiction | Saved | [YouTube](https://www.youtube.com/watch?v=3DM2YsvJmoY)
+- 2026-11-01 | Things that Bite \| The Things We Inherit Chapter 5 \| Malfoid Fanfiction \| Malfoid x Harry | Saved | [YouTube](https://www.youtube.com/watch?v=4MkEqAgVlLQ)
 - 2026-11-01 | The Stars We Can't Reach Chapter 2 \| A Malfoid Book Rewrite \| A Malfoid Fanction \| Malfoid + Harry | Saved | [YouTube](https://www.youtube.com/watch?v=GO4tqQ2ZAZw)
-- 2026-11-02 | An Agreement Between Enemies \| The Things We Inherit Chapter 6 \| Malfoid \| Malfoid + Harry | To download | [YouTube](https://www.youtube.com/watch?v=znSmI8a32hg)
-- 2026-11-03 | Selfish A Malfoid Story \| Malfoid Fanfiction \| Malfoid + Harry | To download | [YouTube](https://www.youtube.com/watch?v=CTrtenn_eNw)
-- 2026-11-04 | Lines in the Sand \| The Things We Inherit Chapter 7 \| Malfoid Fanfic \| Malfoid x Harry | To download | [YouTube](https://www.youtube.com/watch?v=hg36jfLue0Q)
-- 2026-11-05 | Trapdoor \| Celestial Bodies Chapter 8 \| Malfoid Fanfiction \| Malfoid x Harry | To download | [YouTube](https://www.youtube.com/watch?v=vlA76p4azAM)
-- 2026-11-06 | The Things We Desire \| The Things We Inherit Chapter 8 \| Malfoid Fanfiction \| Malfoid x Harry | To download | [YouTube](https://www.youtube.com/watch?v=NNnhfV0Pu-Q)
-- 2026-11-07 | Harry Potter and Draconia Malfoid vs Voldemort \| Malfoid Fanfiction \| Malfoid x Harry | To download | [YouTube](https://www.youtube.com/watch?v=J41UynH06LA)
-- 2026-11-08 | The End of the Beginning \| Malfoid Fanfic \| The Things We Inherit Chapter 9 \| Malfoid + Harry | To download | [YouTube](https://www.youtube.com/watch?v=7Zz9XvZ2JMk)
+- 2026-11-02 | An Agreement Between Enemies \| The Things We Inherit Chapter 6 \| Malfoid \| Malfoid + Harry | Saved | [YouTube](https://www.youtube.com/watch?v=znSmI8a32hg)
+- 2026-11-03 | Selfish A Malfoid Story \| Malfoid Fanfiction \| Malfoid + Harry | Saved | [YouTube](https://www.youtube.com/watch?v=CTrtenn_eNw)
+- 2026-11-04 | Lines in the Sand \| The Things We Inherit Chapter 7 \| Malfoid Fanfic \| Malfoid x Harry | Saved | [YouTube](https://www.youtube.com/watch?v=hg36jfLue0Q)
+- 2026-11-05 | Trapdoor \| Celestial Bodies Chapter 8 \| Malfoid Fanfiction \| Malfoid x Harry | Saved | [YouTube](https://www.youtube.com/watch?v=vlA76p4azAM)
+- 2026-11-06 | The Things We Desire \| The Things We Inherit Chapter 8 \| Malfoid Fanfiction \| Malfoid x Harry | Saved | [YouTube](https://www.youtube.com/watch?v=NNnhfV0Pu-Q)
+- 2026-11-07 | Harry Potter and Draconia Malfoid vs Voldemort \| Malfoid Fanfiction \| Malfoid x Harry | Saved | [YouTube](https://www.youtube.com/watch?v=J41UynH06LA)
+- 2026-11-08 | The End of the Beginning \| Malfoid Fanfic \| The Things We Inherit Chapter 9 \| Malfoid + Harry | Saved | [YouTube](https://www.youtube.com/watch?v=7Zz9XvZ2JMk)
 - 2026-11-10 | Malfoid and The Philosopher's Stone \| The Things We Inherit Book 1 Rewrite \| Malfoid Fanfic | To download | [YouTube](https://www.youtube.com/watch?v=NGLvjGZ7_1U)
 - 2026-11-13 | Snake In The Hat \| A Malfoid Comic Fandub \| Malfoid Halloween | Saved | [YouTube](https://www.youtube.com/watch?v=pamv7Ug1rsk)
 - 2026-11-14 | The Letter That Never Came \| Malfoid Fanfic \| The Things We Inherit Chapter 10 \| Malfoid + Harry | Saved | [YouTube](https://www.youtube.com/watch?v=oyeEj81TK20)
 - 2026-11-15 | Darth Malfoid The Yearnful \| A Malfoid Short Fiction | Saved | [YouTube](https://www.youtube.com/watch?v=4qDN_E_e064)
 - 2026-11-16 | Things Best Left Untouched \| Malfoid Fanfiction \| The Things We Inherit Chapter 11\| Harry + Malfoid | Saved | [YouTube](https://www.youtube.com/watch?v=lySG5S86TCA)
-- 2026-11-18 | An Unscheduled Arrival \| The Things We Inherit Chapter 12 \| Malfoid Fanfic | To download | [YouTube](https://www.youtube.com/watch?v=xoAxFEM4zVw)
+- 2026-11-18 | An Unscheduled Arrival \| The Things We Inherit Chapter 12 \| Malfoid Fanfic | Saved | [YouTube](https://www.youtube.com/watch?v=xoAxFEM4zVw)
+
+## Imran Riaz Khan . 266K views . 3 hours ago .IRKFan
+
+- ? | malfoid EP 02 \| 해리꼬시기 \| Make Harry Fall for Me \| Hogwarts Romance Story POV | To download | [YouTube](https://www.youtube.com/watch?v=qnq5IRvjMPU)
 
 ## Indestubile Records
 
@@ -464,67 +695,94 @@ Uploaded | Title | Status | Link, grouped by channel.
 ## IRON HORIZON FILMS
 
 - ? | Draconia Malfoid \| Winter With Her \| Yule Ball Love Story | To download | [YouTube](https://www.youtube.com/watch?v=D4YSus3lD80)
+- ? | Draconia Malfoid \| She's My Date \| Yule Ball Love Story | To download | [YouTube](https://www.youtube.com/watch?v=W57HZDEu6ZI)
+
+## James Webb Euclid Telescope
+
+- 2026-11-13 | Rewrite the Emerald Fate | To download | [YouTube](https://www.youtube.com/watch?v=zHsO2-UHh-Y)
 
 ## Jazchong2519
 
 - ? | Perhaps In A Parallel Universe, Their Story Unfolds Like This Harry/Malfoy | To download | [YouTube](https://www.youtube.com/watch?v=sUEsh40ZDfU)
 
+## Joven Maestro Arrogante
+
+- ? | Harry Potter: My Wife Is a Malfoy Chapters 40 to 53 | To download | [YouTube](https://www.youtube.com/watch?v=1X5TLP1fXv4)
+
 ## Just Because
 
 - ? | [TS Malfoy] What If Malfoy Were a Girl? \| Only by My Permission \| I'll Allow You to Hold My Hand 👑 | To download | [YouTube](https://www.youtube.com/watch?v=1A3kTupX1Zk)
 
+## J★NOVA 
+
+- ? | DRACONIA MALFOY, Una Explosión Cultural | To download | [YouTube](https://www.youtube.com/watch?v=2mINO3RYpuo)
+
+## Kaiko
+
+- 2026-10-20 | Malfoy es Mujer ? - Fandub Español - @ThatOneGuysAnimations | To download | [YouTube](https://www.youtube.com/watch?v=PZKSnVl9iho)
+
 ## KJKvisuals
 
 - ? | Chosen and Bound - Part 1\| Episode 1 \| a Malfoid x Potter Story | To download | [YouTube](https://www.youtube.com/watch?v=bBeE1nDyBaQ)
+- 2026-11-01 | Chosen and Bound Part 1 - Liar \| a Malfoid x Potter Story \| | To download | [YouTube](https://www.youtube.com/watch?v=5HCF1yDynTs)
 
 ## kkuljaem_lab
 
 - 2026-10-23 | She Only Ever Sits Next to POTTER 😳💚 Ep.1 #Malfoid #Shorts | Saved | [YouTube](https://www.youtube.com/watch?v=q-voVZZch_M)
-- 2026-10-24 | Female Malfoy's tsundere rap (English ver.) 💚 "I don't like you, Potter" #Malfoid #Shorts | Saved | [YouTube](https://www.youtube.com/watch?v=xSnTs_CbLR8)
-- 2026-10-24 | 여자 말포이 츤데레 랩 (한국어 ver.) 💚 "안 좋아해, 포터" #TS말포이 #Shorts | Saved | [YouTube](https://www.youtube.com/watch?v=HotkWC0qous)
 - 2026-10-24 | She Knitted Him a Scarf. "It's NOT for you." 😳💚 Ep.2 #Malfoid #Shorts | Saved | [YouTube](https://www.youtube.com/watch?v=zFgC8ESOB64)
+- 2026-10-24 | 여자 말포이 츤데레 랩 (한국어 ver.) 💚 "안 좋아해, 포터" #TS말포이 #Shorts | Saved | [YouTube](https://www.youtube.com/watch?v=HotkWC0qous)
+- 2026-10-24 | Female Malfoy's tsundere rap (English ver.) 💚 "I don't like you, Potter" #Malfoid #Shorts | Saved | [YouTube](https://www.youtube.com/watch?v=xSnTs_CbLR8)
 - 2026-10-25 | Her Love Potion Smelled Like HARRY 😳💚 Ep.3 #Malfoid #Shorts | Saved | [YouTube](https://www.youtube.com/watch?v=qroiMeYIxAU)
 - 2026-10-26 | She Let the Snitch Go… to Catch HARRY 😳💚 Ep.4 #Malfoid #Shorts | Saved | [YouTube](https://www.youtube.com/watch?v=sRSwgiTuyz4)
 - 2026-10-27 | Hermione Read Her Secret Valentine OUT LOUD 😳💚 Ep.5 #Malfoid #Shorts | Saved | [YouTube](https://www.youtube.com/watch?v=IjzezFeJWg4)
 - 2026-10-28 | Her Boggart Is Harry Calling Her SISTER 😳💚 Ep.6 #Malfoid #Shorts | Saved | [YouTube](https://www.youtube.com/watch?v=AFUzigeosSM)
 - 2026-10-29 | Harry Became Goyle for an Hour. She Said "Not Completely Hideous." 😳💚 Ep.7 #Malfoid #Shorts | Saved | [YouTube](https://www.youtube.com/watch?v=r6bpB_JYFrk)
 - 2026-10-29 | She Stole Harry's Seat… Then He Said GOODNIGHT 😳💚 Tsundere Malfoy FULL Ep.1 | Saved | [YouTube](https://www.youtube.com/watch?v=M2brmwa-k30)
-- 2026-10-30 | She Knitted Harry a Scarf… Then He Said It's Long Enough for TWO 😳💚 Tsundere Malfoy FULL Ep.2 | Saved | [YouTube](https://www.youtube.com/watch?v=AI4Q5C-wLfM)
 - 2026-10-30 | Her Mum's Howler Read Her Harry Letter to the WHOLE School 😳💚 Ep.8 #Malfoid #Shorts | Saved | [YouTube](https://www.youtube.com/watch?v=uu2uftC3u-E)
+- 2026-10-30 | She Knitted Harry a Scarf… Then He Said It's Long Enough for TWO 😳💚 Tsundere Malfoy FULL Ep.2 | Saved | [YouTube](https://www.youtube.com/watch?v=AI4Q5C-wLfM)
 - 2026-10-31 | She Turned Down 11 Boys. Harry Said "Nice WEATHER." 😳💚 Ep.9 #Malfoid #Shorts | Saved | [YouTube](https://www.youtube.com/watch?v=dqRZyRzZ6Rc)
 - 2026-10-31 | She Smelled HARRY in the Love Potion… Then He Smelled HER 😳💚 Tsundere Malfoy FULL Ep.3 | Saved | [YouTube](https://www.youtube.com/watch?v=glssn2mBdXQ)
-- 2026-11-01 | Harry's Yule Ball Letter Went to HER Instead 😳💚 Ep.10 #Malfoid #Shorts | Saved | [YouTube](https://www.youtube.com/watch?v=Y0j5maogLR8)
 - 2026-11-01 | She Told Goyle to Hit His Broom… Then Dove to SAVE Him 😳💚 Tsundere Malfoy FULL Ep.4 | Saved | [YouTube](https://www.youtube.com/watch?v=cw54f7kvnbM)
+- 2026-11-01 | Harry's Yule Ball Letter Went to HER Instead 😳💚 Ep.10 #Malfoid #Shorts | Saved | [YouTube](https://www.youtube.com/watch?v=Y0j5maogLR8)
 - 2026-11-02 | She Signed Her Valentine 'Definitely Not Malfoy'… 😳💚 Tsundere Malfoy FULL Ep.5 | Saved | [YouTube](https://www.youtube.com/watch?v=2-8MEc2mYHc)
 - 2026-11-02 | She Walked Into the Yule Ball. Harry Forgot How to SPEAK 😳💚 Ep.11 #Malfoid #Shorts | Saved | [YouTube](https://www.youtube.com/watch?v=hOfC2CjgZ2I)
-- 2026-11-03 | Sit Next to Me… If You Must (Anime ver.) 😳💚 Tsundere Malfoy #Shorts | Saved | [YouTube](https://www.youtube.com/watch?v=UKXfpTxMrtA)
 - 2026-11-03 | Her Boggart Became Harry… 'You're Like a SISTER to Me' 😳💚 Tsundere Malfoy FULL Ep.6 | Saved | [YouTube](https://www.youtube.com/watch?v=8Jmszwe5cww)
+- 2026-11-03 | Sit Next to Me… If You Must (Anime ver.) 😳💚 Tsundere Malfoy #Shorts | Saved | [YouTube](https://www.youtube.com/watch?v=UKXfpTxMrtA)
 - 2026-11-04 | She Confessed to 'Goyle'… It Was HARRY All Along 😳💚 Tsundere Malfoy FULL Ep.7 | Saved | [YouTube](https://www.youtube.com/watch?v=cAOkchGY-oo)
-- 2026-11-05 | Female Malfoy Secretly Brewed Harry's Cold Medicine… Then Blamed Pomfrey 😳💚 #Malfoid #Shorts | Saved | [YouTube](https://www.youtube.com/watch?v=M4rJb4KSsrs)
-- 2026-11-05 | She Secretly Brewed Him Pepperup… Then Blamed POMFREY 😳💚 Tsundere Malfoy BONUS Side Story | Saved | [YouTube](https://www.youtube.com/watch?v=nXSiuniEUQU)
 - 2026-11-05 | Her Mom Read Her Letter to the WHOLE Hall… 4 Pages About HARRY 😳💚 Tsundere Malfoy FULL Ep.8 | Saved | [YouTube](https://www.youtube.com/watch?v=XNpAqGzIwXI)
+- 2026-11-05 | She Secretly Brewed Him Pepperup… Then Blamed POMFREY 😳💚 Tsundere Malfoy BONUS Side Story | Saved | [YouTube](https://www.youtube.com/watch?v=nXSiuniEUQU)
+- 2026-11-05 | Female Malfoy Secretly Brewed Harry's Cold Medicine… Then Blamed Pomfrey 😳💚 #Malfoid #Shorts | Saved | [YouTube](https://www.youtube.com/watch?v=M4rJb4KSsrs)
 - 2026-11-06 | A Ravenclaw Asked HIM to the Ball… She Said "He's BUSY." 😤💚 Tsundere Malfoy FULL Ep.9 | Saved | [YouTube](https://www.youtube.com/watch?v=NDY9xYYj82I)
 - 2026-11-07 | His "Practice" Letter Reached HER… "P.S. Wear Green." 😳💚 Tsundere Malfoy FULL Ep.10 | Saved | [YouTube](https://www.youtube.com/watch?v=kUI0FinTtv8)
 - 2026-11-08 | Malfoy Stays Up With You by the Fire 🔥 10 Hours Slytherin Common Room Fireplace ASMR for Sleep | Saved | [YouTube](https://www.youtube.com/watch?v=5rntIAA8Nbw)
 - 2026-11-08 | She Was 20 Minutes Late… Then She Walked In Wearing GREEN 😳💚 Tsundere Malfoy FULL Ep.11 | Saved | [YouTube](https://www.youtube.com/watch?v=Gt-1sOql0iY)
-- 2026-11-09 | Dear Diary, I Hate Potter. (I Don't.) 📖💚 Tsundere Malfoy's Secret Diary \| Audiobook Ep.1-11 | Saved | [YouTube](https://www.youtube.com/watch?v=5DxTrpqlf1c)
 - 2026-11-09 | Tsundere Malfoy Season 1 FULL Binge 😳💚 Ep.1–11 in One Go (55 min) | Saved | [YouTube](https://www.youtube.com/watch?v=9VQm36dhGx0)
+- 2026-11-09 | Dear Diary, I Hate Potter. (I Don't.) 📖💚 Tsundere Malfoy's Secret Diary \| Audiobook Ep.1-11 | Saved | [YouTube](https://www.youtube.com/watch?v=5DxTrpqlf1c)
 - 2026-11-14 | Her Dad Hates Harry. So She Wrote 40 RULES for ONE Dinner 📜💚 Ep.12 #Malfoid #Shorts | Saved | [YouTube](https://www.youtube.com/watch?v=b_pWV-4KhzE)
 - 2026-11-14 | She Wrote 40 Rules For Harry To Survive ONE Dinner 📜💚 Tsundere Malfoy FULL Ep.12 | Saved | [YouTube](https://www.youtube.com/watch?v=8ymeGhL9Dpw)
-- 2026-11-16 | Christmas With Her DAD… She Forgot He Was RIGHT THERE 😳💚 Ep.13 #Malfoid #Shorts | Saved | [YouTube](https://www.youtube.com/watch?v=tcXLqaQdOeI)
 - 2026-11-16 | Harry Meets Her FATHER… She Forgot He Was Sitting RIGHT THERE 😳💚 Tsundere Malfoy FULL Ep.13 | Saved | [YouTube](https://www.youtube.com/watch?v=ObvW7v8MbQo)
+- 2026-11-16 | Christmas With Her DAD… She Forgot He Was RIGHT THERE 😳💚 Ep.13 #Malfoid #Shorts | Saved | [YouTube](https://www.youtube.com/watch?v=tcXLqaQdOeI)
 - 2026-11-17 | Her FATHER Asked What Harry Is to Her… "Just a Dance" 😳💚 Tsundere Malfoy FULL Ep.14 | Saved | [YouTube](https://www.youtube.com/watch?v=8vMu5-7JHGs)
+- 2026-11-18 | Her Dad Asked What Harry Is to Her… She Heard EVERYTHING 😳💚 Ep.14 #Malfoid #Shorts | Saved | [YouTube](https://www.youtube.com/watch?v=HilwyCAFhPQ)
 - 2026-11-18 | He KNITTED Her a Jumper… "Hideous." She Never Took It Off 😳💚 Tsundere Malfoy FULL Ep.15 | Saved | [YouTube](https://www.youtube.com/watch?v=SdCG_1TAJCk)
 - 2026-11-18 | He KNITTED Her a Jumper… She Said "Hideous" 😳💚 Ep.15 #Malfoid #Shorts | Saved | [YouTube](https://www.youtube.com/watch?v=Pi0DvNrIrZg)
-- 2026-11-18 | Her Dad Asked What Harry Is to Her… She Heard EVERYTHING 😳💚 Ep.14 #Malfoid #Shorts | Saved | [YouTube](https://www.youtube.com/watch?v=HilwyCAFhPQ)
 
 ## Konohamaru 
 
 - ? | Fem Draco is a Tsundere \| Harry Potter x Malfoid (Comic Dub) | To download | [YouTube](https://www.youtube.com/watch?v=56nPf2gIEYA)
 
+## Kryzo ツ
+
+- ? | Malfoid Comic Dubs Collection | To download | [YouTube](https://www.youtube.com/watch?v=oyfI6Nzeyto)
+
 ## Kyrian
 
 - 2026-10-16 | Their Actual First Meeting [Harry Potter] [Comic Dub] #malfoid | To download | [YouTube](https://www.youtube.com/watch?v=tIlm5FHEtR8)
+
+## La Voz Barbiero and DYNA Dubs
+
+- ? | Harry x Malfoy \| BEST MOMENTS \| Latin Spanish Fandub | To download | [YouTube](https://www.youtube.com/watch?v=Tq3wEoobJ6A)
+- ? | A PAINFUL DANCE \| Malfoy x Harry Potter \| Comic ByGrin2702 \| Latin Spanish Fandub | To download | [YouTube](https://www.youtube.com/watch?v=vrpoNiCXG2E)
 
 ## LadyMalfoid
 
@@ -534,9 +792,18 @@ Uploaded | Title | Status | Link, grouped by channel.
 
 - 2026-10-18 | Malfoid X Harry [Anime Version] - Story up to now | To download | [YouTube](https://www.youtube.com/watch?v=5aRCVq9Ixko)
 
+## LeoVOAnimations
+
+- ? | 「Audiobook」Malfoid: Harry Potter and the Girl With The Diary: Chapter I | To download | [YouTube](https://www.youtube.com/watch?v=fP1DbpzNZMo)
+- ? | 「Audiobook」Malfoid: Harry Potter and the Girl With The Diary: Chapter 2 | To download | [YouTube](https://www.youtube.com/watch?v=zK7Hh2EmAs0)
+
 ## LilithSpike
 
 - 2026-11-18 | Draconia Malfoy \| Malfoid Family Ep.2: The Choice \| FOYEGE Universe | Saved | [YouTube](https://www.youtube.com/watch?v=XYPLpd2o8KQ)
+
+## Lord Darth prime 
+
+- ? | Draconia Malfoid anime Harry Potter fan-made fandub in Latin American Spanish | To download | [YouTube](https://www.youtube.com/watch?v=2IGZk7jTedc)
 
 ## LordOfHappyness
 
@@ -545,6 +812,15 @@ Uploaded | Title | Status | Link, grouped by channel.
 ## Louis Vuis
 
 - ? | It's all just a Misunderstanding \| Draconia Malfoid Fan Fiction | To download | [YouTube](https://www.youtube.com/watch?v=ZVZZzXUHtpI)
+- ? | Travel around The World with You \| AlterUni Draconia Malfoid Fan Fiction | To download | [YouTube](https://www.youtube.com/watch?v=jbbXgoNJRE0)
+
+## LowestFromHeaven
+
+- ? | What if Harry Potter met Draconia Malfoy instead 🤔 #harrypotter #fanedit #hogwarts #harrypotterfan  | To download | [YouTube](https://www.youtube.com/watch?v=CyMI4M4-zfY)
+
+## Luz y Colmillo
+
+- 2026-10-24 | ¡Hermione Contra Malfoy! (Cómic Fandub) | To download | [YouTube](https://www.youtube.com/watch?v=Ci3Yhy9siAY)
 
 ## m e o w
 
@@ -571,6 +847,32 @@ Uploaded | Title | Status | Link, grouped by channel.
 
 - ? | #2 Saga o Malfoid: Harry Potter i dziewczyna z dziennikiem – AudioBook PL – Część 1 | To download | [YouTube](https://www.youtube.com/watch?v=aLDSSl2ny0Q)
 - ? | #3.4 The Malfoy Saga: Harry Potter and the Imprisoned Girl – Audiobook EN | To download | [YouTube](https://www.youtube.com/watch?v=Yv7aMlcQiu4)
+- ? | #1 Saga o Malfoid: Harry Potter i dziewczyna, która go zauważyła – AudioBook PL | To download | [YouTube](https://www.youtube.com/watch?v=aggrBSF4j7k)
+- ? | #2 Saga o Malfoid: Harry Potter i dziewczyna z dziennikiem – AudioBook PL – Część 2 | To download | [YouTube](https://www.youtube.com/watch?v=_gdAW6mn9N0)
+- ? | #2.9 The Malfoid Saga: Harry Potter and the Girl with the Diary – AudioBook EN | To download | [YouTube](https://www.youtube.com/watch?v=N469tKYJKoA)
+- ? | #3.3 Malfoid Saga: Harry Potter and the Imprisoned Girl – AudioBook EN | To download | [YouTube](https://www.youtube.com/watch?v=rjIndPO_ObQ)
+- ? | #3.2 The Malfoid Saga: Harry Potter and the Imprisoned Girl – Audiobook EN | To download | [YouTube](https://www.youtube.com/watch?v=GIHid3hk_n8)
+- ? | #3.10 Saga o Malfoid: Harry Potter i uwięziona dziewczyna – AudioBook PL | To download | [YouTube](https://www.youtube.com/watch?v=hqILvlRQO_Q)
+- ? | #3.15 Saga o Malfoid: Harry Potter i uwięziona dziewczyna – AudioBook PL | To download | [YouTube](https://www.youtube.com/watch?v=ZpFxj2Ix9V8)
+- ? | #3.20 Saga o Malfoid: Harry Potter i uwięziona dziewczyna – AudioBook PL | To download | [YouTube](https://www.youtube.com/watch?v=L8WeBXbutcQ)
+- ? | #3.8 The Malfoid Saga: Harry Potter and the Imprisoned Girl – Audiobook EN | To download | [YouTube](https://www.youtube.com/watch?v=M0lftJWK7_o)
+- ? | #3.9 Saga o Malfoid: Harry Potter i uwięziona dziewczyna – AudioBook PL | To download | [YouTube](https://www.youtube.com/watch?v=hJgusL8iBD4)
+- ? | #3.22 Saga o Malfoid: Harry Potter i uwięziona dziewczyna – AudioBook PL | To download | [YouTube](https://www.youtube.com/watch?v=T3pI40zkOlU)
+- ? | #3.11 The Malfoid Saga: Harry Potter and the Imprisoned Girl – AudioBook PL | To download | [YouTube](https://www.youtube.com/watch?v=tF1keAL7MYY)
+- ? | #3 Saga o Malfoid: Harry Potter i uwięziona dziewczyna – AudioBook PL – Część 2 | To download | [YouTube](https://www.youtube.com/watch?v=_X9f0c276M0)
+- ? | #2.15 Saga o Malfoid: Harry Potter i dziewczyna z dziennikiem – AudioBook PL | To download | [YouTube](https://www.youtube.com/watch?v=resd-oZ2w5U)
+- ? | #3.1 Malfoy Saga: Harry Potter and the Imprisoned Girl – Audiobook EN | To download | [YouTube](https://www.youtube.com/watch?v=Er8hK7d6hwk)
+- ? | #3.7 Malfoy Saga: Harry Potter and the Trapped Girl – Audiobook EN | To download | [YouTube](https://www.youtube.com/watch?v=9sXvryR7fMA)
+- ? | #2.5 The Malfoy Saga: Harry Potter and the Girl with the Diary – Audiobook EN | To download | [YouTube](https://www.youtube.com/watch?v=fQqEArzxGD0)
+- ? | #2.8 The Malfoy Saga: Harry Potter and the Girl with the Diary – Audiobook EN | To download | [YouTube](https://www.youtube.com/watch?v=j4kfniZxxao)
+- ? | #2.7 The Malfoy Saga: Harry Potter and the Girl with the Diary – Audiobook EN | To download | [YouTube](https://www.youtube.com/watch?v=Su8ExxPfnGY)
+- ? | #3.20.5 The Malfoy Saga: Harry Potter and the Imprisoned Girl – Interlude – AudioBook EN | To download | [YouTube](https://www.youtube.com/watch?v=uwCX0c-DeDA)
+- ? | #3.5 Malfoy Saga: Harry Potter and the Imprisoned Girl – AudioBook EN | To download | [YouTube](https://www.youtube.com/watch?v=gI8gWqWIcls)
+- ? | #3.19 The Malfoy Saga: Harry Potter and the Imprisoned Girl – Audiobook EN | To download | [YouTube](https://www.youtube.com/watch?v=Wr3LnoZiE2o)
+
+## mellow79
+
+- ? | 💚 UNHINGED Mafloid meeting SWAG Harry A Brief History of Magical Indiscretions Prologue | To download | [YouTube](https://www.youtube.com/watch?v=md3J8lTl_gY)
 
 ## MeMeLorD
 
@@ -580,6 +882,14 @@ Uploaded | Title | Status | Link, grouped by channel.
 
 - ? | Malfoid seduce Harry to Take him !? [Malfoid X Harry] Harry Potter Comic Dub #malfoid | To download | [YouTube](https://www.youtube.com/watch?v=3KTXVhUrUGE)
 - ? | Malfoid got Jealous!? [Malfoid X Harry] Harry Potter Comic Dub | To download | [YouTube](https://www.youtube.com/watch?v=OBQWdILfM3s)
+
+## Mera Mera Fanfics
+
+- ? | An Uchiha in Harry Potter: Chapter 5 - 8 ( Sasuke x Fem!Draco ) | To download | [YouTube](https://www.youtube.com/watch?v=ksRvuPZ3-Xg)
+- ? | An Uchiha in Harry Potter: Chapters 13 - 15 ( Sasuke x Fem!Draco ) | To download | [YouTube](https://www.youtube.com/watch?v=y4F-qB-5VKE)
+- ? | An Uchiha in Harry Potter: Chapter 19 ( Sasuke x Fem!Draco ) | To download | [YouTube](https://www.youtube.com/watch?v=uClD0QmQVvE)
+- ? | An Uchiha in Harry Potter: Chapters 20 - 22 ( Sasuke x Fem!Draco ) | To download | [YouTube](https://www.youtube.com/watch?v=QGIhPCI78TU)
+- ? | An Uchiha In Harry Potter: Chapter 23 - 25 ( Sasuke x Fem!Draco ) | To download | [YouTube](https://www.youtube.com/watch?v=Ph0yi_YUAf4)
 
 ## MI Man in the Mirror playlist
 
@@ -591,6 +901,7 @@ Uploaded | Title | Status | Link, grouped by channel.
 - ? | 「Audiobook」Malfoid: Harry Potter and the Serpent's Shadow: Book 2, Part 1 | To download | [YouTube](https://www.youtube.com/watch?v=NE0Nsi0rYB4)
 - ? | 「Audiobook」Malfoid: Harry Potter and the Serpent's Shadow Writer's Notes | To download | [YouTube](https://www.youtube.com/watch?v=yK5jNF3OHDo)
 - ? | 「Audiobook」Malfoid: Harry Potter Book 3: A Writer's Notes | To download | [YouTube](https://www.youtube.com/watch?v=zqvrNswyxcU)
+- 2026-10-19 | 「Audiobook」Malfoid: Harry Potter and the Girl Who Chose: Book 1 | To download | [YouTube](https://www.youtube.com/watch?v=Bpxxj9Ee1W4)
 
 ## mimic-san
 
@@ -619,67 +930,90 @@ Uploaded | Title | Status | Link, grouped by channel.
 - 2026-11-01 | Is Malfoy's Love One-Sided? \| The Villainess Malfoy Ch. 15 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=8U_HiczGLvw)
 - 2026-11-02 | Hufflepuffs Call Malfoy a Loser \| The Villainess Malfoy Ch. 16 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=eEZy6OTGIrU)
 - 2026-11-03 | Malfoy Can't Forget Harry's Kiss \| The Villainess Malfoy Ch. 17 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=rpzIuO6OJQo)
-- 2026-11-04 | Same Malfoy, Two Universes \| The Villainess Malfoy \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=pg8E5JCRP3A)
 - 2026-11-04 | Malfoy Is Worse Than Dudley \| The Villainess Malfoy Ch. 18 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=-bjO66YFhsg)
+- 2026-11-04 | Same Malfoy, Two Universes \| The Villainess Malfoy \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=pg8E5JCRP3A)
+- 2026-11-05 | Harry Asks Malfoy to Come With Him \| The Villainess Malfoy Ch. 19 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=qyy4Y9ijvpA)
+- 2026-11-05 | His Happy Memory? Her. \| The Villainess Malfoy Ch. 19 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=7MuB3fncjYY)
 - 2026-11-05 | She Can't Say Thank You \| The Villainess Malfoy Ch. 18 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=6XxE0onFrws)
 - 2026-11-05 | She Is Not Worried \| The Villainess Malfoy Ch. 18 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=vgyRdJj_HAk)
-- 2026-11-05 | His Happy Memory? Her. \| The Villainess Malfoy Ch. 19 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=7MuB3fncjYY)
-- 2026-11-05 | Harry Asks Malfoy to Come With Him \| The Villainess Malfoy Ch. 19 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=qyy4Y9ijvpA)
-- 2026-11-06 | She Knew He Was a Werewolf \| The Villainess Malfoy Ch. 19 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=oP0AmxFiSK4)
 - 2026-11-06 | Under One Cloak with Harry \| The Villainess Malfoy Ch. 20 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=alHbCHmnu7Y)
-- 2026-11-06 | Rewatching Their Own Kiss \| The Villainess Malfoy Ch. 20 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=-wExszppkxk)
+- 2026-11-06 | She Knew He Was a Werewolf \| The Villainess Malfoy Ch. 19 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=oP0AmxFiSK4)
 - 2026-11-06 | Fall Asleep While Carina Malfoy Keeps Watch \| Malfoid Sleep Story & Rain ASMR | Saved | [YouTube](https://www.youtube.com/watch?v=P4r7YEaGZ3Y)
+- 2026-11-06 | Rewatching Their Own Kiss \| The Villainess Malfoy Ch. 20 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=-wExszppkxk)
+- 2026-11-07 | Same Malfoy, Two Universes (Part 2) \| The Villainess Malfoy \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=NJJQP2CRkYk)
 - 2026-11-07 | She Banned Him From Smiling \| The Villainess Malfoy Ch. 21 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=qpg4KaHu2n8)
 - 2026-11-07 | He Wants to Call Her Carina \| The Villainess Malfoy Ch. 20 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=Qbq4OqBQ_XA)
 - 2026-11-07 | Harry Smiles for Malfoy at Last \| The Villainess Malfoy Ch. 21 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=V9EKMbcraIU)
-- 2026-11-07 | Same Malfoy, Two Universes (Part 2) \| The Villainess Malfoy \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=NJJQP2CRkYk)
 - 2026-11-08 | Matching Rings. Totally Random. \| The Villainess Malfoy Ch. 21 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=HaOG7RO8MFI)
-- 2026-11-08 | Carina Malfoy Is Not in This Book. Yet. | Saved | [YouTube](https://www.youtube.com/watch?v=ntEQ95l4OBA)
 - 2026-11-08 | Malfoy Finally Reaches for Harry \| The Villainess Malfoy Ch. 22 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=ehHDX7BbBs0)
 - 2026-11-08 | Her Patronus Matches His \| The Villainess Malfoy Ch. 22 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=z-WB__wciqY)
-- 2026-11-09 | Harry Gives Malfoy a Ring \| The Villainess Malfoy Ch. 23 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=wXVFAjdb_MU)
-- 2026-11-09 | Friends? Strictly Professional. \| The Villainess Malfoy Ch. 22 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=gZGOnlU_8Iw)
+- 2026-11-08 | Carina Malfoy Is Not in This Book. Yet. | Saved | [YouTube](https://www.youtube.com/watch?v=ntEQ95l4OBA)
 - 2026-11-09 | She Heard Everything \| The Villainess Malfoy Ch. 23 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=2EzAISawrRg)
+- 2026-11-09 | Harry Gives Malfoy a Ring \| The Villainess Malfoy Ch. 23 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=wXVFAjdb_MU)
 - 2026-11-09 | Carina Malfoy Is Not in This Book. Yet. #shorts | Saved | [YouTube](https://www.youtube.com/watch?v=bGfrXPfXWVk)
+- 2026-11-09 | Friends? Strictly Professional. \| The Villainess Malfoy Ch. 22 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=gZGOnlU_8Iw)
+- 2026-11-10 | He Can't Love Her Publicly \| The Villainess Malfoy Ch. 23 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=NcAA_znmNN4)
 - 2026-11-10 | She Was Written as the Villain \| The Villainess Malfoy \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=gfRAsAnCGL4)
 - 2026-11-10 | Harry Smiles, Malfoy Flinches \| The Villainess Malfoy Ch. 24 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=XsUp8xeYDn8)
 - 2026-11-10 | Secret Dating. Everyone Knows. \| The Villainess Malfoy Ch. 24 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=gwqFwq4jSUo)
-- 2026-11-10 | He Can't Love Her Publicly \| The Villainess Malfoy Ch. 23 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=NcAA_znmNN4)
 - 2026-11-11 | Harry Tells Malfoy to Shut Up \| The Villainess Malfoy Ch. 25 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=iG7j3TTyrP8)
 - 2026-11-11 | She Refuses to Pity Potter \| The Villainess Malfoy Ch. 24 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=f3GRNHlmlLI)
 - 2026-11-11 | Defending Granger? Bad Idea \| The Villainess Malfoy Ch. 25 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=ikTuEsTbgSI)
 - 2026-11-12 | He Always Catches Her \| The Villainess Malfoy \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=Fey09AM0QaE)
 - 2026-11-12 | She Is NOT Confessing \| The Villainess Malfoy Ch. 26 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=00omz7Oy9Z0)
-- 2026-11-12 | Malfoy Refuses to Fear Harry \| The Villainess Malfoy Ch. 26 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=Yw5aSvlmHZI)
 - 2026-11-12 | His Scar Showed the Truth \| The Villainess Malfoy Ch. 25 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=pDJ82wtcPvQ)
-- 2026-11-13 | He Thought She Was a Doll \| The Villainess Malfoy Ch. 13 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=E06nlLTGqMg)
+- 2026-11-12 | Malfoy Refuses to Fear Harry \| The Villainess Malfoy Ch. 26 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=Yw5aSvlmHZI)
 - 2026-11-13 | 「Audiobook」Malfoid: What If Draco Malfoy Was a Girl and Harry Blackmailed Her? The Villainess Malfoy | Saved | [YouTube](https://www.youtube.com/watch?v=XKmMFzcJmeI)
 - 2026-11-13 | Harry Pushed Her Too Far \| The Villainess Malfoy Ch. 26 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=O5eua70Rb8E)
+- 2026-11-13 | He Thought She Was a Doll \| The Villainess Malfoy Ch. 13 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=E06nlLTGqMg)
 - 2026-11-14 | She Swears It's NOT a Date \| The Villainess Malfoy Ch. 11 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=V5ecguyVkY8)
-- 2026-11-14 | Harry Potter Found Malfoy's Diary (Trailer) \| The Villainess Malfoy \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=bL0VpTBQfv0)
-- 2026-11-14 | She's Jealous of the Veela \| The Villainess Malfoy Ch. 27 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=kTUDvypSugE)
 - 2026-11-14 | Malfoy Is Jealous of the Veela \| The Villainess Malfoy Ch. 27 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=9ESRMd--vBs)
-- 2026-11-15 | Three Champions. Then a Fourth \| The Villainess Malfoy Ch. 28 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=0LFS7_fSiMg)
+- 2026-11-14 | She's Jealous of the Veela \| The Villainess Malfoy Ch. 27 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=kTUDvypSugE)
+- 2026-11-14 | Harry Potter Found Malfoy's Diary (Trailer) \| The Villainess Malfoy \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=bL0VpTBQfv0)
 - 2026-11-15 | Viktor Krum? Not Her Type \| The Villainess Malfoy Ch. 27 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=tM7FuSk7994)
+- 2026-11-15 | Three Champions. Then a Fourth \| The Villainess Malfoy Ch. 28 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=0LFS7_fSiMg)
 - 2026-11-15 | Malfoy Questions Her Death Eater Dad \| The Villainess Malfoy Ch. 28 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=uVdwcF0KRqY)
-- 2026-11-16 | Harry Doesn't Want to Be a Champion \| The Villainess Malfoy Ch. 29 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=E-klrvnYYa0)
 - 2026-11-16 | Was It You, Father? \| The Villainess Malfoy Ch. 28 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=SEV2z5XZLtg)
+- 2026-11-16 | Harry Doesn't Want to Be a Champion \| The Villainess Malfoy Ch. 29 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=E-klrvnYYa0)
 - 2026-11-16 | Worried? Her? Never \| The Villainess Malfoy Ch. 29 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=aH8P3NB9UZo)
-- 2026-11-17 | Jealous of a Badge? \| The Villainess Malfoy Ch. 29 \| Malfoid Audiobook/Visual Novel | To download | [YouTube](https://www.youtube.com/watch?v=5Mt0CfXddRE)
-- 2026-11-17 | Harry's Girlfriend Is a Ferret \| The Villainess Malfoy Ch. 30 \| Malfoid Audiobook/Visual Novel | To download | [YouTube](https://www.youtube.com/watch?v=pXPxWzgqBGg)
+- 2026-11-17 | Harry's Girlfriend Is a Ferret \| The Villainess Malfoy Ch. 30 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=pXPxWzgqBGg)
 - 2026-11-17 | Harry's Emotional Support Ferret \| The Villainess Malfoy Ch. 30 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=EmijujQ0KrI)
+- 2026-11-17 | Jealous of a Badge? \| The Villainess Malfoy Ch. 29 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=5Mt0CfXddRE)
 - 2026-11-18 | She Was Never Supposed to Fall for Him \| The Villainess Malfoy \| Malfoid Audiobook/Visual Novel | To download | [YouTube](https://www.youtube.com/watch?v=Gfqkhw1FsmY)
-- 2026-11-18 | She Pulled a Wand on Moody \| The Villainess Malfoy Ch. 30 \| Malfoid Audiobook/Visual Novel | To download | [YouTube](https://www.youtube.com/watch?v=RLaMueOaqs8)
 - 2026-11-18 | She's Jealous of Ron \| The Villainess Malfoy Ch. 31 \| Malfoid Audiobook/Visual Novel | To download | [YouTube](https://www.youtube.com/watch?v=8Wqnt0sJToI)
+- 2026-11-18 | She Pulled a Wand on Moody \| The Villainess Malfoy Ch. 30 \| Malfoid Audiobook/Visual Novel | To download | [YouTube](https://www.youtube.com/watch?v=RLaMueOaqs8)
 - 2026-11-18 | Malfoy Asks Krum for an Autograph \| The Villainess Malfoy Ch. 31 \| Malfoid Audiobook/Visual Novel | Saved | [YouTube](https://www.youtube.com/watch?v=_vmI_Gr5piE)
+
+## MrBlackCC
+
+- ? | (1-2) HARRY POTTER ANIME: MALFOID 💚 DRACO FALLS IN LOVE WITH HARRY! 😳 \| CHAPTER 2 LATIN AMERICAN ... | To download | [YouTube](https://www.youtube.com/watch?v=Px2A9gCqwMw)
+
+## Mumi Hime
+
+- 2026-10-19 | [Comic Dub] My Father Will Hear About This, Potter! \| Harry Potter Meme \| Malfoid \| Draco Malfoy | To download | [YouTube](https://www.youtube.com/watch?v=MBvxye-1WQ8)
+
+## Mundo Anime
+
+- ? | Draconia Malfoy y la Primera Mentira \| Fanfic Harry Potter \| Capítulo 2 | To download | [YouTube](https://www.youtube.com/watch?v=DsloCAUaFYc)
+- ? | Draconia Malfoy y la Primera Mentira \| Fanfic Harry Potter \| Capítulo 5 | To download | [YouTube](https://www.youtube.com/watch?v=kCo7ft2EFog)
+- ? | Draconia Malfoy y la Primera Mentira \| Fanfic Harry Potter \| Capítulo 4 | To download | [YouTube](https://www.youtube.com/watch?v=qrGbrR4ikIc)
 
 ## Mystic Sageia
 
 - 2026-11-14 | What If Draconia Got Married? 💍💚 “Fly Away on a Broomstick” \| Malfoid MV | To download | [YouTube](https://www.youtube.com/watch?v=Nu2YCSlcRUk)
 
+## NakataGames
+
+- 2026-11-01 | Infinity Nikki: Nikki como Draconia — Draco Malfoy versión mujer \| Fanfic de Harry Potter | To download | [YouTube](https://www.youtube.com/watch?v=NebWstsqDZg)
+
 ## Nam Plume
 
 - ? | [Malfoid] Book 1- Chapter 4 | To download | [YouTube](https://www.youtube.com/watch?v=lUF1AalHv0k)
+- ? | [Malfoid] Book 1- Chapter 5 | To download | [YouTube](https://www.youtube.com/watch?v=Y6jlJ7i_d3o)
+
+## Nero Music World
+
+- ? | 💚 What If Female Draco Malfoy Fell for Harry Potter? \| TS Malfoy  \| Almost Yours | To download | [YouTube](https://www.youtube.com/watch?v=PuiETrpqEOA)
 
 ## News by Amy 
 
@@ -699,9 +1033,26 @@ Uploaded | Title | Status | Link, grouped by channel.
 - ? | Malfoid no entiende las indirectas de harry (Harry Potter) comic fandub | To download | [YouTube](https://www.youtube.com/watch?v=VitC7QFkBKg)
 - ? | Malfoid es linda si lo piensas bien. (Harry Potter) comic fandub | To download | [YouTube](https://www.youtube.com/watch?v=xwYGBBkAfo4)
 
+## Nox Comic
+
+- 2026-11-19 | Fem!Draco Kisses Unconscious Harry! | To download | [YouTube](https://www.youtube.com/watch?v=fMGepF1rQHI)
+
 ## Nox Comic (NoxComic01)
 
 - 2026-10-23 | Malfoy Sees Harry Get Rejected... & Sees Her Chance? | Saved | [YouTube](https://www.youtube.com/watch?v=PVe4e7EGEZI)
+
+## Obito uchiha
+
+- 2026-10-23 | Harry x Draconia Malfoy Love Story Foyege Edition #romance #harrypotter #ai #aivideo | To download | [YouTube](https://www.youtube.com/watch?v=FiOEk9XV-l0)
+
+## Ophelia VA
+
+- ? | Draco Malfoid Speaks?! [F4Potter] Harry Potter Voice Acting \| ASMR Roleplay | To download | [YouTube](https://www.youtube.com/watch?v=0Yw9pOeX7PI)
+
+## OpusClipsEdit
+
+- ? | Malfoy and Harry Potter: What if Malfoy were the female lead? | To download | [YouTube](https://www.youtube.com/watch?v=J135jTqhbP4)
+- ? | Malfoy and Harry Potter: What if Malfoy were the female lead?3 | To download | [YouTube](https://www.youtube.com/watch?v=B-kFULg2a2s)
 
 ## PancakeVA (PancakeVA_1)
 
@@ -711,6 +1062,7 @@ Uploaded | Title | Status | Link, grouped by channel.
 
 - ? | Fem Malfoy Secretly Wore Harry's Clothes?! 😳❤️ \| Harry Potter Comic Dub | To download | [YouTube](https://www.youtube.com/watch?v=IUH66GX14lk)
 - ? | Malfoy Took the Joke Too Far… Harry Walked Away 💔 \| Comic Dub | To download | [YouTube](https://www.youtube.com/watch?v=RIs1ObQoTp4)
+- ? | Female Draco Said "I HATE YOU"… Now She's Harry's WIFE?! 😳❤️ \| Malfoid Comic Dub | To download | [YouTube](https://www.youtube.com/watch?v=7991Rc7CyQc)
 
 ## Panel Pop
 
@@ -720,26 +1072,28 @@ Uploaded | Title | Status | Link, grouped by channel.
 ## Panel Rebellion
 
 - ? | Could Malfoid Be Your First Harry Potter Story? | To download | [YouTube](https://www.youtube.com/watch?v=dwDSwwBbWto)
+- ? | Could Malfoid Be Your First Harry Potter Story? Draconia Malfoid - Hold On To Me #harrypotter | To download | [YouTube](https://www.youtube.com/watch?v=wzZxPsKQTwo)
+- ? | Malfoid Fan Stories Got Weird: Female Ron, Snape & 7 Kids | To download | [YouTube](https://www.youtube.com/watch?v=XuY_0sUPuOs)
 
 ## Philmycrackin-5
 
 - 2026-10-19 | This is Chapter one to my fan fiction of Malfoid, if she was the main love interest for Harry. | Saved | [YouTube](https://www.youtube.com/watch?v=hn1BAouhxzY)
-- 2026-10-20 | Chapter 6: Seeker | Saved | [YouTube](https://www.youtube.com/watch?v=l27bSCmXKG4)
-- 2026-10-20 | Chapter 7: Snow, Secrets, And A Frog That Stayed Put | Saved | [YouTube](https://www.youtube.com/watch?v=EaCcLsG2fgI)
-- 2026-10-20 | Chapter 10: The Thief Of Candlelight. | Saved | [YouTube](https://www.youtube.com/watch?v=i5jk46PrEqM)
 - 2026-10-20 | Chapter 12: The Frog On The Hogwarts Express Again. | Saved | [YouTube](https://www.youtube.com/watch?v=hMjSHLWYZiY)
-- 2026-10-20 | Chapter 8: The Lamplighter’s Portrait. | Saved | [YouTube](https://www.youtube.com/watch?v=MyJ6z4FuA9A)
-- 2026-10-20 | Chapter three. Detention by Lantern Lights | Saved | [YouTube](https://www.youtube.com/watch?v=tl2EAUEpKSM)
+- 2026-10-20 | Chapter 7: Snow, Secrets, And A Frog That Stayed Put | Saved | [YouTube](https://www.youtube.com/watch?v=EaCcLsG2fgI)
 - 2026-10-20 | Chapter 5: The Night The Lights Went Out | Saved | [YouTube](https://www.youtube.com/watch?v=zo0jTlXZ9Ms)
-- 2026-10-20 | Chapter 9: Sorry Is A Small Word | Saved | [YouTube](https://www.youtube.com/watch?v=hNhl2kuH0vE)
 - 2026-10-20 | Chapter 11: Exams, Owls, And The House Cup | Saved | [YouTube](https://www.youtube.com/watch?v=UhkwkYUd-S8)
+- 2026-10-20 | Chapter 9: Sorry Is A Small Word | Saved | [YouTube](https://www.youtube.com/watch?v=hNhl2kuH0vE)
+- 2026-10-20 | Chapter 10: The Thief Of Candlelight. | Saved | [YouTube](https://www.youtube.com/watch?v=i5jk46PrEqM)
+- 2026-10-20 | Chapter 6: Seeker | Saved | [YouTube](https://www.youtube.com/watch?v=l27bSCmXKG4)
+- 2026-10-20 | Chapter three. Detention by Lantern Lights | Saved | [YouTube](https://www.youtube.com/watch?v=tl2EAUEpKSM)
+- 2026-10-20 | Chapter 8: The Lamplighter’s Portrait. | Saved | [YouTube](https://www.youtube.com/watch?v=MyJ6z4FuA9A)
 - 2026-10-21 | Book Two of the series. Malfoid and the Whispering Corridor.  Chapters 1-6 | Saved | [YouTube](https://www.youtube.com/watch?v=qzF3vzWuGdA)
 - 2026-10-22 | Part two of book two. Get ready, it’s going to be an amazing story. | Saved | [YouTube](https://www.youtube.com/watch?v=gK-V8EeksUE)
 - 2026-10-24 | Book 3 is finally here! Malfoid and the Silverwing! | Saved | [YouTube](https://www.youtube.com/watch?v=May5sqrAJ-E)
+- 2026-11-02 | Part three of book four | Saved | [YouTube](https://www.youtube.com/watch?v=lhm67YqGzOY)
 - 2026-11-02 | Part two of book four. | Saved | [YouTube](https://www.youtube.com/watch?v=0cHWJNVzaeY)
 - 2026-11-02 | Book Four is finally here. Malfoid and the Drowned Lantern part One | Saved | [YouTube](https://www.youtube.com/watch?v=iEgMER7UImg)
 - 2026-11-02 | Last part of book Four. | Saved | [YouTube](https://www.youtube.com/watch?v=pVxj1Kfyz8w)
-- 2026-11-02 | Part three of book four | Saved | [YouTube](https://www.youtube.com/watch?v=lhm67YqGzOY)
 - 2026-11-13 | Malfoid and the Shuttered Lamps | Saved | [YouTube](https://www.youtube.com/watch?v=3Bf6qEHG3ao)
 
 ## Planet Fun快樂星球
@@ -760,9 +1114,14 @@ Uploaded | Title | Status | Link, grouped by channel.
 - 2026-11-13 | What If Harry Potter Was Engaged to Malfoid Since Birth? (Part 2) | Saved | [YouTube](https://www.youtube.com/watch?v=Rw6bwC1FI_g)
 - 2026-11-15 | What If Hogwarts and Malfoid Were Forced to Watch Harry’s Memories? | Saved | [YouTube](https://www.youtube.com/watch?v=mnvjCOGJjxU)
 
+## PonyDubberx - El Brother Analista
+
+- ? | Malfoid le dice papi a Harry Potter💗 \| Cómic Fandub Español Latino | To download | [YouTube](https://www.youtube.com/watch?v=xe59enhkyms)
+
 ## PopDubs
 
 - ? | Draconia Malfoy and the Boy Who Said No 🐍✨ \| Harry Potter Fan Comic \| Chapter 1 | To download | [YouTube](https://www.youtube.com/watch?v=pM7s0wBZCTQ)
+- ? | Malfoy x Harry Potter Fanfiction 💚⚡ \| Year 4 Begins! Hogwarts Comic | To download | [YouTube](https://www.youtube.com/watch?v=GLLbejL3ytY)
 
 ## PopsiRock
 
@@ -789,6 +1148,10 @@ Uploaded | Title | Status | Link, grouped by channel.
 - 2026-11-05 | What If Voldemort Ordered Malfoid to Make Harry Fall for Her? | Saved | [YouTube](https://www.youtube.com/watch?v=WshzzUiOCxI)
 - 2026-11-08 | What If Lily and James Returned and Found Harry in Love With a Malfoid? | Saved | [YouTube](https://www.youtube.com/watch?v=i2i74OxMuoE)
 
+## potterheads198
+
+- ? | The Story of Two Houses \| Full Story (All 10 Chapters) \| Harry x Malfoid Manga Comic | To download | [YouTube](https://www.youtube.com/watch?v=IE7gsrCLnYo)
+
 ## Potterium
 
 - 2026-10-11 | What If Draco Was a Girl and Fell for Harry? | To download | [YouTube](https://www.youtube.com/watch?v=oiSH-VR-y_I)
@@ -808,9 +1171,19 @@ Uploaded | Title | Status | Link, grouped by channel.
 
 - ? | What If Female Draco Was Forced to Read Harry's Mind? | To download | [YouTube](https://www.youtube.com/watch?v=PqYP1mmrNIc)
 
+## Qhorin Exalandru
+
+- ? | Malfoy's Burden Teaser - A Malfoid Story | To download | [YouTube](https://www.youtube.com/watch?v=Rg1FBH0Hloo)
+
 ## RANDOM JOYSTICK 
 
 - ? | LADY MALFOY \| AI \|what if? | To download | [YouTube](https://www.youtube.com/watch?v=R7SCRVFgm7Q)
+
+## RAYZEN - ROLPLAY
+
+- ? | El Bro serpiente de Malfoid POTTAAH! 💚🐍 \| Roleplay Fandub | To download | [YouTube](https://www.youtube.com/watch?v=vpnHpsfiLZ0)
+- ? | Malfoy y Pottaah enfrentan a Un Dragón 🐉💚 \| FANDUB Latino rolplay | To download | [YouTube](https://www.youtube.com/watch?v=tF7lYMKPbRc)
+- ? | ​¡Malfoy con traje de calabaza es demasiado tierno para asustar! 🎃⚡\| FANDUB latino rolplay.  | To download | [YouTube](https://www.youtube.com/watch?v=Hf3WaHXMPoA)
 
 ## Rebel Romeo
 
@@ -854,6 +1227,10 @@ Uploaded | Title | Status | Link, grouped by channel.
 - ? | Harry & Draconia \| Foyege’s Full Scenes + Audiobook Chapter Guide | To download | [YouTube](https://www.youtube.com/watch?v=vzvwQ8218RM)
 - ? | Harry & Draconia: A Love Story \| Chapter 30: The second crane \| Audiobook | To download | [YouTube](https://www.youtube.com/watch?v=w1LSWADGMuA)
 
+## Red Hero Ranger
+
+- ? | Harry Potter & Draconia Malfoy // FANDUB LATINO | To download | [YouTube](https://www.youtube.com/watch?v=dC6B7kLCNxs)
+
 ## Renzo Kuma
 
 - 2026-11-04 | Malfoid and the boy who lived. (Ai Compilation) | Saved | [YouTube](https://www.youtube.com/watch?v=TO4ecY-Rns4)
@@ -862,9 +1239,39 @@ Uploaded | Title | Status | Link, grouped by channel.
 
 - 2026-11-19 | Jealous Draco Malfoy Girl Magical Transformation \| Harry Potter x Malfoid love story Comic Dub | To download | [YouTube](https://www.youtube.com/watch?v=yyTs-t9r5NI)
 
+## Saito H Fandubs Latinos
+
+- 2026-10-07 | La poción de amor! \| Malfoy Fandub [IA] | To download | [YouTube](https://www.youtube.com/watch?v=GhpBgMPNeB4)
+
+## SansGT
+
+- ? | Malfoy...? (Spanish fandub animation) | To download | [YouTube](https://www.youtube.com/watch?v=7_FHQWYsHEQ)
+
+## SAO Frases and 3 more
+
+- ? | Malfoid won't admit it \| SPANISH FANDUB | To download | [YouTube](https://www.youtube.com/watch?v=4QY-J4fzpcE)
+
+## SceneMorrow
+
+- ? | DRACONIA – Official Fan Trailer 🐍 \| A Slytherin Story #shorts | To download | [YouTube](https://www.youtube.com/watch?v=QMP4fAc1hx8)
+- ? | Malfoid: The Chapter Hogwarts Never Saw 🐍 | To download | [YouTube](https://www.youtube.com/watch?v=wxGF2XAjl20)
+
+## Schonungslos
+
+- ? | Malfoid: How an AI fanfiction makes Harry Potter better | To download | [YouTube](https://www.youtube.com/watch?v=3WrrgSJG3x8)
+
 ## Secondtake
 
 - ? | Harry Potter & Draco: A Different Kind of Story ❤️ \| Complete Season 1 | To download | [YouTube](https://www.youtube.com/watch?v=mNbUX7joHmM)
+
+## Seority
+
+- ? | IT'S YULE BALL TIME!! Brewing up Malfoid Fanfics pt.7 ❤︎⁠ | To download | [YouTube](https://www.youtube.com/watch?v=-ro7UtOEIvM)
+- ? | Finishing up the fourth year ~ Brewing up Malfoid Fanfics pt.12 ❤︎⁠ | To download | [YouTube](https://www.youtube.com/watch?v=KrLX8eefqKo)
+- ? | We will see them dance at the ball! Brewing up Malfoid Fanfics pt.9 ❤︎⁠ | To download | [YouTube](https://www.youtube.com/watch?v=B3_FUjtmOmE)
+- ? | Brewing up Malfoid fanfics! Come and share your ideas~ | To download | [YouTube](https://www.youtube.com/watch?v=nHM_NIPI-Ds)
+- ? | Malfoid is the maze, third task time! ~ Brewing up Malfoid Fanfics pt.11 ❤︎⁠ | To download | [YouTube](https://www.youtube.com/watch?v=E00kUtYX-rc)
+- ? | OUR YULE BALL! Brewing up Malfoid Fanfics pt.8 ❤︎⁠ | To download | [YouTube](https://www.youtube.com/watch?v=ovdi_6ryUBc)
 
 ## Shadow Critias
 
@@ -891,33 +1298,45 @@ Uploaded | Title | Status | Link, grouped by channel.
 
 - ? | The Sorcerer's Stone (Draconia the Sorcerer's Tsundere Book 1) Elevenlabs Audiobook | To download | [YouTube](https://www.youtube.com/watch?v=nclbi6C8wBM)
 - ? | The Sorcerer's Tsundere (Book 1 - Revised) Audiobook | To download | [YouTube](https://www.youtube.com/watch?v=8P29lj4nueo)
+- ? | The Prisoner of Azkaban (Draconia the Sorcerer's Tsundere Book 3) Elevenlabs Audiobook | To download | [YouTube](https://www.youtube.com/watch?v=igtdMHyrdJk)
+- ? | The Goblet of Fire (Draconia the Sorcerer's Tsundere Book 4) Elevenlabs Audiobook Part 2 | To download | [YouTube](https://www.youtube.com/watch?v=vBoJaujucUA)
+- 2026-11-03 | Harry Potter and the Girl Who Noticed Him Audiobook | To download | [YouTube](https://www.youtube.com/watch?v=rmLK_FDlXOQ)
 
 ## Starchild Nova
 
 - ? | Female Draco Malfoy Degrades You \| Harry Potter comic dub | To download | [YouTube](https://www.youtube.com/watch?v=XvFz5c2oqTI)
+- ? | Fem Draco Malfoy \| #harrypotter #malfoid #dracomalfoy #femmalfoy #r63 #fypシ  #harrypottermemes | To download | [YouTube](https://www.youtube.com/watch?v=brBoM413jzQ)
+
+## STAYMOON》
+
+- ? | What If Draco Malfoy Was Female? \| AMV | To download | [YouTube](https://www.youtube.com/watch?v=_dOXwmQvvJk)
+
+## Stickman Hogwarts
+
+- ? | What If Harry Potter And Malfoid Got Married? | To download | [YouTube](https://www.youtube.com/watch?v=Z3yaACMg8fc)
 
 ## Stories_forthe_Road
 
 - 2026-10-24 | The Measure of a Malfoy - Book 1 | Saved | [YouTube](https://www.youtube.com/watch?v=im_Op6ykYXQ)
 - 2026-10-26 | The Measure of a Malfoy - Book 2 - The Weight of a Word | Saved | [YouTube](https://www.youtube.com/watch?v=CHYGlKlB2yY)
-- 2026-10-28 | The Measure of a Malfoy - Your Posture Has Improved  #audiobook #harrypotterau #malfoid | Saved | [YouTube](https://www.youtube.com/watch?v=6sMkNtYAq3s)
 - 2026-10-28 | The Measure of a Malfoy - You Could Have Died #malfoid #audiobook #harrypotterau | Saved | [YouTube](https://www.youtube.com/watch?v=pnkA9wnSHJU)
+- 2026-10-28 | The Measure of a Malfoy - Your Posture Has Improved  #audiobook #harrypotterau #malfoid | Saved | [YouTube](https://www.youtube.com/watch?v=6sMkNtYAq3s)
 - 2026-10-28 | The Measure of a Malfoy - Dracona Stands #audiobook #harrypotterau #malfoid | Saved | [YouTube](https://www.youtube.com/watch?v=sEmCXKZo3Sw)
+- 2026-10-29 | The Measure of a Malfoy  -  Was That a Compliment? #audiobook #harrypotterau #malfoid | Saved | [YouTube](https://www.youtube.com/watch?v=kk1iUNUWojU)
 - 2026-10-29 | The Measure of a Malfoy  -  She's Measuring You, Harry #audiobook #harrypotterau #malfoid | Saved | [YouTube](https://www.youtube.com/watch?v=WKSU4uXSRl4)
 - 2026-10-29 | Measure of a Malfoy Lost Chapters Book1 Matter of Honor | Saved | [YouTube](https://www.youtube.com/watch?v=RilUwDDoK7c)
 - 2026-10-29 | The Measure of a Malfoy   Your Posture Is Terrible, Potter #audiobook #harrypotterau #malfoid | Saved | [YouTube](https://www.youtube.com/watch?v=PYB7D6-kS3M)
-- 2026-10-29 | The Measure of a Malfoy  -  Was That a Compliment? #audiobook #harrypotterau #malfoid | Saved | [YouTube](https://www.youtube.com/watch?v=kk1iUNUWojU)
 - 2026-11-02 | The Measure of a Malfoy   - Book 3 - The Girl Who Looked Away | Saved | [YouTube](https://www.youtube.com/watch?v=qaLTqUNh0yc)
 - 2026-11-03 | The Measure of a Malfoy   Book 2   The Weight of a Word   Part 1 | Saved | [YouTube](https://www.youtube.com/watch?v=h8kpgCeh6WE)
 - 2026-11-04 | The Measure of a Malfoy   Book 2   The Weight of a Word   Part 2 | Saved | [YouTube](https://www.youtube.com/watch?v=m2ccLNmTqIE)
 - 2026-11-05 | The Measure of a Malfoy   Book 2   The Weight of a Word   Part 3 | Saved | [YouTube](https://www.youtube.com/watch?v=BdSNto7uZyE)
-- 2026-11-06 | The Measure of a Malfoy   Book 3   The Polyjuice Mix-Up! #malfoid #anime #harrypotter  #audiobook | Saved | [YouTube](https://www.youtube.com/watch?v=LDgNwKSaluw)
-- 2026-11-06 | The Measure of a Malfoy   Book 2   Proper Conduct #malfoid #anime e #harrypotter #audiobook #fantasy | Saved | [YouTube](https://www.youtube.com/watch?v=-RMsb5VBDtw)
-- 2026-11-06 | The Measure of a Malfoy   Book 2   Would You Tell Mum #malfoid #anime  #harrypotter #audiobook | Saved | [YouTube](https://www.youtube.com/watch?v=c_Laz-VbrXI)
 - 2026-11-06 | The Measure of a Malfoy   Book 2   The Fury of a Sister #malfoid #anime #harrypotter #audiobook | Saved | [YouTube](https://www.youtube.com/watch?v=NFJ5bgcjSUI)
-- 2026-11-06 | The Measure of a Malfoy  - Book 2 -  The Full Name #malfoid #anime #harrypotter #audiobook #fantasy | Saved | [YouTube](https://www.youtube.com/watch?v=O2IjYbAsOTg)
+- 2026-11-06 | The Measure of a Malfoy   Book 2   Proper Conduct #malfoid #anime e #harrypotter #audiobook #fantasy | Saved | [YouTube](https://www.youtube.com/watch?v=-RMsb5VBDtw)
+- 2026-11-06 | The Measure of a Malfoy   Book 3   The Polyjuice Mix-Up! #malfoid #anime #harrypotter  #audiobook | Saved | [YouTube](https://www.youtube.com/watch?v=LDgNwKSaluw)
+- 2026-11-06 | The Measure of a Malfoy   Book 2   Would You Tell Mum #malfoid #anime  #harrypotter #audiobook | Saved | [YouTube](https://www.youtube.com/watch?v=c_Laz-VbrXI)
 - 2026-11-06 | The Measure of a Malfoy  - Lost Chapters - Book 1 - The Otherside of Midnight | Saved | [YouTube](https://www.youtube.com/watch?v=9UmI8HeoBNo)
 - 2026-11-06 | The Measure of a Malfoy  - Book 3 -  THE DIARY ANSWERS #malfoid #anime #harrypotter #audiobook | Saved | [YouTube](https://www.youtube.com/watch?v=MkyHNpwia60)
+- 2026-11-06 | The Measure of a Malfoy  - Book 2 -  The Full Name #malfoid #anime #harrypotter #audiobook #fantasy | Saved | [YouTube](https://www.youtube.com/watch?v=O2IjYbAsOTg)
 - 2026-11-09 | The Measure of a Malfoy  ~ Year Four  ~  The Name Between Them | Saved | [YouTube](https://www.youtube.com/watch?v=ULgEgBRPeHY)
 - 2026-11-10 | THE MEASURE OF A MALFOY — YEAR THREE: THE GIRL WHO LOOKED AWAY - PART 1 OF 4 | Saved | [YouTube](https://www.youtube.com/watch?v=IpaWHKH0O6Y)
 - 2026-11-11 | THE MEASURE OF A MALFOY — YEAR THREE: THE GIRL WHO LOOKED AWAY - PART 2 OF 4 | Saved | [YouTube](https://www.youtube.com/watch?v=g08SLwXe4X4)
@@ -927,6 +1346,15 @@ Uploaded | Title | Status | Link, grouped by channel.
 - 2026-11-17 | THE MEASURE OF A MALFOY — YEAR FOUR: THE NAME BETWEEN THEMPART 1 OF 4 — THE FOURTH NAME | Saved | [YouTube](https://www.youtube.com/watch?v=cYF_-oFELPU)
 - 2026-11-17 | The Measure of a Malfoy — Year Five: The Hand She Offered \| Full Harry Potter AU Audiobook | Saved | [YouTube](https://www.youtube.com/watch?v=PBug5a7Xx4E)
 - 2026-11-18 | THE MEASURE OF A MALFOY - YEAR FOUR: THE NAME BETWEEN THEM PART 2 OF 4 -AN INVITATION, PROPERLY MADE | Saved | [YouTube](https://www.youtube.com/watch?v=y1TXHuY8vLI)
+
+## stressa
+
+- ? | Chapter I: 10 Things I Hate About Potter [fmv] | To download | [YouTube](https://www.youtube.com/watch?v=aoQMJQRVass)
+- ? | Chapter II: 10 Things I Hate About Potter [fmv] | To download | [YouTube](https://www.youtube.com/watch?v=7j-cmn909yo)
+
+## Studio Magii 
+
+- ? | HARRY I KLĄTWA DRACONA MALFOYA • Dziedzic Przebudzony • AudioBook | To download | [YouTube](https://www.youtube.com/watch?v=guf-Kp2Z5aQ)
 
 ## Sweet Yeetus
 
@@ -938,9 +1366,18 @@ Uploaded | Title | Status | Link, grouped by channel.
 - 2026-11-09 | TEAR IT DOWN! \| A Full Malfoid Rewrite of The Philosopher's Stone (That Keeps Everything the Same?) | Saved | [YouTube](https://www.youtube.com/watch?v=Bdfc1wmbMAs)
 - 2026-11-16 | Chamber of Secrets is Pure Malfoid GOLD! \| A Deep Dive and Rewrite | Saved | [YouTube](https://www.youtube.com/watch?v=qj8fEJ86McU)
 
+## TAIROOM
+
+- ? | Dracina Malfoy 💔 A Return to Memory｜The Love Story of Harry & Malfoy｜Cinematic BGM | To download | [YouTube](https://www.youtube.com/watch?v=o181_cjDv2E)
+
 ## TaleEngine
 
 - ? | Harry Potter & Draconia Malfoid: A Place in the sky \| Chapter 4 \| | To download | [YouTube](https://www.youtube.com/watch?v=zS2gv2rAfZY)
+- ? | Harry Potter & Draco Malfoid: A Love Story That Was Never Meant to Happen \| Chapter 1 | To download | [YouTube](https://www.youtube.com/watch?v=zB9uRF3FkWI)
+
+## Tales in Melody
+
+- ? | What If Harry Married Malfoid? | To download | [YouTube](https://www.youtube.com/watch?v=_-jKEw70QQg)
 
 ## tamara lucia clips
 
@@ -949,6 +1386,10 @@ Uploaded | Title | Status | Link, grouped by channel.
 ## Tatoru
 
 - ? | The Words Malfoy Wants to Say to You... [Comic Dub] | To download | [YouTube](https://www.youtube.com/watch?v=BD1zzytFfXQ)
+
+## The Amazing Spider-Gaming 
+
+- ? | Malfoid y Harry Potter Español Latino Invitación Fandub Prueba de Voz de Harry | To download | [YouTube](https://www.youtube.com/watch?v=GZ9hr4QXRmo)
 
 ## The Magnus Show
 
@@ -980,6 +1421,22 @@ Uploaded | Title | Status | Link, grouped by channel.
 - ? | What if Draco Malfoy was born a girl... and YOU picked the ending? #animation #harrypotter | To download | [YouTube](https://www.youtube.com/watch?v=R6y_kr9uH6s)
 - ? | What if Draco Malfoy was born a girl? #harrypotter #whatif #dracomalfoy | To download | [YouTube](https://www.youtube.com/watch?v=nWA_jIf9ui8)
 
+## the_end
+
+- ? | Absolute Yearning ✨ Chapter Four \| Harry Potter Fanfiction Audiobook \| Harry x Malfoid \| Author read | To download | [YouTube](https://www.youtube.com/watch?v=yeqPfS8YBOQ)
+- ? | Absolute Yearning ✨ Chapter two \| Harry Potter Fanfiction Audiobook \| Harry x Malfoid \| Author Read | To download | [YouTube](https://www.youtube.com/watch?v=hjdW8WvljW8)
+- ? | Absolute Yearning ✨ Chapter Eight \| Harry Potter Fanfic Audiobook \| Harry x Malfoid \| Author read | To download | [YouTube](https://www.youtube.com/watch?v=iNvbNsPadqc)
+- ? | Absolute Yearning ✨ Chapter Nine \| Harry Potter Fanfiction Audiobook \| Harry x Malfoid \| Author read | To download | [YouTube](https://www.youtube.com/watch?v=LZxJANB2Rao)
+- ? | Absolute Yearning ✨ Chapter Six \| Harry Potter Fanfiction Audiobook \| Harry x Malfoid \| Author read | To download | [YouTube](https://www.youtube.com/watch?v=Apc0VI5JPXU)
+- ? | Absolute Yearning ✨ Chapter Five \| Harry Potter Fanfiction Audiobook \| Harry x Malfoid \| Author read | To download | [YouTube](https://www.youtube.com/watch?v=jZUsYizchIQ)
+- ? | Absolute Yearning ✨ Chapter Fifteen \| Harry Potter Fanfic Audiobook \| Harry x Malfoid \| Author Read | To download | [YouTube](https://www.youtube.com/watch?v=dGrxhvx-E0Q)
+- ? | Absolute Yearning ✨ Chapter Ten \| Harry Potter Fanfiction Audiobook \| Harry x Malfoid \| Author read | To download | [YouTube](https://www.youtube.com/watch?v=nzbrA5vMPWA)
+- ? | Absolute Yearning ✨ Chapter Twelve \| Harry Potter Fanfic Audiobook \| Harry x Malfoid \| Author read | To download | [YouTube](https://www.youtube.com/watch?v=vDeufZfF0rY)
+- ? | Absolute Yearning ✨ Chapter Eleven \| Harry Potter Fanfic Audiobook \| Harry x Malfoid \| Author read | To download | [YouTube](https://www.youtube.com/watch?v=7PYEtp8Y1WE)
+- ? | Absolute Yearning ✨ Chapter Seven \| Harry Potter Fanfic Audiobook \| Harry x Malfoid \| Author read | To download | [YouTube](https://www.youtube.com/watch?v=6Xx872a4K_Y)
+- ? | Absolute Yearning ✨ Chapter Fourteen \| Harry Potter Fanfic Audiobook \| Harry x Malfoid \| Author read | To download | [YouTube](https://www.youtube.com/watch?v=eOc6fdVwE10)
+- ? | Absolute Yearning ✨ Chapter Three \| Harry Potter Fanfic Audiobook \| Harry x Malfoid \| Author read | To download | [YouTube](https://www.youtube.com/watch?v=GjY_XbwhTO4)
+
 ## THRILLEX VA
 
 - ? | Malfoid And Potter Family 💚❤️ (Draco Malfoid x Harry Potter Comic Dub) | To download | [YouTube](https://www.youtube.com/watch?v=lFA-adRP8kI)
@@ -993,17 +1450,27 @@ Uploaded | Title | Status | Link, grouped by channel.
 - 2026-10-30 | The 24 Most-Liked Malfoid Comic Dubs (Vol. 8) | Saved | [YouTube](https://www.youtube.com/watch?v=azwQMl9cxmk)
 - 2026-11-08 | The 8 Best New Malfoid Comic Dubs (Vol. 16) | Saved | [YouTube](https://www.youtube.com/watch?v=pl0F3R4D8-c)
 
+## TophatTurtleVA
+
+- ? | So they just let anyone into Hogwarts? [BlackWhiplash Comic Dub] | To download | [YouTube](https://www.youtube.com/watch?v=h-685MV1GpI)
+
 ## Trafulgoth
 
 - ? | MALFOID - What If I Was | To download | [YouTube](https://www.youtube.com/watch?v=SJH7qX4ndBk)
 
-## Trish_Dubs and Adam Dubs
+## Trish_Dubs
 
-- ? | When Miss Malfoy Crosses the Line... 😳Malfoy Angst Comic Dub #HarryPotter #DracoMalfoy #malfoy | To download | [YouTube](https://www.youtube.com/watch?v=EI1TC_C18UA)
+- 2026-10-09 | When Miss Malfoy Crosses the Line... 😳Malfoy Angst Comic Dub #HarryPotter #DracoMalfoy #malfoy | To download | [YouTube](https://www.youtube.com/watch?v=EI1TC_C18UA)
 
 ## UNIQLODUB
 
 - ? | Female Draco Malfoy and Harry Potter kissed😱\| Harry Potter x Malfoid | To download | [YouTube](https://www.youtube.com/watch?v=ftjOAeEXql8)
+- ? | Female Draco Malfoy asked him to stop, but no🤤\| Harry Potter x Malfoid | To download | [YouTube](https://www.youtube.com/watch?v=SLFtJIb4at0)
+- ? | Harry Potter finally figured out what Malfoy wanted from him🤤\| Harry Potter x Malfoid | To download | [YouTube](https://www.youtube.com/watch?v=toTgIjMLHog)
+
+## VamZack WaifuVerse
+
+- 2026-10-21 | 🐍💚 What if Draco Malfoy had a gender-swapped version? ✨❤️ | To download | [YouTube](https://www.youtube.com/watch?v=7A_Q3ZGymGo)
 
 ## Velari (Velaricomic)
 
@@ -1018,10 +1485,29 @@ Uploaded | Title | Status | Link, grouped by channel.
 
 - ? | What If Draconia Malfoy Also Lived In Privet Drive? (MALFOID) | To download | [YouTube](https://www.youtube.com/watch?v=5y4bavu0S-E)
 
+## Virgo Lecturas and The Virgin
+
+- ? | Starting the TRUE Harry Potter story... (Malfoid x Harry) | To download | [YouTube](https://www.youtube.com/watch?v=xEHuBtUf-G8)
+
+## Visions of Past and Future
+
+- ? | Winter Blade part 1 \| a Winter Malfoy Story | To download | [YouTube](https://www.youtube.com/watch?v=rf4AveyV2Rs)
+- ? | Winter Blade part 2 \| a Winter Malfoy Story | To download | [YouTube](https://www.youtube.com/watch?v=s7SPH4uW-tI)
+
+## Vivi Wobbles
+
+- ? | @Strittposter #harrypotter #comicdub | To download | [YouTube](https://www.youtube.com/watch?v=mPaAXKd-_Gw)
+- ? | Malfoid vs Potter - Who won? #harrypotter #dracomalfoy #comicdub #malfoid | To download | [YouTube](https://www.youtube.com/watch?v=ZUNt61o8_vA)
+- ? | Lady-Snape! #harrypotter #harrypotterfan #ladysnap #Malfoid #comicdub | To download | [YouTube](https://www.youtube.com/watch?v=YbmM172lc6Q)
+
 ## Voiced Comics
 
 - ? | Maybe Ron Found the Wrong Secret... \| Fem Malfoy Comic Dub | To download | [YouTube](https://www.youtube.com/watch?v=TJpgu-rGOSs)
 - ? | Ron & Hermione CAUGHT Harry With Female Draco After Curfew?! 😳❤️ \| Malfoid Comic Dub | To download | [YouTube](https://www.youtube.com/watch?v=bOgdUPoP9V0)
+
+## Webtoon Fandub
+
+- 2026-10-19 | ¿MALFOY MUJER? 😍 Harry Potter Comic Fandub #harrypotter #malfoy #hogwarts | To download | [YouTube](https://www.youtube.com/watch?v=Y5JnHLl33Ug)
 
 ## What If Academy
 
@@ -1057,13 +1543,48 @@ Uploaded | Title | Status | Link, grouped by channel.
 
 - ? | HARRY POTTER meets MALFOY... A GIRL!?!?!??! [Comic Dub] | To download | [YouTube](https://www.youtube.com/watch?v=Tn9S_LBUg18)
 
+## Yolu
+
+- ? | Cold, Sharp Malfoid — Her Deepest Tenderness \| The Black Lake: Prologue | To download | [YouTube](https://www.youtube.com/watch?v=ccH72XkueTk)
+
+## YuGong玉宫
+
+- ? | Miss Malfoy/Perhaps in a paralleluniverse, their story unfoldslike this | To download | [YouTube](https://www.youtube.com/watch?v=NQ-3KT-ODzg)
+
+## Yuri Phantom Dubs
+
+- ? | 💚Practicing Together🐍\| #malfoid @ZeyHashimoto #harrypotter #dracomalfoy | To download | [YouTube](https://www.youtube.com/watch?v=zHqyBLh0SXg)
+- ? | 💚Malfoid x Harry (ep 1 to 6) Latin Spanish \| Fandub #malfoy #malfoid #dracomalfoy #harrypotter | To download | [YouTube](https://www.youtube.com/watch?v=Aa1h4pvamCo)
+- ? | 🐍What are you doing, Potter?💚 \| Latin Fandub Part 1 \| creator:@Liveryn_nikke #malfoy #harrypotter... | To download | [YouTube](https://www.youtube.com/watch?v=OdcnrqR2Prc)
+
 ## ZChannel
 
 - ? | DRACONIA MALFOY - THE UNTOLD STORIES The first time Harry Potter meet Malfoy | To download | [YouTube](https://www.youtube.com/watch?v=KOTcZ4jTtx4)
 
+## ZenvyTV
+
+- ? | malfoid love potion story  | To download | [YouTube](https://www.youtube.com/watch?v=2PO2-09ydNU)
+
+## Zeta Fandubs
+
+- ? | Malfoid no estaba preguntando - Parte 1 \| (Fandub Latino) | To download | [YouTube](https://www.youtube.com/watch?v=c68TLCW9Y_I)
+
+## Đọc Truyện Ngày Rảnh
+
+- 2026-10-10 | Harry Potter Fanfic: Tiểu Thư Phản Diện Malfoy (Phần 1) (Reup) | To download | [YouTube](https://www.youtube.com/watch?v=x7GQi8I5luc)
+
 ## 二段式左轉
 
 - ? | What if Draco Malfoy was a girl...with Helltaker Dance | To download | [YouTube](https://www.youtube.com/watch?v=KJjZD58GUEE)
+
+## 小宇Chengzi
+
+- ? | It feels like our story is just beginning... ❤️A Little Romance · Malfoy EP.01 | To download | [YouTube](https://www.youtube.com/watch?v=Mb_WMtpP3QA)
+- ? | In a parallel universe...What kind of Miss Malfoy would you meet? ❤️The Malfoy Story · EP.03 | To download | [YouTube](https://www.youtube.com/watch?v=3bPXDl8T4Go)
+
+## 曉人Channel
+
+- ? | [Harry Potter Fanfic] The Arrogant Miss Malfoy is Back! The Chosen One Harry Can't Escape Today \|... | To download | [YouTube](https://www.youtube.com/watch?v=J4EQy5OdEFU)
 
 ## 灵异禁区 AI Move
 
@@ -1072,6 +1593,11 @@ Uploaded | Title | Status | Link, grouped by channel.
 ## 等一下就回家
 
 - ? | 【What If…? Harry Potter 】EP1—prod. by @Fo_yege1664  #harrypotter #dracomalfoy #whatif #aigc | To download | [YouTube](https://www.youtube.com/watch?v=E0Lrl-kkeuI)
+- ? | 【What If…? Harry Potter 】EP2—prod. by @Fo_yege1664  #harrypotter #dracomalfoy #whatif #aigc | To download | [YouTube](https://www.youtube.com/watch?v=16G8waY4Q1Q)
+
+## 維真電繪筆記
+
+- ? | 如果馬份變成女生？🐍｜跩哥・馬份性轉電繪縮時 What If Draco Malfoy Were a Girl? 🐍 \| Genderbend Speedpaint | To download | [YouTube](https://www.youtube.com/watch?v=dSRdQWvCik0)
 
 ## 룰루잼
 
@@ -1080,10 +1606,15 @@ Uploaded | Title | Status | Link, grouped by channel.
 ## 비밀포터
 
 - ? | The Yule Ball – What If Malfoy Were the Female Lead? [Harry Potter & Malfoy] | To download | [YouTube](https://www.youtube.com/watch?v=IrUo-p2NYuw)
+- ? | [Malfoy X Harry Potter] What If Malfoy Was a Girl? | To download | [YouTube](https://www.youtube.com/watch?v=jP9fn8KB-9o)
 
 ## 에이머신
 
 - ? | What If Draco Malfoy Was a Girl? 💚❤️(해리포터 💚❤️말포이) | To download | [YouTube](https://www.youtube.com/watch?v=OkWy02AiOSw)
+
+## 여행자
+
+- ? | Any Story Can Be Rewritten \| What TS Malfoy Shows Us | To download | [YouTube](https://www.youtube.com/watch?v=64i2LW9ylQ0)
 
 ## 진짜히로인은바로나
 

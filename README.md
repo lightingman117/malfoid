@@ -16,7 +16,8 @@ This archive is listed in the **Malfoid Index**, a curated directory of Malfoid 
 - `lists/authors.md`: every author we archive, by type, with links to where their videos are.
 - `lists/youtube/`: the YouTube master list as Markdown: `channels.md` (every channel we follow, how many Malfoid videos, how many saved) and `videos-<category>-<part>.md` (every Malfoid video by channel, with its status). Search it with GitHub search.
 - `lists/x/`: Malfoid videos (`videos-<part>.md`) and Malfoid fiction (`literature-<part>.md`) posted on X, by creator, with their status. A video that is also archived from YouTube is marked "Skipped (YouTube copy)".
-- `tools/master/`: the same master lists as tab-separated files (`youtube-channels.tsv`, `youtube-videos.tsv`, `x-videos.tsv`, `x-literature.tsv`, `x-literature-creators.tsv`); `tools/master_md.py` turns them into the Markdown pages.
+- `lists/bili/`: Malfoid videos posted on Bilibili (`videos-<part>.md`), by creator, with their status. A video that is also archived from YouTube is marked "Skipped (YouTube copy)".
+- `tools/master/`: the same master lists as tab-separated files (`youtube-channels.tsv`, `youtube-videos.tsv`, `x-videos.tsv`, `x-literature.tsv`, `x-literature-creators.tsv`, `bili-videos.tsv`); `tools/master_md.py` turns them into the Markdown pages.
 - `tools/`: the ytdl-sub setup (Malfoid subscriptions, config, cron line) and the scripts that build these lists and pull from archive.org. Paths are placeholders: `<CONFIG_DIR>` is your ytdl-sub config folder, `<TV_SHOWS_DIR>` your TV-shows folder.
 
 ## Folder names

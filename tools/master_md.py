@@ -35,7 +35,7 @@ for c, rs in sorted(vids.items()):
 XO = 'lists/x'; os.makedirs(XO, exist_ok=True)
 def xlist(src, name, title, intro, cols, line):
     if not os.path.exists(os.path.join(SRC, src)): return
-    rs = sorted(rows(src), key=lambda r: (r['Creator'].lower(), r['Posted']))
+    rs = sorted(rows(src), key=lambda r: (r['Creator'].lower(), r.get('Posted') or r.get('Uploaded') or ''))
     part, size, f, last = 0, 0, None, None
     for r in rs:
         s = line(r)
@@ -54,3 +54,8 @@ xlist('x-videos.tsv', 'videos', 'X Malfoid videos', 'Videos posted on X that we 
 xlist('x-literature.tsv', 'literature', 'X Malfoid fiction', 'Malfoid stories posted on X, one row per chapter or post.',
       'Posted | Work | Chapter | Status | Link',
       lambda r: f"- {r['Posted']} | {esc(r['Work'])} | {esc(r['Chapter'])} | {r['Status']} | " + (f"[X]({r['Link']})" if r['Link'] else '(not found yet)') + '\n')
+# ---- Bilibili
+XO = 'lists/bili'; os.makedirs(XO, exist_ok=True)
+xlist('bili-videos.tsv', 'videos', 'Bilibili Malfoid videos', 'Videos on Bilibili that we count as Malfoid. "Skipped (YouTube copy)" = the same video is archived from YouTube.',
+      'Uploaded | Title | Status | Category | Link',
+      lambda r: f"- {r['Uploaded']} | {esc(r['Title'])} | {r['Status']} | {r['Category']} | [Bilibili]({r['Link']})" + (f" [YouTube]({r['YouTube copy']})" if r['YouTube copy'] else '') + '\n')
